@@ -1,4 +1,4 @@
-# # [My Cute lil' website](https://jpvinnie.github.io)
+# [My Cute lil' website](https://jpvinnie.github.io)
 
 My cute lil' website made :)
 

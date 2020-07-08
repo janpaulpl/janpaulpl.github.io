@@ -3,4 +3,4 @@
 ### A cute little home page I made for everyone/anyone to view my profile and projects :)
 
 * [Email if it's really important](mailto:JanPaul.Ramos@Protonmail.com)
-* [DM me on Discord for anything](https://discordapp.com/users/294518633541926912)
+* [DM on Discord for anything](https://discordapp.com/users/294518633541926912)

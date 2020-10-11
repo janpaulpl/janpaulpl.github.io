@@ -1,4 +1,4 @@
-# [My Cute lil' website](https://jpvinnie.github.io)
+# [My Cute lil' website](https://jpvinnie.github.io) | [this dude helped](https://github.com/sinearc)
 
 ### A cute little home page I made for everyone/anyone to view my profile and projects :)
 
@@ -6,4 +6,4 @@
 * [DM on Discord for anything](https://discordapp.com/users/294518633541926912)
 
 #### Template for website from this repo
-* [cute template](https://github.com/learning-zone/website-templates/tree/master/3-col-portfolio)
+* [cute template](https://github.com/learning-zone/website-templates/tree/master/3-col-portfolio) 

@@ -1,13 +1,12 @@
 body {
 	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+	position: relative;
 }
+
+.container:nth-child(0) { padding-bottom: 130px }
 
 .portfolio-item {
 	margin-bottom: 25px;
-}
-
-footer {
-	margin: 50px 0;
 }
 
 .row {
@@ -17,8 +16,9 @@ footer {
 
 .page-header {
 	margin: auto;
-	margin-top: 25px;
-	margin-bottom: 25px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-bottom: 15px;
 }
 
 h1>small {
@@ -47,4 +47,16 @@ h3>a[href] {
 
 .navbar-inverse .navbar-brand {
 	color: azure
+}
+
+/** FOOTER AREA **/
+#footer-container.container {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
+
+footer {
+	margin: 50px 0;
 }

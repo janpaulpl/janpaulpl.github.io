@@ -28,6 +28,8 @@ h1>small {
 img {
 	width: auto;
 	max-height: 150px;
+	border-radius: 15px;
+	border-bottom: 5px solid #12772b;
 }
 
 a~h3 {

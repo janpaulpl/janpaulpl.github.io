@@ -26,7 +26,8 @@ h1>small {
 }
 
 img {
-	max-height: 200px;
+	width: auto;
+	max-height: 150px;
 }
 
 a~h3 {

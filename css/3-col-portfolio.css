@@ -9,3 +9,43 @@ body {
 footer {
 	margin: 50px 0;
 }
+
+.row {
+	width: 80
+	%;
+	margin: auto
+}
+
+.page-header {
+	margin: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+h1>small {
+	margin: 10px;
+}
+
+img {
+	max-height: 200px;
+}
+
+a~h3 {
+	margin-top: 10px;
+}
+
+p>a[href] {
+	color: #1fbd46
+}
+
+h3>a[href] {
+	color: #12772b
+}
+
+.navbar {
+	background-color: #335033
+}
+
+.navbar-inverse .navbar-brand {
+	color: azure
+}

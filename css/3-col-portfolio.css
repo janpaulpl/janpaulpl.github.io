@@ -62,3 +62,11 @@ h3>a[href] {
 	color: azure
 }
 
+#fuckthat {
+	padding-top: 20px;
+	padding-left: -20px;
+}
+
+#textbox {
+	margin: 10px;
+}

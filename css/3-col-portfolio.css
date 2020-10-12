@@ -70,3 +70,32 @@ h3>a[href] {
 #textbox {
 	margin: 10px;
 }
+
+/* about.html list itens */
+
+#aboutlistitem>div>li {
+    border: 2px solid #12772b;
+    border-radius: 15px;
+    height: 90px;
+    box-sizing: border-box;
+    display: block;
+    margin-left: 15px;
+} 
+
+#aboutlistitem>div>li>p {
+    padding-left: 15px;
+
+}
+
+#aboutlistitem>div>li>a {
+    padding-top: 10px;
+    padding-left: 15px;
+    font-size: 25px;
+    display: block;
+
+}
+
+#aboutlistitem>div>h2 {
+	padding-bottom: 10px;
+	font-weight: bold
+}

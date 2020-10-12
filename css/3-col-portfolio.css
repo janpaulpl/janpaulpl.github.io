@@ -1,12 +1,12 @@
 html {
 	margin: 0px;
-	paddding: 0px;
+	padding: 0px;
 	width: 100%;
 	overflow-x: hidden;
 }
 
 body {
-	margin-top: 50px; 
+	margin-top: 50px;
 	/* 50px is the height of the navbar - change this if the navbarn height changes */
 }
 
@@ -72,7 +72,6 @@ h3>a[href] {
 
 #fuckthat {
 	padding-top: 20px;
-	padding-left: -20px;
 }
 
 #textbox {
@@ -84,7 +83,7 @@ h3>a[href] {
 #aboutlistitem>div>li {
     border: 2px solid #12772b;
     border-radius: 15px;
-    height: 90px;
+    height: auto;
     box-sizing: border-box;
     display: block;
     margin-left: 15px;
@@ -92,18 +91,24 @@ h3>a[href] {
 
 #aboutlistitem>div>li>p {
     padding-left: 15px;
+    font-size: 1.7vw;
 
 }
 
 #aboutlistitem>div>li>a {
     padding-top: 10px;
     padding-left: 15px;
-    font-size: 25px;
+    font-size: 2vw;
     display: block;
 
 }
 
 #aboutlistitem>div>h2 {
 	padding-bottom: 10px;
-	font-weight: bold
+	font-weight: bold;
+	font-size: 2.5vw;
+}
+
+#aboutlistitem>div {
+	padding-bottom: 10px;
 }

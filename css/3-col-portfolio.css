@@ -3,7 +3,13 @@ body {
 }
 
 .portfolio-item {
+	height: 300px;
 	margin-bottom: 25px;
+	border: 5px solid #12772b;
+	border-radius: 15px;
+	box-sizing: border-box;
+	margin: 20px;
+
 }
 
 footer {
@@ -28,16 +34,20 @@ h1>small {
 img {
 	width: auto;
 	max-height: 150px;
-	border-radius: 15px;
-	border-bottom: 5px solid #12772b;
+	margin: auto;
+	margin-top: 8px;
+	border-radius: 8px;
+
 }
 
 a~h3 {
 	margin-top: 10px;
+
 }
 
 p>a[href] {
 	color: #1fbd46
+
 }
 
 h3>a[href] {
@@ -51,3 +61,4 @@ h3>a[href] {
 .navbar-inverse .navbar-brand {
 	color: azure
 }
+

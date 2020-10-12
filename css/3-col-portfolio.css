@@ -1,5 +1,13 @@
+html {
+	margin: 0px;
+	paddding: 0px;
+	width: 100%;
+	overflow-x: hidden;
+}
+
 body {
-	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+	margin-top: 50px; 
+	/* 50px is the height of the navbar - change this if the navbarn height changes */
 }
 
 .portfolio-item {

@@ -112,3 +112,16 @@ h3>a[href] {
 #aboutlistitem>div {
 	padding-bottom: 10px;
 }
+
+#bannersubhead {
+	text-align: center; 
+	width: 70%; 
+	margin: auto;
+}
+
+#banner {
+	margin-left: auto; 
+	margin-right: auto; 
+	width: 50%; 
+	display: block;
+}

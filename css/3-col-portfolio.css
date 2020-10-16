@@ -16,7 +16,7 @@ body {
 
 .portfolio-item {
 	min-height: fit-content;
-	max-height: fit-content;
+	max-height: 40vh;
 	margin-bottom: 25px;
 	border: 5px solid #12772b;
 	border-radius: 10px;

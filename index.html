@@ -1,139 +1,276 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
+<html>
+<head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Jan Paul V. Ramos' website">
 
-    <title>JP's Projects</title>
+    <title>jpVinnie</title>
 
     <!-- Very Awesome icon that goes in the tab-->
     <link rel="shortcut icon" type="image/png" href="pics/favicon.png">
+    <style>
 
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+        body {
+            width: fit-content;
+            margin-left: auto;
+            margin-right: auto;
+            overflow-x: hidden;
+        }
 
-    <!-- Custom CSS for the '3 Col Portfolio' Template -->
-    <link href="css/3-col-portfolio.css" rel="stylesheet">
-  </head>
+        .flex-container-row {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            overflow-x: hidden;
+            margin-left: auto;
+            margin-right: auto;
+        }
 
-  <body>
+        .img-responsive {
+            max-height: 234px;
+        }
+        .flex-item {
 
-    <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="https://github.com/jpVinnie" target="_blank">My GitHub Page</a>
-        </div>
+        }
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-          <ul class="nav navbar-nav">
-            <li><a href="./index.html">Home</a></li>
-            <li><a href="./about.html">About</a></li>
-            <li><a href="./contact.html">Contact</a></li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
-      </div><!-- /.container -->
-    </nav>
+        .project {
+            padding: 15px;
+            margin: 10px;
+            border: solid 5px green;
+        }
 
-    <div class="container">
+        html {
+            background-color: white;
+        }
+        
+        p {
+            color:black;
+        }
 
-      <div class="row">
+        .social {
+            display:flex;
+            flex-direction: column;
+            text-align: center;
+            margin: 10px;
+            padding: 15px;
+            border: solid 5px green;
+        }
 
-        <div class="col-lg-12">
-          <h1 class="page-header">All My Projects<small> Contributions and Original works</small></h1>
-        </div>
+        .socialicon {
+          max-width: 5vw;
+        }
 
-      </div>
+        .header {
+            display: block;
+            color: black;
+            font-size: 20px;
+            font-weight: bold;
+            margin-left: 10px;
+            margin-bottom: 15px;
+            margin-top: 15px;
+        }
 
-      <div class="row">
+        .worklist {
+            display: flex;
+            flex-direction: column;
+        }
 
-        <div class="col-md-4 portfolio-item">
-          <a href="https://github.com/Camto/Lad" target="_blank">
+        .workitem {
+            margin: 10px;
+            padding: 15px;
+            border: solid 5px green;
+            max-width: 50%;
+        }
+
+        .aboutbanner {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            justify-content: left;
+            align-items: center;
+            height: 60px;
+            background-color: black;
+            width: 100vw;
+            overflow-x: hidden;
+
+        }
+
+        .navitem {
+            padding-left: 2vw;
+        }
+
+        a[href] {
+            color: rgb(3, 190, 3);
+        }
+
+    </style>
+</head>
+
+<body>
+    <!-- navbar -->
+    <div class="flex-container-row" id="navbar">
+        <div class="navitem"><a href="https://github.com/jpVinnie" target="_blank">My GitHub Page</a></div>
+        <div class="navitem"><a href="./index.html">Home</a></div>
+        <div class="navitem"><a href="./about.html">About</a></div>
+        <div class="navitem"><a href="./contact.html">Contact</a></div>
+    </div>
+
+    <div style="height: 60px;"></div>
+
+    <!-- projects -->
+    <span class="header">My Projects</span>
+    <div class="flex-container-row">
+        <div class="grid-item project">
+            <a href="https://github.com/Camto/Lad" target="_blank">
             <img class="img-responsive" src="https://raw.githubusercontent.com/Camto/Lad/master/Images/Banner.png">
-          </a>
-          <div id="boxtext">
+            </a>
+            <div id="boxtext">
             <h3>
-              <a href="https://github.com/Camto/Lad" target="_blank" id="fuckthat">
+                <a href="https://github.com/Camto/Lad" target="_blank" id="fuckthat">
                 Discord Ladbot
-              </a>
+                </a>
             </h3>
             <p>Ladbot is a Discord bot whose purpose is to entertain those who are bored.</p>
             <p>
-              <a href="https://discord.com/oauth2/authorize?client_id=709644595104972890&permissions=8&scope=bot">
+                <a href="https://discord.com/oauth2/authorize?client_id=709644595104972890&permissions=8&scope=bot">
                 Click here to add the bot to your server!
+                </a>
+            </p>
+            </div>
+        </div>
+        <!-- entry -->
+        <div class="flex-item project">
+            <a href="https://github.com/jpVinnie/Research-Projects" target="_blank" >
+            <img class="img-responsive" src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/pics/tmp11.png">
+            </a>
+            <div id="boxtext">
+            <h3>
+                <a href="https://github.com/jpVinnie/Research-Projects" target="_blank" id="fuckthat">
+                Research Projects
+                </a>
+            </h3>
+            <p>Archive of all my past research projects.</p>
+            </div>
+        </div>
+        <!-- entry-->
+        <div class="flex-item project">
+            <a href="https://github.com/CodeIGuess/Robotics" target="_blank">
+            <img class="img-responsive" src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/pics/tmp1.png">
+            </a>
+            <div id="boxtext">
+            <h3>
+                <a href="https://github.com/CodeIGuess/Robotics" target="_blank" id="fuckthat">
+                Robotics Projects
+                </a>
+            </h3>
+            <p>Robotics projects regarding my VEX Robotics Team.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- social -->
+    <span class="header">Contact</span>
+    <div class="flex-container-row">
+        <div class="social flex-item">
+            <a href="https://discord.com/users/294518633541926912" target="_blank">
+            <p>Discord</p>
+            <img class="socialicon" src="pics/discord.png" alt="Discord">
+            </a>
+        </div>
+        <div class="social flex-item">
+            <a href="https://www.reddit.com/user/Stenfor" target="_blank">
+            <p>Reddit</p>
+            <img class="socialicon" src="pics/reddit.png" alt="Reddit">
+            </a>
+        </div>
+        <div class="social flex-item">
+            <a href="https://www.youtube.com/channel/UCD6b4d3B_u7fct5YypG0Wow" target="_blank">
+            <p>YouTube</p>
+            <img class="socialicon" src="pics/youtube.png" alt="YouTube">
+            </a>
+        </div>
+        <div class="social flex-item">
+            <a href="https://twitter.com/jp_vinnie" target="_blank">
+            <p>Twitter</p>
+            <img class="socialicon" src="pics/twitter.png" alt="Twitter">
+            </a>
+        </div>
+        <div class="social flex-item">
+        <a href = "mailto: abc@example.com">
+            <p>Email</p>
+            <img class="socialicon" src="pics/protonmail.png" alt="ProtonMail">
+        </a>
+        </div>
+    </div>
+
+    <!-- about -->
+    <span class="header">About Me</span>
+    <div>
+        <div class="aboutbanner">
+            <img src="pics/banner.png" alt="banner" id="banner">
+          <div>
+            <p id="bannersubhead">
+              <a href="https://matias.ma/nsfw/" target="_blank">
+              Dude interested in computational theory/games
               </a>
             </p>
           </div>
         </div>
-
-        <div class="col-md-4 portfolio-item">
-          <a href="https://github.com/jpVinnie/Research-Projects" target="_blank" >
-            <img class="img-responsive" src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/pics/tmp11.png">
-          </a>
-          <div id="boxtext">
-            <h3>
-              <a href="https://github.com/jpVinnie/Research-Projects" target="_blank" id="fuckthat">
-                Research Projects
+        <span class="header">Currently working on:</span>
+        <div class="worklist">
+            <div class="workitem">
+              <a href="https://github.com/CodeIGuess/Robotics">
+                VEX Robotics
               </a>
-            </h3>
-            <p>Archive of all my past research projects.</p>
-          </div>
-        </div>
-
-        <div class="col-md-4 portfolio-item">
-          <a href="https://github.com/CodeIGuess/Robotics" target="_blank">
-            <img class="img-responsive" src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/pics/tmp1.png">
-          </a>
-          <div id="boxtext">
-            <h3>
-              <a href="https://github.com/CodeIGuess/Robotics" target="_blank" id="fuckthat">
-                Robotics Projects
+              <p>
+                University Gardens High School Robotics Team. 2020-2021: Change Up
+              </p>
+            </div>
+            <div class="workitem">
+              <a href="https://github.com/jpVinnie/MathInv-2021">
+                Joint High School Research Paper
               </a>
-            </h3>
-            <p>Robotics projects regarding my VEX Robotics Team.</p>
-          </div>
+              <p>
+                Computational Analysis of Differential Equations using Types and Numerical Algorithms
+              </p>
+            </div>
         </div>
 
-      </div>
-
-      <hr>
-
-    </div><!-- /.container -->
-
-    <div class="container">
-
-      <hr>
-
-      <footer>
-        <div class="row">
-          <style>
-            li {
-              margin-top: 10px;
-            }
-            </style>
-          <div class="col-lg-12">
-            <p>Copyright &copy; Jan-Paul V. Ramos <span id="getCurrentDate"></span></p>
-          </div>
+        <span class="header">Proud of:</span>
+        <div class="worklist">
+            <div class="workitem">
+              <a href="https://github.com/jpVinnie/Pythagorean-Triples-in-the-Pascal-Triangle">
+                High School Research Paper
+              </a>
+              <p>
+                Pythagorean Triples in the Pascal Triangle
+              </p>
+            </div>
+            <div class="workitem">
+              <a href="https://github.com/jpVinnie/MathInv-202">
+                Joint High School Research Paper
+              </a>
+              <p>
+                Computational Analysis of Differential Equations using Types and Numerical Algorithms
+              </p>
+            </div>
+            <div class="workitem">  
+              <a href="https://github.com/Camto/Lad">
+                Discord Bot - Ladbot 
+              </a>
+              <p>
+                Ladbot is a Discord bot whose purpose is to entertain those who are bored.
+              </p>
+            </div>
         </div>
-      </footer>
+    </div>
 
-    </div><!-- /.container -->
-
-    <!-- JavaScript -->
-    <script src="js/jquery-1.10.2.js"></script>
-    <script src="js/bootstrap.js"></script>
-    <script type="text/javascript">
-      var dt = new Date();
-      document.getElementById('getCurrentDate').innerHTML = dt.getFullYear();
-    </script>
-  </body>
-
+</body>
 </html>

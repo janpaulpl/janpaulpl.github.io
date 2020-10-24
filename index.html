@@ -29,6 +29,7 @@
 
         .img-responsive {
             max-height: 234px;
+            align-self: center;
         }
         .flex-item {
 
@@ -38,6 +39,11 @@
             padding: 15px;
             margin: 10px;
             border: solid 5px green;
+            max-width: 30%;
+        }
+
+        .projdesc {
+          max-width: 95%;
         }
 
         html {
@@ -127,7 +133,7 @@
     <!-- projects -->
     <span class="header">My Projects</span>
     <div class="flex-container-row">
-        <div class="grid-item project">
+        <div class="flex-item project">
             <a href="https://github.com/Camto/Lad" target="_blank">
             <img class="img-responsive" src="https://raw.githubusercontent.com/Camto/Lad/master/Images/Banner.png">
             </a>
@@ -137,8 +143,8 @@
                 Discord Ladbot
                 </a>
             </h3>
-            <p>Ladbot is a Discord bot whose purpose is to entertain those who are bored.</p>
-            <p>
+            <p class="projdesc">Ladbot is a Discord bot whose purpose is to entertain those who are bored.</p>
+            <p class="projdesc">
                 <a href="https://discord.com/oauth2/authorize?client_id=709644595104972890&permissions=8&scope=bot">
                 Click here to add the bot to your server!
                 </a>
@@ -156,7 +162,7 @@
                 Research Projects
                 </a>
             </h3>
-            <p>Archive of all my past research projects.</p>
+            <p class="projdesc">Archive of all my past research projects.</p>
             </div>
         </div>
         <!-- entry-->
@@ -170,7 +176,7 @@
                 Robotics Projects
                 </a>
             </h3>
-            <p>Robotics projects regarding my VEX Robotics Team.</p>
+            <p class="projdesc">Robotics projects regarding my VEX Robotics Team.</p>
             </div>
         </div>
     </div>

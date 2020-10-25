@@ -10,12 +10,24 @@
     <!-- Very Awesome icon that goes in the tab-->
     <link rel="shortcut icon" type="image/png" href="pics/favicon.png">
     <style>
+        :root {
+          --border-color: green;
+          --border-width: 2px;
+          --sec-color: rgb(0, 224, 0);
+        }
+
+        html {
+            background-color:black;
+        }
+      
 
         body {
             width: fit-content;
             margin-left: auto;
             margin-right: auto;
             overflow-x: hidden;
+            font-family: 'Courier New', Courier, monospace;
+        
         }
 
         .flex-container-row {
@@ -31,36 +43,35 @@
             max-height: 234px;
             align-self: center;
         }
+
         .flex-item {
 
         }
 
         .project {
             padding: 15px;
-            margin: 10px;
-            border: solid 5px green;
-            max-width: 30%;
+            margin: 20px;
+            border: solid var(--border-width) var(--border-color);
+            max-width: 20%;
         }
 
         .projdesc {
           max-width: 95%;
         }
 
-        html {
-            background-color: white;
-        }
+
         
         p {
-            color:black;
+            color: var(--sec-color);
         }
 
         .social {
             display:flex;
             flex-direction: column;
             text-align: center;
-            margin: 10px;
+            margin: 15px;
             padding: 15px;
-            border: solid 5px green;
+            border: solid var(--border-width) var(--border-color);
         }
 
         .socialicon {
@@ -69,7 +80,7 @@
 
         .header {
             display: block;
-            color: black;
+            color: var(--sec-color);
             font-size: 20px;
             font-weight: bold;
             margin-left: 10px;
@@ -85,7 +96,7 @@
         .workitem {
             margin: 10px;
             padding: 15px;
-            border: solid 5px green;
+            border: solid var(--border-width) var(--border-color);
             max-width: 50%;
         }
 
@@ -114,6 +125,10 @@
 
         a[href] {
             color: rgb(3, 190, 3);
+        }
+
+        #banner {
+          max-width: 70%;
         }
 
     </style>

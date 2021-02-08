@@ -63,10 +63,6 @@
       border: solid var(--border-width) var(--border-color);
   }
 
-  .socialicon {
-    max-width: 5vw;
-  }
-
   .header {
       display: block;
       color: var(--sec-color);
@@ -124,3 +120,31 @@
   #banner {
     max-width: 70%;
   }
+
+    .socialrow {
+        display: grid;
+        grid-template-columns: 7vw 7vw 7vw 7vw 7vw;
+        column-gap: 1vw;
+        height: 10vw;
+        margin-left: 30vw;
+        margin-right: 30vw;
+    }
+    .socialcontainer {
+        display: block;
+        background-color: black;
+    }
+    .socialcontainer > a {
+        display: grid;
+        grid-template-rows: 5vw;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .socialcontainer > a > img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .socialcontainer > a > p {
+        text-align: center;
+    }

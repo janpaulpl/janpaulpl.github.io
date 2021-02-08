@@ -25,6 +25,7 @@
       overflow-x: hidden;
       margin-left: auto;
       margin-right: auto;
+      flex-wrap: wrap;
   }
 
   .img-responsive {
@@ -147,4 +148,10 @@
 
     .socialcontainer > a > p {
         text-align: center;
+    }
+
+    .project {
+        display: grid;
+        min-width: 200px;
+        grid-template-rows: auto auto auto auto;
     }

@@ -126,8 +126,8 @@
         grid-template-columns: 7vw 7vw 7vw 7vw 7vw;
         column-gap: 1vw;
         height: 10vw;
-        margin-left: 30vw;
-        margin-right: 30vw;
+        width: 100vw;
+        justify-content: center;
     }
     .socialcontainer {
         display: block;

@@ -6,6 +6,7 @@
 
   html {
       background-color:rgb(30, 30, 30);
+			scroll-behavior: smooth;
   }
 
 
@@ -132,7 +133,7 @@
     }
     .socialcontainer {
         display: block;
-        background-color: #1e1e1e;
+        background-color: #242323;
     }
     .socialcontainer > a {
         display: grid;

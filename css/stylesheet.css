@@ -132,7 +132,7 @@
     }
     .socialcontainer {
         display: block;
-        background-color: black;
+        background-color: #1e1e1e;
     }
     .socialcontainer > a {
         display: grid;

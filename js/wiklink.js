@@ -14,7 +14,7 @@ function handleData(data) {
 	for (datum of data.list) {
 		let buildString = []
 		buildString.push(datum.title)
-		buildString.unshift(`<a href="${datum.link}">`)
+		buildString.unshift(`<a href="${datum.link}" target="_blank">`)
 		buildString.push('</a>')
 		buildString.push('<div class="topics">')
 		for (topic of datum.topics) {

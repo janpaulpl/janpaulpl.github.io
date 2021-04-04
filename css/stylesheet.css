@@ -158,16 +158,17 @@
     }
 
 	#wikilinks {
-		display: flex;
+		display: grid;
+		grid-template-columns: auto auto auto;
+		grid-column-gap: 20px;
 		align-items: center;
 		justify-content: center;
-		place-content: space-evenly;
-		flex-wrap: wrap;
 	}
 
 	.topics {
 		display: flex;
 		margin-top: 4px;
+		flex-wrap: wrap;
 	}
 
 	.topic {

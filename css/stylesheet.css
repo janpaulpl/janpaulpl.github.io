@@ -156,3 +156,29 @@
         min-width: 200px;
         grid-template-rows: auto auto auto auto;
     }
+
+	#wikilinks {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		place-content: space-evenly;
+	}
+
+	.topics {
+		display: flex;
+		margin-top: 4px;
+	}
+
+	.topic {
+		padding: 2px;
+		margin: 3px;
+		color: var(--sec-color);
+		border-width: 1px;
+		border-color: var(--border-color);
+	}
+
+	.recentWikiPage {
+		padding: 10px;
+		border-color: var(--border-color);
+		border-width: var(--border-width);
+	}

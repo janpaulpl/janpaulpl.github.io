@@ -23,7 +23,8 @@ function handleData(data) {
 		buildString.push('</div>')
 		outHTML.push(buildString.join(''))
 	}
-	console.log(outHTML.join(''))
+	let area = document.getElementById('wikilinks')
+	area.innerHTML = outHTML.join('')
 }
 
 const JSONDATA = () => {

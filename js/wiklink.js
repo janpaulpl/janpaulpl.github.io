@@ -16,10 +16,12 @@ function handleData(data) {
 		buildString.push(datum.title)
 		buildString.unshift(`<a href="${datum.link}">`)
 		buildString.push('</a>')
+		buildString.push('<div class="topics">')
 		for (topic of datum.topics) {
-			buildString.push(`<div>${topic}</div>`)
+			buildString.push(`<div class="topic">${topic}</div>`)
 		}
-		buildString.unshift('<div>')
+		buildString.push('</div>')
+		buildString.unshift('<div class="recentWikiPage">')
 		buildString.push('</div>')
 		outHTML.push(buildString.join(''))
 	}

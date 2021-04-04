@@ -2,7 +2,7 @@ function handleData(data) {
 }
 
 const JSONDATA = () => {
-	fetch('wikilist.json', {
+	fetch('js/json/wikilist.json', {
 		headers : { 
 			'Content-Type': 'application/json',
 			'Accept': 'application/json'

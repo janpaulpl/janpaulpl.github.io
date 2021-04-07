@@ -43,10 +43,8 @@ const JSONDATA = () => {
 			return handleData(data)
 		})
 		.then(function(html) {
-			document.addEventListener('DOMContentLoaded', function(e) {
-				let elem = document.getElementById('wikilinks')
-				elem.innerHTML = html
-			})
+			let elem = document.getElementById('wikilinks')
+			elem.innerHTML = html
 		})
 }
 

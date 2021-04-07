@@ -117,6 +117,12 @@
 
   a[href] {
       color: rgb(128, 204, 180);
+	  text-decoration: underline;
+  }
+
+  a {
+	color: rgb(128, 204, 180);
+	text-decoration: none;
   }
 
   #banner {

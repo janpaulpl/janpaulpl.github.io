@@ -25,8 +25,7 @@ function handleData(data) {
 		buildString.push('</div>')
 		outHTML.push(buildString.join(''))
 	}
-	let area = document.getElementById('wikilinks')
-	area.innerHTML = outHTML.join('')
+	return outHTML.join('') 
 }
 
 const JSONDATA = () => {
@@ -41,6 +40,14 @@ const JSONDATA = () => {
 			return response.json()
 		})
 		.then(function(data) {
-			handleData(data)
+			return handleData(data)
+		})
+		.then(function(html) {
+			document.addEventListener('DOMContentLoaded', function(e) {
+				let elem = document.getElementById('wikilinks')
+				elem.innerHTML = html
+			})
 		})
 }
+
+JSONDATA()

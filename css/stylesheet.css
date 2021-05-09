@@ -5,10 +5,9 @@
 }
 
 html {
-	background-color:rgb(30, 30, 30);
+	background-color: rgb(30, 30, 30);
 	scroll-behavior: smooth;
 }
-
 
 body {
 	width: fit-content;
@@ -47,17 +46,15 @@ body {
 }
 
 .projdesc {
-    max-width: 95%;
+	max-width: 95%;
 }
-
-
 
 p {
 	color: var(--sec-color);
 }
 
 .social {
-	display:flex;
+	display: flex;
 	flex-direction: column;
 	text-align: center;
 	margin: 15px;
@@ -120,12 +117,12 @@ a[href] {
 }
 
 a {
-    color: rgb(128, 204, 180);
-    text-decoration: none;
+	color: rgb(128, 204, 180);
+	text-decoration: none;
 }
 
 #banner {
-    max-width: 70%;
+	max-width: 70%;
 }
 
 .socialrow {
@@ -136,23 +133,25 @@ a {
 	width: 100vw;
 	justify-content: center;
 }
+
 .socialcontainer {
 	display: block;
 	background-color: #242323;
 }
-.socialcontainer > a {
+
+.socialcontainer>a {
 	display: grid;
 	grid-template-rows: 5vw;
 	justify-content: center;
 	align-content: center;
 }
 
-.socialcontainer > a > img {
+.socialcontainer>a>img {
 	width: 50px;
 	height: 50px;
 }
 
-.socialcontainer > a > p {
+.socialcontainer>a>p {
 	text-align: center;
 }
 

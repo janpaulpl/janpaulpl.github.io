@@ -25,15 +25,15 @@ function handleData(data) {
 		buildString.push('</div>')
 		outHTML.push(buildString.join(''))
 	}
-	return outHTML.join('') 
+	return outHTML.join('')
 }
 
 const JSONDATA = () => {
 	fetch('js/json/wikilist.json', {
-		headers : { 
+		headers: {
 			'Content-Type': 'application/json',
 			'Accept': 'application/json'
-			}
+		}
 	})
 		.then(function(response) {
 			console.log(response)

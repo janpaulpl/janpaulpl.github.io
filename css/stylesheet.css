@@ -1,199 +1,198 @@
 :root {
-    --border-color: rgb(72, 140, 76);
-    --border-width: 2px;
-    --sec-color: rgb(32, 164, 108);
-  }
+	--border-color: rgb(72, 140, 76);
+	--border-width: 2px;
+	--sec-color: rgb(32, 164, 108);
+}
 
-  html {
-      background-color:rgb(30, 30, 30);
-			scroll-behavior: smooth;
-  }
+html {
+	background-color:rgb(30, 30, 30);
+	scroll-behavior: smooth;
+}
 
 
-  body {
-      width: fit-content;
-      margin-left: auto;
-      margin-right: auto;
-      overflow-x: hidden;
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-      cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' height='28' width='28' style='transform: rotate(-45deg);'><path d='M 12 24 c 0 3 1 3 -4 3 c -3 0 -3 -5 1 -3 c 2 -1 -1 -1 3 -1 Z' style='fill: black;'/><path d='M 16 24 c 0 3 -1 3 4 3 c 3 0 3 -5 -1 -3 c -2 -1 1 -1 -3 -1 Z' style='fill: black;'/><path d='M 14 19 l 6 -1 l -5 -7 l -2 0 l -5 7 l 0 0 Z ' style='fill: %23e0ab8b;'/><path d='M 8 17 c 2 -5 5 -9 5 -15 c 0 -2 2 -2 2 -1 c 0 7 3 11 5 16 c -7 -1 -5 -1 -12 0 Z' style='fill: %23a50d0d;'/><path d='M 13 18 c -3 0 -4 -2 -5 0 c -2 4 3 5 6 9 c 3 -4 8 -5 6 -9 c -1 -2 -2 0 -5 0 Z ' style='fill: white;'/><circle cx='14' cy='17' r='2' fill='%23e0ab8b' stroke-width='0.1' stroke='white'></circle></svg>"), auto;
-  }
+body {
+	width: fit-content;
+	margin-left: auto;
+	margin-right: auto;
+	overflow-x: hidden;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' height='28' width='28' style='transform: rotate(-45deg);'><path d='M 12 24 c 0 3 1 3 -4 3 c -3 0 -3 -5 1 -3 c 2 -1 -1 -1 3 -1 Z' style='fill: black;'/><path d='M 16 24 c 0 3 -1 3 4 3 c 3 0 3 -5 -1 -3 c -2 -1 1 -1 -3 -1 Z' style='fill: black;'/><path d='M 14 19 l 6 -1 l -5 -7 l -2 0 l -5 7 l 0 0 Z ' style='fill: %23e0ab8b;'/><path d='M 8 17 c 2 -5 5 -9 5 -15 c 0 -2 2 -2 2 -1 c 0 7 3 11 5 16 c -7 -1 -5 -1 -12 0 Z' style='fill: %23a50d0d;'/><path d='M 13 18 c -3 0 -4 -2 -5 0 c -2 4 3 5 6 9 c 3 -4 8 -5 6 -9 c -1 -2 -2 0 -5 0 Z ' style='fill: white;'/><circle cx='14' cy='17' r='2' fill='%23e0ab8b' stroke-width='0.1' stroke='white'></circle></svg>"), auto;
+}
 
-  .flex-container-row {
-      display: flex;
-      flex-direction: row;
-      justify-content: center;
-      overflow-x: hidden;
-      margin-left: auto;
-      margin-right: auto;
-      flex-wrap: wrap;
-  }
+.flex-container-row {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	overflow-x: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	flex-wrap: wrap;
+}
 
-  .img-responsive {
-      max-height: 234px;
-      align-self: center;
-      max-width: 99%;
-  }
+.img-responsive {
+	max-height: 234px;
+	align-self: center;
+	max-width: 99%;
+}
 
-  /*.flex-item {
+/*.flex-item {
 
-  }*/
+}*/
 
-  .project {
-      padding: 15px;
-      margin: 20px;
-      border: solid var(--border-width) var(--border-color);
-      max-width: 20%;
-  }
+.project {
+	padding: 15px;
+	margin: 20px;
+	border: solid var(--border-width) var(--border-color);
+	max-width: 20%;
+}
 
-  .projdesc {
+.projdesc {
     max-width: 95%;
-  }
+}
 
 
-  
-  p {
-      color: var(--sec-color);
-  }
 
-  .social {
-      display:flex;
-      flex-direction: column;
-      text-align: center;
-      margin: 15px;
-      padding: 15px;
-      border: solid var(--border-width) var(--border-color);
-  }
+p {
+	color: var(--sec-color);
+}
 
-  .header {
-      display: block;
-      color: var(--sec-color);
-      font-size: 20px;
-      font-weight: bold;
-      margin-left: 10px;
-      margin-bottom: 15px;
-      margin-top: 15px;
-      text-align: center;
-  }
+.social {
+	display:flex;
+	flex-direction: column;
+	text-align: center;
+	margin: 15px;
+	padding: 15px;
+	border: solid var(--border-width) var(--border-color);
+}
 
-  .worklist {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      margin-left: auto;
-      margin-right: auto;
-  }
+.header {
+	display: block;
+	color: var(--sec-color);
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 10px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	text-align: center;
+}
 
-  .workitem {
-      margin: 10px;
-      padding: 15px;
-      border: solid var(--border-width) var(--border-color);
-      max-width: 50%;
-  }
+.worklist {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
+}
 
-  .aboutbanner {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-  }
+.workitem {
+	margin: 10px;
+	padding: 15px;
+	border: solid var(--border-width) var(--border-color);
+	max-width: 50%;
+}
 
-  #navbar {
-      position: fixed;
-      top: 0;
-      left: 0;
-      justify-content: center;
-      align-items: center;
-      height: 60px;
-      background-color: rgb(32, 30, 33);
-      width: 100vw;
-      overflow-x: hidden;
+.aboutbanner {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
 
-  }
+#navbar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	justify-content: center;
+	align-items: center;
+	height: 60px;
+	background-color: rgb(32, 30, 33);
+	width: 100vw;
+	overflow-x: hidden;
+}
 
-  .navitem {
-      padding-left: 2vw;
-  }
+.navitem {
+	padding-left: 2vw;
+}
 
-  a[href] {
-      color: rgb(128, 204, 180);
-	  text-decoration: underline;
-  }
-
-  a {
+a[href] {
 	color: rgb(128, 204, 180);
-	text-decoration: none;
-  }
+	text-decoration: underline;
+}
 
-  #banner {
+a {
+    color: rgb(128, 204, 180);
+    text-decoration: none;
+}
+
+#banner {
     max-width: 70%;
-  }
+}
 
-    .socialrow {
-        display: grid;
-        grid-template-columns: 7vw 7vw 7vw 7vw 7vw;
-        column-gap: 1vw;
-        height: 10vw;
-        width: 100vw;
-        justify-content: center;
-    }
-    .socialcontainer {
-        display: block;
-        background-color: #242323;
-    }
-    .socialcontainer > a {
-        display: grid;
-        grid-template-rows: 5vw;
-        justify-content: center;
-        align-content: center;
-    }
+.socialrow {
+	display: grid;
+	grid-template-columns: 7vw 7vw 7vw 7vw 7vw;
+	column-gap: 1vw;
+	height: 10vw;
+	width: 100vw;
+	justify-content: center;
+}
+.socialcontainer {
+	display: block;
+	background-color: #242323;
+}
+.socialcontainer > a {
+	display: grid;
+	grid-template-rows: 5vw;
+	justify-content: center;
+	align-content: center;
+}
 
-    .socialcontainer > a > img {
-        width: 50px;
-        height: 50px;
-    }
+.socialcontainer > a > img {
+	width: 50px;
+	height: 50px;
+}
 
-    .socialcontainer > a > p {
-        text-align: center;
-    }
+.socialcontainer > a > p {
+	text-align: center;
+}
 
-    .project {
-        display: grid;
-        min-width: 200px;
-        grid-template-rows: auto auto auto auto;
-    }
+.project {
+	display: grid;
+	min-width: 200px;
+	grid-template-rows: auto auto auto auto;
+}
 
-	#wikilinks {
-		display: grid;
-		grid-template-columns: auto auto auto;
-		grid-column-gap: 20px;
-		align-items: center;
-		justify-content: center;
-	}
+#wikilinks {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	grid-column-gap: 20px;
+	align-items: center;
+	justify-content: center;
+}
 
-	.topics {
-		display: flex;
-		margin-top: 4px;
-		flex-wrap: wrap;
-	}
+.topics {
+	display: flex;
+	margin-top: 4px;
+	flex-wrap: wrap;
+}
 
-	.topic {
-		font-size: 12px;
-		padding: 2px;
-		padding-left: 4px;
-		padding-right: 4px;
-		margin: 3px;
-		color: var(--sec-color);
-		border-style: dotted;
-		border-width: 1px;
-		border-color: var(--border-color);
-	}
+.topic {
+	font-size: 12px;
+	padding: 2px;
+	padding-left: 4px;
+	padding-right: 4px;
+	margin: 3px;
+	color: var(--sec-color);
+	border-style: dotted;
+	border-width: 1px;
+	border-color: var(--border-color);
+}
 
-	.recentWikiPage {
-		padding: 10px;
-		padding-left: 20px;
-		padding-right: 20px;
-		border-style: solid;
-		border-color: var(--border-color);
-		border-width: var(--border-width);
-	}
+.recentWikiPage {
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-style: solid;
+	border-color: var(--border-color);
+	border-width: var(--border-width);
+}

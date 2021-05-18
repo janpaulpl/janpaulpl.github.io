@@ -3,14 +3,22 @@
 		{
 			"link": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
 			"topics": [
+<<<<<<< HEAD
 				"metaphysics",
 				"existentialism"
 				],
 			"title": "Jean-Paul Sartre"
+=======
+				"school",
+				"ughs"
+			],
+			"title": "Escuela Especializada University Gardens"
+>>>>>>> 941529e9a098be1a5481e9d25278c5f28963effd
 		},
 		{
 			"link": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir",
 			"topics": [
+<<<<<<< HEAD
 				"western philosophy",
 				"existentialism"
 				],
@@ -31,6 +39,12 @@
 				"mathematics"
 			],
 		"title": "Great triambic icosahedron"
+=======
+				"crypto",
+				"bitcoin"
+			],
+			"title": "Cryptocurrency"
+>>>>>>> 941529e9a098be1a5481e9d25278c5f28963effd
 		}
 	]
 }

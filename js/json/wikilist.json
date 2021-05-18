@@ -1,20 +1,36 @@
 {
 	"list": [
 		{
-			"link": "https://es.wikipedia.org/wiki/Escuela_Especializada_University_Gardens",
+			"link": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
 			"topics": [
-				"school",
-				"ughs"
+				"metaphysics",
+				"existentialism"
 				],
-			"title": "Escuela Especializada University Gardens"
+			"title": "Jean-Paul Sartre"
 		},
 		{
-			"link": "https://en.wikipedia.org/wiki/Cryptocurrency",
+			"link": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir",
 			"topics": [
-				"crypto",
-				"bitcoin"
+				"western philosophy",
+				"existentialism"
 				],
-			"title": "Cryptocurrency"
+			"title": "Simone de Beauvoir"
+		},
+		{
+			"link": "https://en.wikipedia.org/wiki/Icosidodecahedron",
+			"topics": [
+				"geometry",
+				"mathematics"
+			],
+		"title": "Icosidodecahedron"
+		},
+		{
+			"link": "https://en.wikipedia.org/wiki/Great_triambic_icosahedron",
+			"topics": [
+				"geometry",
+				"mathematics"
+			],
+		"title": "Great triambic icosahedron"
 		}
 	]
 }

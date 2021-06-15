@@ -1,36 +1,35 @@
 {
 	"list": [
 		{
-			"link": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
+			"link": "https://en.wikipedia.org/wiki/Poker",
 			"topics": [
-				"metaphysics",
-				"existentialism"
+				"gambling",
+				"gaming"
 				],
-			"title": "Jean-Paul Sartre"
+			"title": "Poker"
 		},
 		{
-			"link": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir",
+			"link": "https://en.wikipedia.org/wiki/Fourier_transform",
 			"topics": [
-				"western philosophy",
-				"existentialism"
+				"mathematics"
 				],
-			"title": "Simone de Beauvoir"
+			"title": "Fourier Transform"
 		},
 		{
-			"link": "https://en.wikipedia.org/wiki/Icosidodecahedron",
+			"link": "https://en.wikipedia.org/wiki/Fuzzy_logic",
 			"topics": [
-				"geometry",
-				"mathematics"
+				"mathematics",
+				"logic"
 			],
-		"title": "Icosidodecahedron"
+		"title": "Fuzzy logic"
 		},
 		{
-			"link": "https://en.wikipedia.org/wiki/Great_triambic_icosahedron",
+			"link": "https://en.wikipedia.org/wiki/Process_calculus",
 			"topics": [
-				"geometry",
-				"mathematics"
+				"mathematics",
+				"concurrency"
 			],
-		"title": "Great triambic icosahedron"
+		"title": "Process calculus"
 		}
 	]
 }

@@ -1,4 +1,4 @@
-# [My Cute lil' website](https://jpvinnie.github.io) | [this dude helped](https://sinearc.github.io)
+# [My Cute lil' website](https://jpvinnie.github.io) | [this chad helped](https://sinearc.github.io)
 
 ### A cute little home page I made for everyone/anyone to view my profile and projects :)
 

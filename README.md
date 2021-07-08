@@ -1,10 +1,10 @@
-# [jan-paul v. ramos](https://github.com/jpVinnie)
+# jan-paul v. ramos
 ### topological semantics enthusiast @ cornell university '25 (math + cs)
 
 ## about
 I'm an undergrad student at Cornell University who enjoys theoretical computer science and the deep rooted intersection between mathematics and computer science. My favourite areas are number theory, combinatorics, category theory, computational complexity, quantum computing, topology, and language semantics. I don't have any books nor interesting readings to recommend, but you can see my favourite films at [my letterboxd](https://letterboxd.com/Vinnely/) account. Also [some cool music here](https://bandcamp.com/jpvinnely).
 
-Thx, stay safe.
+[My GitHub]((https://github.com/jpVinnie)) (my resume is there somewhere, see if you can find it :tf:)
 
 ## projects
 - [Research](https://research.jpramos.me)
@@ -21,4 +21,4 @@ Thx, stay safe.
 - [email](mailto:janpaul.ramos@protonmail.com)
 
 ## [my notebook](https://notes.jpramos.me)
-> Here you can take a sneak peek into my world and see all my university/extracurricular notes (how fun!)
+> Here you can take a sneak peek into the world of academia and see all my university/extracurricular notes (how fun!)

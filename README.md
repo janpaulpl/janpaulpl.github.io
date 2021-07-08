@@ -7,9 +7,12 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 Thx, stay safe.
 
 ## projects
-- [Discord Bot - Ladbot](https://github.com/Camto/Lad)
 - [Research](research.jpramos.me)
+- [Discord Bot - Ladbot](https://github.com/Camto/Lad)
 - [Just click here for the rest please](https://github.com/jpVinnie?tab=repositories)
+
+## [my notebook](notes.jpramos.me)
+> Here you can take a sneak peek into my world and see all my university/extracurricular notes (how fun!)
 
 ## recently read on wikipedia 
 **UNDER CONSTRUCTION**

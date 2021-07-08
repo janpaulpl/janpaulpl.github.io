@@ -8,7 +8,7 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 
 ## projects
 - [Research](https://research.jpramos.me)
-- [Discord Bot - Ladbot](https://github.com/Camto/Lad)
+- [Discord Ladbot ](https://camto.github.io/Lad/Website/)[(source)](https://github.com/Camto/Lad)
 - [Just click here for the rest please](https://github.com/jpVinnie?tab=repositories)
 
 

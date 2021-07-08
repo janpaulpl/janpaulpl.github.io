@@ -7,7 +7,7 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 Thx, stay safe.
 
 ## projects
-- [Research](research.jpramos.me)
+- [Research](https://research.jpramos.me)
 - [Discord Bot - Ladbot](https://github.com/Camto/Lad)
 - [Just click here for the rest please](https://github.com/jpVinnie?tab=repositories)
 
@@ -20,5 +20,5 @@ Thx, stay safe.
 - [linkedin](https://www.linkedin.com/in/jan-paul-v-ramos-6268bb208/)
 - [email](mailto:janpaul.ramos@protonmail.com)
 
-## [my notebook](notes.jpramos.me)
+## [my notebook](https://notes.jpramos.me)
 > Here you can take a sneak peek into my world and see all my university/extracurricular notes (how fun!)

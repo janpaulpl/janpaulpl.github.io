@@ -11,8 +11,6 @@ Thx, stay safe.
 - [Discord Bot - Ladbot](https://github.com/Camto/Lad)
 - [Just click here for the rest please](https://github.com/jpVinnie?tab=repositories)
 
-## [my notebook](notes.jpramos.me)
-> Here you can take a sneak peek into my world and see all my university/extracurricular notes (how fun!)
 
 ## recently read on wikipedia 
 **UNDER CONSTRUCTION**
@@ -21,3 +19,6 @@ Thx, stay safe.
 - [discord](https://discord.com/users/294518633541926912)
 - [linkedin](https://www.linkedin.com/in/jan-paul-v-ramos-6268bb208/)
 - [email](mailto:janpaul.ramos@protonmail.com)
+
+## [my notebook](notes.jpramos.me)
+> Here you can take a sneak peek into my world and see all my university/extracurricular notes (how fun!)

@@ -16,7 +16,7 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 **UNDER CONSTRUCTION**
 
 ## contact me
-- [email](mailto: jvr34@cornell.edu)
+- [email](mailto:jvr34@cornell.edu)
 - [discord](https://discord.com/users/294518633541926912)
 - [linkedin](https://www.linkedin.com/in/jan-paul-v-ramos-6268bb208/)
 

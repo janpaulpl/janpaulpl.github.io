@@ -1,7 +1,9 @@
+<head>
+	 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+</head>
+
 # jan-paul v. ramos
 ### topological semantics enthusiast @ cornell university '25 (math + cs)
-
-<link rel="shortcut icon" type="image/png" href="./Data/favicon.png"/>
 
 ## about
 [My GitHub](https://github.com/jpVinnie) ; my resume is there somewhere, see if you can find it :tf:
@@ -12,7 +14,6 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 - [Research](https://research.jpramos.me)
 - [Discord Ladbot ](https://camto.github.io/Lad/Website/)([source](https://github.com/Camto/Lad))
 - [Just click here for the rest please](https://github.com/jpVinnie?tab=repositories)
-
 
 ## recently read on wikipedia 
 **UNDER CONSTRUCTION**

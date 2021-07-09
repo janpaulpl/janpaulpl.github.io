@@ -1,6 +1,8 @@
 # jan-paul v. ramos
 ### topological semantics enthusiast @ cornell university '25 (math + cs)
 
+<link rel="shortcut icon" type="image/png" href="./Data/favicon.png"/>
+
 ## about
 [My GitHub](https://github.com/jpVinnie) ; my resume is there somewhere, see if you can find it :tf:
 

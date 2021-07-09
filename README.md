@@ -1,8 +1,4 @@
-<head>
-	 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
-
-# jan-paul v. ramos
+# jan-paul v. ramos ![alt text](./Data/icosi.png)
 ### topological semantics enthusiast @ cornell university '25 (math + cs)
 
 ## about

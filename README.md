@@ -19,5 +19,5 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 - [discord](https://discord.com/users/294518633541926912)
 - [linkedin](https://www.linkedin.com/in/jan-paul-v-ramos-6268bb208/)
 
-## [my notebook (and blog)](https://notes.jpramos.me)
+## [my notebook](notes.jpramos.me) ([and blog](https://notes.jpramos.me/blog))
 > Here you can take a sneak peek into the world of academia and see all my university/extracurricular notes (how fun!)

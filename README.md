@@ -2,7 +2,7 @@
 ### topological semantics enthusiast @ cornell university '25 (math ∧ cs)
 
 ## about
-[My GitHub](https://github.com/jpVinnie) ; my resume is there somewhere, see if you can find it :tf:
+[My GitHub](https://github.com/jpVinnie) ; more info about me over there, but my resume is right [here](https://github.com/jpVinnie/jpVinnie/blob/master/Data/LinkedIn%20Resume.pdf).
 
 I'm an undergrad student at Cornell University who enjoys theoretical computer science and the deep rooted intersection between mathematics and computer science. My favourite areas are number theory, combinatorics, category theory, computational complexity, quantum computing, topology, and language semantics. I don't have any books nor interesting readings to recommend, but you can see my favourite films at [my letterboxd](https://letterboxd.com/Vinnely/) account. Also [some cool music here](https://bandcamp.com/jpvinnely).
 

@@ -11,7 +11,8 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 - [Discord Ladbot ](https://camto.github.io/Lad/Website/)([source](https://github.com/Camto/Lad))
 - [Just click here for the rest please](https://github.com/jpVinnie?tab=repositories)
 
-## recently read on wikipedia 
+## recently read on wikipedia
+> every month I upload my most interesting reads from the web's free encyclopeadia. 
 **UNDER CONSTRUCTION**
 
 ## contact me

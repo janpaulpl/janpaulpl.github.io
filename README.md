@@ -12,7 +12,9 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 - [Just click here for the rest please](https://github.com/jpVinnie?tab=repositories)
 
 ## recently read on wikipedia 
-**UNDER CONSTRUCTION**
+- [Gödel's completeness theorem](https://en.wikipedia.org/wiki/Gödel%27s_completeness_theorem)
+- [Absurdism](https://en.wikipedia.org/wiki/Absurdism)
+- [Series-parallel graph](https://en.wikipedia.org/wiki/Series–parallel_graph)
 
 ## contact me
 - [email](mailto:jvr34@cornell.edu)

@@ -14,8 +14,11 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 
 ## recently read on wikipedia 
 - [Gödel's completeness theorem](https://en.wikipedia.org/wiki/Gödel%27s_completeness_theorem)
+>  Gödel's completeness theorem is a fundamental theorem in mathematical logic that establishes a correspondence between semantic truth and syntactic provability in first-order logic.
 - [Absurdism](https://en.wikipedia.org/wiki/Absurdism)
+> In philosophy, "the Absurd" refers to the conflict between the human tendency to seek inherent value and meaning in life, and the human inability to find these with any certainty.
 - [Series-parallel graph](https://en.wikipedia.org/wiki/Series–parallel_graph)
+> In graph theory, series–parallel graphs are graphs with two distinguished vertices called terminals, formed recursively by two simple composition operations.
 
 ## contact me
 - [email](mailto:jvr34@cornell.edu)

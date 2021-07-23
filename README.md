@@ -1,6 +1,8 @@
 # jan-paul v. ramos ![alt text](./Data/icosi.png)
 ### topological semantics enthusiast @ cornell university '25 (math ∧ cs)
 
+<br>
+
 ## about
 [My GitHub](https://github.com/jpVinnie) ; more *details* about me over there, but my resume is right [here](https://github.com/jpVinnie/jpVinnie/blob/master/Data/LinkedIn%20Resume.pdf).
 

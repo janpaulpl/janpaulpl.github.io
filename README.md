@@ -6,14 +6,18 @@
 
 I'm an undergrad student at Cornell University who enjoys theoretical computer science and the deep rooted intersection between mathematics and computer science. My favourite areas are number theory, combinatorics, category theory, computational complexity, quantum computing, topology, and language semantics. I don't have any books nor interesting readings to recommend, but you can see my favourite films at [my letterboxd](https://letterboxd.com/Vinnely/) account. Also [some cool music here](https://bandcamp.com/jpvinnely).
 
+
 ## projects
 - [Research](https://research.jpramos.me)
 - [Discord Ladbot ](https://camto.github.io/Lad/Website/)([source](https://github.com/Camto/Lad))
-- [UNDER DEVELOPMENT](https://notes.jpramos.me/GoogleCSSI/GoogleCSSI-FinalProject/)([source](https://github.com/jpVinnie/GoogleCSSI-FinalProject))
+- [UNDER DEVELOPMENT ](https://notes.jpramos.me/GoogleCSSI/GoogleCSSI-FinalProject/)([source](https://github.com/jpVinnie/GoogleCSSI-FinalProject))
 - [Just click here for the rest please](https://github.com/jpVinnie?tab=repositories)
 
-## [my notebook](https://notes.jpramos.me) ([and blog](https://notes.jpramos.me/blog))
+
+### [my notebook](https://notes.jpramos.me) ([and blog](https://notes.jpramos.me/blog))
 > Here you can take a sneak peek into the world of academia and see all my university/extracurricular notes (how fun!)
+
+<br>
 
 ## recently read on wikipedia 
 - [Gödel's completeness theorem](https://en.wikipedia.org/wiki/Gödel%27s_completeness_theorem)
@@ -22,6 +26,8 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 > In philosophy, "the Absurd" refers to the conflict between the human tendency to seek inherent value and meaning in life, and the human inability to find these with any certainty.
 - [Series-parallel graph](https://en.wikipedia.org/wiki/Series–parallel_graph)
 > In graph theory, series–parallel graphs are graphs with two distinguished vertices called terminals, formed recursively by two simple composition operations.
+
+<br>
 
 ## contact me
 - [email](mailto:jvr34@cornell.edu)

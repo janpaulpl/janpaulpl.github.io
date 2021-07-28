@@ -13,7 +13,7 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 ## projects
 - [Research](https://research.jpramos.me)
 - [Discord Ladbot ](https://camto.github.io/Lad/Website/)([source](https://github.com/Camto/Lad))
-- [Google CSSI 2021 ](https://notes.jpramos.me/GoogleCSSI/)([source](https://github.com/jpVinnie/notebook/tree/main/GoogleCSSI))
+- [Google CSSI 2021: Projects and Video game ](https://notes.jpramos.me/GoogleCSSI/)([source](https://github.com/jpVinnie/notebook/tree/main/GoogleCSSI))
 - [Just click here for the rest please](https://github.com/jpVinnie?tab=repositories)
 
 

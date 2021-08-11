@@ -23,12 +23,12 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 <br>
 
 ## recently read on wikipedia 
-- [Gödel's completeness theorem](https://en.wikipedia.org/wiki/Gödel%27s_completeness_theorem)
->  Gödel's completeness theorem is a fundamental theorem in mathematical logic that establishes a correspondence between semantic truth and syntactic provability in first-order logic.
-- [Absurdism](https://en.wikipedia.org/wiki/Absurdism)
-> In philosophy, "the Absurd" refers to the conflict between the human tendency to seek inherent value and meaning in life, and the human inability to find these with any certainty.
-- [Series-parallel graph](https://en.wikipedia.org/wiki/Series–parallel_graph)
-> In graph theory, series–parallel graphs are graphs with two distinguished vertices called terminals, formed recursively by two simple composition operations.
+- [Runge's phenomenon](https://en.wikipedia.org/wiki/Runge%27s_phenomenon)
+>  In the mathematical field of numerical analysis, Runge's phenomenon is a problem of oscillation at the edges of an interval that occurs when using polynomial interpolation with polynomials of high degree over a set of equispaced interpolation points.
+- [The Ricky Gervais Show](https://en.wikipedia.org/wiki/The_Ricky_Gervais_Show)
+> The Ricky Gervais Show is a comedy radio show in the UK starring Ricky Gervais, Stephen Merchant, and Karl Pilkington, later adapted into a podcast and a television series. Despite being named after the more famous Gervais, it mostly revolves around the life and ideas of Karl Pilkington.
+- [Game semantics](https://en.wikipedia.org/wiki/Game_semantics)
+> An approach to formal semantics that grounds the concepts of truth or validity on game-theoretic concepts, such as the existence of a winning strategy for a player, somewhat resembling Socratic dialogues or medieval theory of Obligationes.
 
 <br>
 

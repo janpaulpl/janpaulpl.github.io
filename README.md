@@ -4,7 +4,7 @@
 <br>
 
 ## about
-[My GitHub](https://github.com/jpVinnie) ; more *details* about me over there, but my resume is right [here](https://github.com/jpVinnie/jpVinnie/blob/master/Data/LinkedIn%20Resume.pdf).
+[My GitHub](https://github.com/jpVinnie) ; more *details* about me over there, but my resume is right [here](https://github.com/jpVinnie/jpVinnie/blob/master/Data/resume.pdf).
 
 I'm an undergrad student at Cornell University who enjoys theoretical computer science and the deep rooted intersection between mathematics and computer science. My favourite areas are number theory, combinatorics, category theory, computational complexity, quantum computing, topology, and language semantics. I don't have any books nor interesting readings to recommend, but you can see my favourite films at [my letterboxd](https://letterboxd.com/Vinnely/) account. Also [some cool music here](https://bandcamp.com/jpvinnely).
 

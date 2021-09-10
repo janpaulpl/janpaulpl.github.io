@@ -23,13 +23,12 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 <br>
 
 ## recently read on wikipedia 
-- [Runge's phenomenon](https://en.wikipedia.org/wiki/Runge%27s_phenomenon)
->  In the mathematical field of numerical analysis, Runge's phenomenon is a problem of oscillation at the edges of an interval that occurs when using polynomial interpolation with polynomials of high degree over a set of equispaced interpolation points.
-- [The Ricky Gervais Show](https://en.wikipedia.org/wiki/The_Ricky_Gervais_Show)
-> The Ricky Gervais Show is a comedy radio show in the UK starring Ricky Gervais, Stephen Merchant, and Karl Pilkington, later adapted into a podcast and a television series. Despite being named after the more famous Gervais, it mostly revolves around the life and ideas of Karl Pilkington.
-- [Game semantics](https://en.wikipedia.org/wiki/Game_semantics)
-> An approach to formal semantics that grounds the concepts of truth or validity on game-theoretic concepts, such as the existence of a winning strategy for a player, somewhat resembling Socratic dialogues or medieval theory of Obligationes.
-
+- [List of computing mascots](https://en.wikipedia.org/wiki/List_of_computing_mascots)
+> Camelia, a cartoon bug with butterfly-like wings, is the mascot of Raku.
+- [Moomin Comic Strips](https://en.wikipedia.org/wiki/Moomin_comic_strips)
+> Moomin is a comic strip created by Tove Jansson, and followed up by Lars Jansson, featuring their Moomin family of characters. 
+- [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
+> In the philosophy of mathematics, intuitionism, or neointuitionism (opposed to preintuitionism), is an approach where mathematics is considered to be purely the result of the constructive mental activity of humans rather than the discovery of fundamental principles claimed to exist in an objective reality. That is, logic and mathematics are not considered analytic activities wherein deep properties of objective reality are revealed and applied, but are instead considered the application of internally consistent methods used to realize more complex mental constructs, regardless of their possible independent existence in an objective reality.
 <br>
 
 ## contact me

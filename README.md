@@ -23,12 +23,12 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 <br>
 
 ## recently read on wikipedia 
-- [List of computing mascots](https://en.wikipedia.org/wiki/List_of_computing_mascots)
-> Camelia, a cartoon bug with butterfly-like wings, is the mascot of Raku.
-- [Moomin Comic Strips](https://en.wikipedia.org/wiki/Moomin_comic_strips)
-> Moomin is a comic strip created by Tove Jansson, and followed up by Lars Jansson, featuring their Moomin family of characters. 
-- [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
-> In the philosophy of mathematics, intuitionism, or neointuitionism (opposed to preintuitionism), is an approach where mathematics is considered to be purely the result of the constructive mental activity of humans rather than the discovery of fundamental principles claimed to exist in an objective reality. That is, logic and mathematics are not considered analytic activities wherein deep properties of objective reality are revealed and applied, but are instead considered the application of internally consistent methods used to realize more complex mental constructs, regardless of their possible independent existence in an objective reality.
+- [Axiomatic semantics](https://en.wikipedia.org/wiki/Axiomatic_semantics)
+> an approach based on mathematical logic for proving the correctness of computer programs. It is closely related to [Hoare logic](https://en.wikipedia.org/wiki/Hoare_logic).
+- [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
+> In mathematics and computer science in general, a fixed point of a function is a value that is mapped to itself by the function.
+- [Curry-Howard correspondence](https://en.wikipedia.org/wiki/Curry–Howard_correspondence)
+> The direct relationship between computer programs and mathematical proofs.
 
 <br>
 

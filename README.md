@@ -25,12 +25,12 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 <br>
 
 ## recently read on wikipedia 
-- [Axiomatic semantics](https://en.wikipedia.org/wiki/Axiomatic_semantics)
-> an approach based on mathematical logic for proving the correctness of computer programs. It is closely related to [Hoare logic](https://en.wikipedia.org/wiki/Hoare_logic).
-- [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
-> In mathematics and computer science in general, a fixed point of a function is a value that is mapped to itself by the function.
-- [Curry-Howard correspondence](https://en.wikipedia.org/wiki/Curry–Howard_correspondence)
-> The direct relationship between computer programs and mathematical proofs.
+- [Naxi Script](https://en.wikipedia.org/wiki/Naxi_script)
+> The Naxi language of southwestern China may be written in the syllabic geba script.
+- [Transportation Theory (mathematics)](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics))
+> The study of optimal transportation and allocation of resources.
+- [Trakhtenbrot's Theorem](https://en.wikipedia.org/wiki/Trakhtenbrot%27s_theorem)
+> In logic, finite model theory, and computability theory, Trakhtenbrot's theorem (due to Boris Trakhtenbrot) states that the problem of validity in first-order logic on the class of all finite models is undecidable.
 
 <br>
 

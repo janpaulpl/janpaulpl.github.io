@@ -38,3 +38,11 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 - [email](mailto:jvr34@cornell.edu)
 - [discord](https://discord.com/users/294518633541926912)
 - [linkedin](https://www.linkedin.com/in/jan-paul-v-ramos-6268bb208/)
+
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img src="https://github.com/jpVinnie/jpvinnie.github.io/blob/master/Data/Tokuhiro%20Kawai.jpg" />
+</p>

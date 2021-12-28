@@ -40,7 +40,6 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 - [linkedin](https://www.linkedin.com/in/jan-paul-v-ramos-6268bb208/)
 
 <br>
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/Tokuhiro%20Kawai2.jpg" />

@@ -45,4 +45,4 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
   <img src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/Tokuhiro%20Kawai2.jpg" />
 </p>
 
-> "Idea of a Certain Cat" 2004 by Tokuhiro Kawai (川井徳寛)
+> "Idea of a Certain Cat" 2004 -Tokuhiro Kawai (川井徳寛)

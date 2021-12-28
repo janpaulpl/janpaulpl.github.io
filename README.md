@@ -31,6 +31,8 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 > The study of optimal transportation and allocation of resources.
 - [Trakhtenbrot's Theorem](https://en.wikipedia.org/wiki/Trakhtenbrot%27s_theorem)
 > In logic, finite model theory, and computability theory, Trakhtenbrot's theorem (due to Boris Trakhtenbrot) states that the problem of validity in first-order logic on the class of all finite models is undecidable.
+- [Pornography](https://en.wikipedia.org/wiki/Pornography)
+> Pornography (often shortened to porn, or porno) is the portrayal of sexual subject matter for the exclusive purpose of sexual arousal.
 
 <br>
 

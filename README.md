@@ -41,10 +41,6 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/Tokuhiro%20Kawai2.jpg" />

@@ -25,12 +25,12 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 <br>
 
 ## recently read on wikipedia 
-- [Naxi Script](https://en.wikipedia.org/wiki/Naxi_script)
-> The Naxi language of southwestern China may be written in the syllabic geba script.
-- [Transportation Theory (mathematics)](https://en.wikipedia.org/wiki/Transportation_theory_(mathematics))
-> The study of optimal transportation and allocation of resources.
-- [Trakhtenbrot's Theorem](https://en.wikipedia.org/wiki/Trakhtenbrot%27s_theorem)
-> In logic, finite model theory, and computability theory, Trakhtenbrot's theorem (due to Boris Trakhtenbrot) states that the problem of validity in first-order logic on the class of all finite models is undecidable.
+- [Cross-linguistic onomatopeias](https://en.wikipedia.org/wiki/Cross-linguistic_onomatopoeias)
+> Because of the nature of onomatopoeia, there are many words which show a similar pronunciation in the languages of the world.
+- [Algebraic data type](https://en.wikipedia.org/wiki/Algebraic_data_type)
+> In computer programming, especially functional programming and type theory, an algebraic data type is a kind of composite type, i.e., a type formed by combining other types.
+- [Guarded Command Language](https://en.wikipedia.org/wiki/Guarded_Command_Language)
+> The Guarded Command Language (GCL) is a language defined by Edsger Dijkstra for predicate transformer semantics. It combines programming concepts in a compact way, before the program is written in some practical programming language. Its simplicity makes proving the correctness of programs easier, using Hoare logic.
 
 <br>
 

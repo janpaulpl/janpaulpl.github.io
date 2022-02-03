@@ -40,7 +40,7 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
   <img src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/movies/400blows.jpg" width="500" height="600" />
 </p>
 
-Definitely will have re-watch this French New Wave classic. Oddly mundane yet still engaging. I really enjoyed the spinning scene. For my more detailed thought process, [check out the blog post](https://notes.jpramos.me/blog/#january-2022-movie-of-the-month---the-400-blows).
+Definitely will have to re-watch this French New Wave classic. Oddly mundane yet still engaging. I really enjoyed the spinning scene. For my more detailed thought process, [check out the blog post](https://notes.jpramos.me/blog/#january-2022-movie-of-the-month---the-400-blows).
 
 <br>
 

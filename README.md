@@ -34,6 +34,16 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 
 <br>
 
+## movie of the month
+> The 400 Blows *Les Quatre Cents Coups* (1959) | Dir. François Truffaut | Mus. Jean Constantin 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/movies/400blows.jpg" width="500" height="600" />
+</p>
+
+Definitely will have re-watch this French New Wave classic. Oddly mundane yet still engaging. I really enjoyed the spinning scene. For my more detailed thought process, [check out the blog post](https://notes.jpramos.me/blog/#movie-of-the-month---the-400-blows).
+
+<br>
+
 ## contact me
 - [email](mailto:jvr34@cornell.edu)
 - [discord](https://discord.com/users/294518633541926912)

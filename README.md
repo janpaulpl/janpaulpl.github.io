@@ -45,7 +45,7 @@ Definitely will have to re-watch this French New Wave classic. Oddly mundane yet
 <br>
 
 ## contact me
-- [email](mailto:jvr34@cornell.edu)
+- [email](mailto:janpaul.ramos@protonmail.com)
 - [discord](https://discord.com/users/294518633541926912)
 - [linkedin](https://www.linkedin.com/in/jan-paul-v-ramos-6268bb208/)
 

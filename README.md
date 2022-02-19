@@ -13,7 +13,7 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 <br>
 
 ## projects
-- [RNA secondary structure predictor](https://github.com/jpVinnie/RNAfoldml)
+- [RNA secondary structure predictor](https://jpramos.me/RNAfoldml/) ([source](https://github.com/jpVinnie/RNAfoldml))
 - [Discord Ladbot ](https://camto.github.io/Lad/Website/)([source](https://github.com/Camto/Lad))
 - [Google Computer Science Summer Institute ](https://notes.jpramos.me/GoogleCSSI/)([source](https://github.com/jpVinnie/notebook/tree/main/GoogleCSSI))
 - [Just click here for the rest please](https://github.com/jpVinnie?tab=repositories)

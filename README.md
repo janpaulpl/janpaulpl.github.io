@@ -13,13 +13,13 @@ I'm an undergrad student at Cornell University who enjoys theoretical computer s
 <br>
 
 ## projects
-- [Research](https://research.jpramos.me)
+- [RNA secondary structure predictor](https://github.com/jpVinnie/RNAfoldml)
 - [Discord Ladbot ](https://camto.github.io/Lad/Website/)([source](https://github.com/Camto/Lad))
 - [Google Computer Science Summer Institute ](https://notes.jpramos.me/GoogleCSSI/)([source](https://github.com/jpVinnie/notebook/tree/main/GoogleCSSI))
 - [Just click here for the rest please](https://github.com/jpVinnie?tab=repositories)
 
 
-### [my notebook](https://notes.jpramos.me) ([and blog](https://notes.jpramos.me/blog))
+### [my notebook](https://notes.jpramos.me) ([and blog](https://notes.jpramos.me/blog)) ([also research](https://research.jpramos.me))
 > Here you can take a sneak peek into the world of academia and see all my university/extracurricular notes (how fun!)
 
 <br>

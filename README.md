@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=n879o5zkykhwd6ig2ngjkz5ux&count=1)" align="right">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=n879o5zkykhwd6ig2ngjkz5ux&count=4)" align="right">
 
 ## about —<a href="https://blog.jpramos.me" style="color: #364491; border-bottom:1px dotted">blog</a>
 <a href="https://github.com/jpVinnie" style="color: #364491; border-bottom:1px dotted">GitHub</a> if you're a programmer; <a href="https://www.linkedin.com/in/jpv-ramos/" style="color: #364491; border-bottom:1px dotted">Linkedin</a> if you need a programmer.

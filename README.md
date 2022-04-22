@@ -29,8 +29,10 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 ## recently read on wikipedia 
 - [Boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)
 > The problem of determining if there exists an interpretation that satisfies a given Boolean formula. 
+
 - [Qualia](https://en.wikipedia.org/wiki/Qualia)
 > Individual instances of subjective, conscious experience. The term qualia derives from the Latin neuter plural form (qualia) of the Latin adjective quālis (Latin pronunciation: [ˈkʷaːlɪs]) meaning "of what sort" or "of what kind" in a specific instance, such as "what it is like to taste a specific apple — this particular apple now".
+
 - [SKI combinator calculus](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
 > A combinatory logic system and a computational system. It can be thought of as a computer programming language, though it is not convenient for writing software.
 

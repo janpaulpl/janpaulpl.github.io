@@ -1,5 +1,5 @@
 # jan-paul vincent ramos ![alt text](./Data/icosi.png)
-### topological semantics enthusiast @ cornell university '25 (math ∧ cs)
+### programming language theory enthusiast @ cornell university '25 (math / cs / phil)
 
 <br>
 

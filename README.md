@@ -14,9 +14,13 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 
 ## stakhanovite
 ### ﹥ [serious work](https://research.jpramos.me)
+> conferences, workshops, papers, publications, and just anything that took a good bit to think about. 
 ### ﹥ [discord ladbot ](https://camto.github.io/Lad/Website/) | [source](https://github.com/Camto/Lad)
+> discord bot with a lot of cool features (and even it's own programming language wowzers).
 ### ﹥ [rnafoldml ocaml package ](https://jpramos.me/RNAfoldml/) | [source](https://github.com/jpVinnie/RNAfoldml)
+> ocaml package for predicting RNA secondary structure.
 ### ﹥ [(g)old projects](https://github.com/jpVinnie?tab=repositories&q=&type=&language=&sort=name)
+> stuff I've worked on in the past you might be interested in checking out.
 
 <br>
 

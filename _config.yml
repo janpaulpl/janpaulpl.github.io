@@ -1,3 +1,7 @@
 name: jpramos' site
 title: null
+
 theme: jekyll-theme-dinky
+
+github:
+  is_project_page: false

@@ -8,7 +8,7 @@
 ## about —[blog](https://blog.jpramos.me)
 [**GitHub**](https://github.com/jpVinnie) if you're a programmer; [**Linkedin**](https://www.linkedin.com/in/jpv-ramos/) if you need a programmer.
 
-I'm an undergrad student at Cornell University who enjoys programming languages, linguistics, and philosophy —**only if it's analytical**. My —*current and always changing*— favorite areas of study are logic, type theory, category theory, semantics, and software verification. For objective film ratings [click here](https://letterboxd.com/Vinnely/), and for objective good music [here](https://bandcamp.com/jpvinnely).
+I'm an undergrad student at Cornell University who enjoys programming languages, linguistics, and philosophy —**only if it's analytical**. My —*current and always changing*— favorite areas of study are logic, type theory, category theory, semantics, and software verification. For objective film ratings [click here](https://letterboxd.com/Vinnely/), and for objectively good music [here](https://bandcamp.com/jpvinnely).
 
 <br>
 

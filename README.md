@@ -15,7 +15,7 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 ## stakhanovite
 ### ﹥ [serious work](https://research.jpramos.me)
 ### ﹥ [discord ladbot ](https://camto.github.io/Lad/Website/) | [source](https://github.com/Camto/Lad)
-### ﹥ [(g)old projects](https://github.com/jpVinnie?tab=repositories)
+### ﹥ [(g)old projects](https://github.com/jpVinnie?tab=repositories&q=&type=&language=&sort=name)
 
 <br>
 

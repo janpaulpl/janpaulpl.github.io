@@ -12,10 +12,10 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 
 <br>
 
-## keeping my busy
-- [Serious Work](https://research.jpramos.me)
-- [Discord Ladbot ](https://camto.github.io/Lad/Website/)([source](https://github.com/Camto/Lad))
-- [(g)Old projects)](https://github.com/jpVinnie?tab=repositories)
+## Stakhanovite
+### [serious work](https://research.jpramos.me)
+### [discord ladbot ](https://camto.github.io/Lad/Website/)([source](https://github.com/Camto/Lad))
+### [(g)old projects](https://github.com/jpVinnie?tab=repositories)
 
 <br>
 

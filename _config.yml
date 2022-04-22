@@ -1,7 +1,7 @@
 name: jpramos' site
 title: null
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-tactile
 
 github:
   is_project_page: false

@@ -19,7 +19,7 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 
 <br>
 
-<img height=500px src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/Tokuhiro%20Kawai2.jpg" align="right">
+<img height=500px src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/qualia.png" align="right">
 
 ## recently read on wikipedia 
 - [Boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)
@@ -39,4 +39,4 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 
 <br>
 
-> "Idea of a Certain Cat" 2004 -Tokuhiro Kawai (川井徳寛)
+> "Idea of a Certain Cat" 2004 -Tokuhiro Kawai (川井徳寛) <img height=100px src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/Tokuhiro%20Kawai2.jpg" align="right">

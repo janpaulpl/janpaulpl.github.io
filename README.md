@@ -19,7 +19,7 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
   </a>
 </h3>
 
-> conferences, workshops, papers, publications, and just anything that took a good bit to think about 
+> conferences, workshops, short papers, publications, and just anything that took a good bit to think about 
 
 <h3>
   <a href="https://jpramos.me/RNAfoldml/" style="color: #364491; border-bottom:1px dotted">

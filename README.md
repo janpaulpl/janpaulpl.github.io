@@ -15,7 +15,7 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 ## stakhanovite
 <h3>
   <a href="https://research.jpramos.me" style="color: #364491; border-bottom:1px dotted">
-    serious work
+    "research"
   </a>
 </h3>
 

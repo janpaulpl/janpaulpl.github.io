@@ -13,11 +13,13 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 <br>
 
 ## Stakhanovite
-### [serious work](https://research.jpramos.me)
-### [discord ladbot ](https://camto.github.io/Lad/Website/) | [source](https://github.com/Camto/Lad)
-### [(g)old projects](https://github.com/jpVinnie?tab=repositories)
+### ﹥ [serious work](https://research.jpramos.me)
+### ﹥ [discord ladbot ](https://camto.github.io/Lad/Website/) | [source](https://github.com/Camto/Lad)
+### ﹥ [(g)old projects](https://github.com/jpVinnie?tab=repositories)
 
 <br>
+
+<img height=500px src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/Tokuhiro%20Kawai2.jpg" align="right">
 
 ## recently read on wikipedia 
 - [Boolean satisfiability problem](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)
@@ -27,6 +29,7 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 - [SKI combinator calculus](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
 > A combinatory logic system and a computational system. It can be thought of as a computer programming language, though it is not convenient for writing software.
 
+
 <br>
 
 ## contact me
@@ -35,9 +38,5 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 - [linkedin](https://www.linkedin.com/in/jan-paul-v-ramos-6268bb208/)
 
 <br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/Tokuhiro%20Kawai2.jpg" />
-</p>
 
 > "Idea of a Certain Cat" 2004 -Tokuhiro Kawai (川井徳寛)

@@ -22,20 +22,20 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 > conferences, workshops, papers, publications, and just anything that took a good bit to think about 
 
 <h3>
-  <a href="https://camto.github.io/Lad/Website/" style="color: black; text-decoration: underline;">
-    discord ladbot
-  </a>
-</h3> 
-
-> 【<a href="https://github.com/Camto/Lad" style="color: #8B0000;">source</a>】 discord bot with a lot of cool features (and even it's own *pl* wowzers)
-
-<h3>
   <a href="https://jpramos.me/RNAfoldml/" style="color: black; text-decoration: underline;">
     rnafoldml
   </a>
 </h3>
 
 > 【<a href="https://github.com/jpVinnie/RNAfoldml" style="color: #8B0000;">source</a>】 ocaml package for predicting RNA secondary structure
+
+<h3>
+  <a href="https://camto.github.io/Lad/Website/" style="color: black; text-decoration: underline;">
+    discord ladbot
+  </a>
+</h3> 
+
+> 【<a href="https://github.com/Camto/Lad" style="color: #8B0000;">source</a>】 discord bot with a lot of cool features (and even it's own *pl* wowzers)
 
 <h3>
   <a href="https://github.com/jpVinnie?tab=repositories&q=&type=&language=&sort=name" style="color: black; text-decoration: underline;">

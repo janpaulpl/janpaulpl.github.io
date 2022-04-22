@@ -31,7 +31,7 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 
 <h3>
   <a href="https://jpramos.me/RNAfoldml/" style="color: black; text-decoration: underline;">
-    rnafoldml ocaml package
+    rnafoldml
   </a>
 </h3>
 

@@ -5,7 +5,7 @@
 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=n879o5zkykhwd6ig2ngjkz5ux&count=4&width=300px)" align="right">
 
-## about —<a href="https://blog.jpramos.me" style="color: #364491; border-bottom:1px dotted">blog</a> —<a href="https://jpramos.me/Data/cv.pdf" style="color: #364491; border-bottom:1px dotted">cv</a>
+## about | <a href="https://blog.jpramos.me" style="color: #364491; border-bottom:1px dotted">blog</a> | <a href="https://jpramos.me/Data/cv.pdf" style="color: #364491; border-bottom:1px dotted">cv</a>
 <a href="https://github.com/jpVinnie" style="color: #364491; border-bottom:1px dotted">GitHub</a> if you're a programmer; <a href="https://www.linkedin.com/in/jpv-ramos/" style="color: #364491; border-bottom:1px dotted">Linkedin</a> if you need a programmer.
 
 I'm an undergrad student at Cornell University who enjoys programming languages, linguistics, and philosophy —**only if it's analytical**. My —*current and always changing*— favorite areas of study are logic, type theory, category theory, semantics, and software verification. For objective film ratings <a href="https://letterboxd.com/Vinnely/" style="color: #364491; border-bottom:1px dotted">click here</a>, and for objectively good music <a href="https://bandcamp.com/jpvinnely" style="color: #364491; border-bottom:1px dotted">here</a>.

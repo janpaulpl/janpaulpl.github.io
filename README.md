@@ -1,4 +1,4 @@
-# jan-paul vincent ramos ![alt text](./Data/icosi.png)
+# jan-paul vincent ramos-dávila ![alt text](./Data/icosi.png)
 ### programming language theory enthusiast @ cornell university '25 (math / cs / phil)
 
 <br>

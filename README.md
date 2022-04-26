@@ -3,8 +3,6 @@
 
 <br>
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=n879o5zkykhwd6ig2ngjkz5ux&count=4&width=300px)" align="right">
-
 ## about | <a href="https://blog.jpramos.me" style="color: #364491; border-bottom:1px dotted">blog</a> | <a href="https://jpramos.me/Data/cv.pdf" style="color: #364491; border-bottom:1px dotted">cv</a>
 <a href="https://github.com/jpVinnie" style="color: #364491; border-bottom:1px dotted">GitHub</a> if you're a programmer; <a href="https://www.linkedin.com/in/jpv-ramos/" style="color: #364491; border-bottom:1px dotted">Linkedin</a> if you need a programmer.
 
@@ -47,9 +45,9 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 
 <br>
 
-<img height=500px src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/qualia.png" align="right">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=n879o5zkykhwd6ig2ngjkz5ux&count=8&width=300px)" align="right">
 
-## recently read on wikipedia 
+## recent activity
 
 <h4>
   <a href="https://en.wikipedia.org/wiki/Boolean_satisfiability_problem" style="color: #364491; border-bottom:1px dotted">

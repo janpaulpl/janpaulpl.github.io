@@ -45,8 +45,6 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 
 <br>
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=n879o5zkykhwd6ig2ngjkz5ux&count=8&width=300px)" align="right">
-
 ## recent activity
 
 <h4>

@@ -48,28 +48,28 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 ## recent activity
 
 <h4>
-  <a href="https://en.wikipedia.org/wiki/Boolean_satisfiability_problem" style="color: #364491; border-bottom:1px dotted">
-    Boolean satisfiability problem
+  <a href="https://en.wikipedia.org/wiki/Formal_verification" style="color: #364491; border-bottom:1px dotted">
+    Formal verification
   </a>
 </h4>
 
-> The problem of determining if there exists an interpretation that satisfies a given Boolean formula. 
+> The act of proving or disproving the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics. 
 
 <h4>
-  <a href="https://en.wikipedia.org/wiki/Qualia" style="color: #364491; border-bottom:1px dotted">
-    Qualia
+  <a href="https://en.wikipedia.org/wiki/F-coalgebra" style="color: #364491; border-bottom:1px dotted">
+    F-coalgebra
   </a>
 </h4>
 
-> Individual instances of subjective, conscious experience. The term qualia derives from the Latin neuter plural form (qualia) of the Latin adjective quālis (Latin pronunciation: [ˈkʷaːlɪs]) meaning "of what sort" or "of what kind" in a specific instance, such as "what it is like to taste a specific apple — this particular apple now".
+> A structure defined according to a functor `F`, with specific properties as defined below. For both algebras and coalgebras, a functor is a convenient and general way of organizing a signature.
 
 <h4>
-  <a href="https://en.wikipedia.org/wiki/SKI_combinator_calculus" style="color: #364491; border-bottom:1px dotted">
-    SKI combinator calculus
+  <a href="https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow" style="color: #364491; border-bottom:1px dotted">
+    Thinking, Fast and Slow
   </a>
 </h4>
   
-> A combinatory logic system and a computational system. It can be thought of as a computer programming language, though it is not convenient for writing software.
+> The book's main thesis is that of a dichotomy between two modes of thought: "System 1" is fast, instinctive and emotional; "System 2" is slower, more deliberative, and more logical.
 
 
 <br>

@@ -25,4 +25,4 @@ My —*current and always changing*— favorite areas of study are logic, type t
 
 【<a href="mailto:jvr34@cornell.edu" style="color: #8B0000;">email</a>】【<a href="https://discord.com/users/294518633541926912" style="color: #8B0000;">discord</a>】【<a href="https://twitter.com/JanPaulV" style="color: #8B0000;">twitter</a>】</p>
 
-> "Idea of a Certain Cat" 2004 -Tokuhiro Kawai (川井徳寛) <img height=100px src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/Tokuhiro%20Kawai2.jpg" align="right">
+> "Idea of a Certain Cat" 2004 -Tokuhiro Kawai (川井徳寛) [<img height=100px src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/Tokuhiro%20Kawai2.jpg" align="right">](https://www.thegreatcat.org/the-cat-in-art-and-photos-2/cats-asian-art/tokuhiro-kawai-1971-present-japanese/)

@@ -10,38 +10,21 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 
 <br>
 
-## stakhanovite
-<h3>
-  <a href="https://research.jpramos.me" style="color: #364491; border-bottom:1px dotted">
-    "research"
-  </a>
-</h3>
+## publications / papers
 
-> conferences, workshops, short papers, publications, and just anything that took a good bit to think about 
 
-<h3>
-  <a href="https://jpramos.me/RNAfoldml/" style="color: #364491; border-bottom:1px dotted">
-    rnafoldml
-  </a>
-</h3>
+<a href="" style="color: #364491">POPL '23</a> <a href="" style="color: #364491; border-bottom:1px dotted">Coming Soon...</a>
+> SRC In Submission
 
-> 【<a href="https://github.com/jpVinnie/RNAfoldml" style="color: #8B0000;">source</a>】 ocaml package for predicting RNA secondary structure
+<a href="https://abstracts.societyforscience.org/Home/FullAbstract?ISEFYears=2021%2C&Category=Any%20Category&Finalist=Ramos&AllAbstracts=True&FairCountry=Puerto%20Rico&FairState=Any%20State&ProjectId=20992" style="color: #364491">ISEF '21</a> <a href="https://github.com/jpVinnie/diffeq-lang" style="color: #364491; border-bottom:1px dotted">Domain Specific Language for differential equations</a> 【<a href="http://jpramos.me/diffeq-lang/web/" style="color: #8B0000;">demo</a>】
 
-<h3>
-  <a href="https://camto.github.io/Lad/Website/" style="color: #364491; border-bottom:1px dotted">
-    discord ladbot
-  </a>
-</h3> 
+> Designed a Programming Language for solving differential equations with a web interface. 
+> *_really uninformed high school paper_
 
-> 【<a href="https://github.com/Camto/Lad" style="color: #8B0000;">source</a>】 discord bot with a lot of cool features (and even it's own *pl* wowzers)
+<a href="https://abstracts.societyforscience.org/Home/FullAbstract?ISEFYears=2020%2C&Category=Any%20Category&Finalist=Ramos&AllAbstracts=True&FairCountry=Puerto%20Rico&FairState=Any%20State&ProjectId=19617" style="color: #364491">ISEF '20</a> <a href="https://github.com/jpVinnie/PythagoreanTriples-PascalsTriangle" style="color: #364491; border-bottom:1px dotted">Pythagorean Triples in Pascal's Triangle: A computational and algebraic approach</a> 
 
-<h3>
-  <a href="https://github.com/jpVinnie?tab=repositories&q=&type=&language=&sort=name" style="color: #364491; border-bottom:1px dotted">
-    (g)old projects
-  </a>
-</h3>
-
-> stuff I've worked on in the past you might be interested in checking out
+> Made a C++ program that calculates Pythagorean Triples by indexing Pascal's Triangle. 
+> *_really uninformed high school paper_
 
 <br>
 

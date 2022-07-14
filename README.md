@@ -4,7 +4,7 @@
 <br>
 
 ## about 
-<a href="https://github.com/jpVinnie" style="color: #364491; border-bottom:1px dotted">GitHub</a> if you're a programmer; <a href="https://www.linkedin.com/in/jpv-ramos/" style="color: #364491; border-bottom:1px dotted">Linkedin</a> if you need a programmer.
+*<a href="https://github.com/jpVinnie" style="color: #364491; border-bottom:1px dotted">GitHub</a> if you're a programmer; <a href="https://www.linkedin.com/in/jpv-ramos/" style="color: #364491; border-bottom:1px dotted">Linkedin</a> if you need a programmer*.
 
 I'm an undergrad student at Cornell University who working towards degrees in Computer Science and Mathematics with a minor in Philosophy.
 

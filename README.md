@@ -1,9 +1,9 @@
 # jan-paul vincent ramos-dávila ![alt text](./Data/icosi.png)
-### programming language theory enthusiast @ cornell university '25 (math / cs / phil)
+### programming languages enthusiast Σ <a href="https://blog.jpramos.me" style="color: #364491; border-bottom:1px dotted">read my blog here</a> Π <a href="https://jpramos.me/Data/cv.pdf" style="color: #364491; border-bottom:1px dotted">cv over here</a>
 
 <br>
 
-## about | <a href="https://blog.jpramos.me" style="color: #364491; border-bottom:1px dotted">blog</a> | <a href="https://jpramos.me/Data/cv.pdf" style="color: #364491; border-bottom:1px dotted">cv</a>
+## about 
 <a href="https://github.com/jpVinnie" style="color: #364491; border-bottom:1px dotted">GitHub</a> if you're a programmer; <a href="https://www.linkedin.com/in/jpv-ramos/" style="color: #364491; border-bottom:1px dotted">Linkedin</a> if you need a programmer.
 
 I'm an undergrad student at Cornell University who working towards degrees in Computer Science and Mathematics with a minor in Philosophy.

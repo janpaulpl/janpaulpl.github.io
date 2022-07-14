@@ -1,6 +1,6 @@
 # <p align="center"> jan-paul vincent ramos-dávila ![alt text](./Data/icosi.png) </p>
-### <p align="center">programming languages enthusiast  Σ Π【<a href="https://blog.jpramos.me" style="color: #8B0000;">read my blog here</a>】【<a href="https://jpramos.me/Data/cv.pdf" style="color: #8B0000;">cv over here</a>】</p>
-<p align="center">【<a href="mailto:jvr34@cornell.edu" style="color: #8B0000;">email</a>】【<a href="https://discord.com/users/294518633541926912" style="color: #8B0000;">discord</a>】【<a href="https://twitter.com/JanPaulV" style="color: #8B0000;">twitter</a>】</p>
+### <p align="center">programming languages enthusiast  Σ Π
+<p align="center">【<a href="https://blog.jpramos.me" style="color: #8B0000;">read my blog here</a>】【<a href="https://jpramos.me/Data/cv.pdf" style="color: #8B0000;">cv</a>】【<a href="mailto:jvr34@cornell.edu" style="color: #8B0000;">email</a>】【<a href="https://discord.com/users/294518633541926912" style="color: #8B0000;">discord</a>】【<a href="https://twitter.com/JanPaulV" style="color: #8B0000;">twitter</a>】</p>
 
 <br>
 

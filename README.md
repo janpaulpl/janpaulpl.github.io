@@ -10,7 +10,7 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 
 <br>
 
-## publications / papers
+## publications
 
 
 <a href="" style="color: #364491">POPL '23</a> <a href="" style="color: #364491; border-bottom:1px dotted">Coming Soon...</a>

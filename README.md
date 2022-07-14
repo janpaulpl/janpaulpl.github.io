@@ -10,6 +10,8 @@ During the school year, I am a part of the <a href="https://capra.cs.cornell.edu
 
 My —*current and always changing*— favorite areas of study are logic, type theory, category theory, linguistics, **analytical** philosophy, and software verification. For objective film ratings <a href="https://letterboxd.com/Vinnely/" style="color: #364491; border-bottom:1px dotted">click here</a>, and for objectively good music <a href="https://bandcamp.com/jpvinnely" style="color: #364491; border-bottom:1px dotted">here</a>.
 
+<br>
+
 ## publications
 
 

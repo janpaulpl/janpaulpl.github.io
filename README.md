@@ -18,7 +18,7 @@ I'm an undergrad student at Cornell University who enjoys programming languages,
 
 <br>
 
-## recent activity
+## recently read
 
 <h4>
   <a href="https://en.wikipedia.org/wiki/Formal_verification" style="color: #364491; border-bottom:1px dotted">

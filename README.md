@@ -1,5 +1,5 @@
 # jan-paul vincent ramos-dávila ![alt text](./Data/icosi.png)
-### programming languages enthusiast Σ <a href="https://blog.jpramos.me" style="color: #364491; border-bottom:1px dotted">read my blog here</a> Π <a href="https://jpramos.me/Data/cv.pdf" style="color: #364491; border-bottom:1px dotted">cv over here</a>
+### programming languages enthusiast  Σ Π【<a href="https://blog.jpramos.me" style="color: #8B0000;">read my blog here</a>】【<a href="https://jpramos.me/Data/cv.pdf" style="color: #8B0000;">cv over here</a>】
 
 <br>
 

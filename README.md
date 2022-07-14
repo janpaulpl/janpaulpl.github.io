@@ -4,7 +4,7 @@
 
 ## about 
 
-I'm an undergrad at Cornell University who working towards degrees in Computer Science and Mathematics with a minor in Philosophy.
+I'm an undergrad at Cornell University working towards degrees in Computer Science and Mathematics with a minor in Philosophy.
 
 During the school year, I am a part of the <a href="https://capra.cs.cornell.edu/" style="color: #364491; border-bottom:1px dotted">CAPRA</a> research group led by <a href="https://www.cs.cornell.edu/~asampson/" style="color: #364491; border-bottom:1px dotted">Adrian Sampson</a> and his doctoral students (<a href="https://rachitnigam.com/" style="color: #364491; border-bottom:1px dotted">1</a>\|<a href="https://griffinberlste.in/" style="color: #364491; border-bottom:1px dotted">2</a>) at Cornell. I also started working with <a href="https://www.cs.cmu.edu/~jlwise/" style="color: #364491; border-bottom:1px dotted">Jenna Wise</a> and her doctoral advisors (<a href="https://www.cs.cmu.edu/~aldrich/" style="color: #364491; border-bottom:1px dotted">1</a>\|<a href="https://www.cs.cmu.edu/~jssunshi/" style="color: #364491; border-bottom:1px dotted">2</a>) on the <a href="https://2020.splashcon.org/details/splash-2020-oopsla/104/Gradual-Verification-of-Recursive-Heap-Data-Structures" style="color: #364491; border-bottom:1px dotted">Gradual Verification project</a> at Carnegie Mellon University through the <a href="https://www.cmu.edu/scs/isr/reuse/" style="color: #364491; border-bottom:1px dotted">REUSE summer program</a>. 
 

@@ -1,11 +1,11 @@
 # <p align="center"> jan-paul vincent ramos-dávila ![alt text](./Data/icosi.png) </p>
 ### <p align="center">programming languages enthusiast  Σ Π
 <p align="center">【<a href="https://blog.jpramos.me" style="color: #8B0000;">read my blog here</a>】【<a href="https://jpramos.me/Data/cv.pdf" style="color: #8B0000;">cv</a>】【<a href="mailto:jvr34@cornell.edu" style="color: #8B0000;">email</a>】【<a href="https://discord.com/users/294518633541926912" style="color: #8B0000;">discord</a>】【<a href="https://twitter.com/JanPaulV" style="color: #8B0000;">twitter</a>】</p>
+<p align="center"> 【<a href="https://github.com/jpVinnie" style="color: #8B0000;">GitHub</a>】if you're a programmer; 【<a href="https://www.linkedin.com/in/jpv-ramos/" style="color: #8B0000;">LinkedIn</a>】if you need a programmer. </p>
 
 <br>
 
 ## about 
-*<a href="https://github.com/jpVinnie" style="color: #364491; border-bottom:1px dotted">GitHub</a> if you're a programmer; <a href="https://www.linkedin.com/in/jpv-ramos/" style="color: #364491; border-bottom:1px dotted">Linkedin</a> if you need a programmer*.
 
 I'm an undergrad at Cornell University who working towards degrees in Computer Science and Mathematics with a minor in Philosophy.
 

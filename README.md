@@ -15,7 +15,7 @@ My —*current and always changing*— favorite areas of study are logic, type t
 ## publications
 
 
-<a href="" style="color: #8B0000">POPL '23</a> <a href="" style="color: #443837; border-bottom:1px dotted">Coming Soon...</a>
+<a href="" style="color: #443837">POPL '23</a> <a href="" style="color: #443837; border-bottom:1px dotted">Coming Soon...</a>
 > SRC In Submission
 
 <br>

@@ -23,7 +23,7 @@ My —*current and always changing*— favorite areas of study are logic, type t
 <br>
 
 
-【<a href="mailto:jvr34@cornell.edu" style="color: #8B0000;">email</a>】【<a href="https://discord.com/users/294518633541926912" style="color: #8B0000;">discord</a>】【<a href="https://twitter.com/JanPaulV" style="color: #8B0000;">twitter</a>】</p>
+【<a href="mailto:jvr34@cornell.edu" style="color: #8B0000;">**email**</a>】【<a href="https://discord.com/users/294518633541926912" style="color: #8B0000;">**discord**</a>】【<a href="https://twitter.com/JanPaulV" style="color: #8B0000;">**twitter**</a>】</p>
 
 <br>
 

@@ -13,10 +13,11 @@ My —*current and always changing*— favorite areas of study are logic, type t
 <br>
 
 ## publications
+> `*` indicates equal contribution
 
+POPL '23 <a href="" style="color: #8B0000; border-bottom:1px dotted">Empirical Soundness Evaluation of Gradually Verified C0</a>
 
-<a href="" style="color: #8B0000">*POPL '23*</a> <a href="" style="color: #8B0000; border-bottom:1px dotted">Coming Soon...</a>
-> SRC In Submission
+*In Submission*
 
 <br>
 

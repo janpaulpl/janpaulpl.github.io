@@ -15,7 +15,7 @@ My —*current and always changing*— favorite areas of study are logic, type t
 ## publications
 > `*` indicates equal contribution
 
-POPL '23 <a href="http://jpramos.me/Data/2022%2008.05%20REUSE%20Poster%20-%20JanPaulVRamosEmpiricalSoundnessofGradualVerification.pdf" style="color: #8B0000; border-bottom:1px dotted">Empirical Soundness Evaluation of Gradually Verified C0</a>
+POPL '23 [SRC] <a href="http://jpramos.me/Data/2022%2008.05%20REUSE%20Poster%20-%20JanPaulVRamosEmpiricalSoundnessofGradualVerification.pdf" style="color: #8B0000; border-bottom:1px dotted">Empirical Soundness Evaluation of Gradually Verified C0</a>
 
 *In Submission*
 

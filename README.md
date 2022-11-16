@@ -2,7 +2,7 @@
 ### <p align="center">Σ programming languages enthusiast Γ </p>
 #### <p align="center">【<a href="https://blog.jpramos.me" style="color: #8B0000;">blog</a>】【<a href="https://jpramos.me/Data/cv.pdf" style="color: #8B0000;">cv</a>】【<a href="https://github.com/jpVinnie" style="color: #8B0000;">github</a>】【<a href="https://www.linkedin.com/in/jpv-ramos/" style="color: #8B0000;">linkedin</a>】</p>
 
-[<img height=75px src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/ORCID.png" align="right">](https://orcid.org/0000-0003-1055-6785)
+[<img height=80px src="https://raw.githubusercontent.com/jpVinnie/jpvinnie.github.io/master/Data/ORCID.png" align="right">](https://orcid.org/0000-0003-1055-6785)
 ## about 
 
 Hi! I'm an undergrad at Cornell University working towards degrees in Computer Science and Philosophy.

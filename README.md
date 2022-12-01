@@ -25,7 +25,7 @@ POPL '23 [SRC] <a href="http://jpramos.me/Data/2022%2008.05%20REUSE%20Poster%20-
 <br>
 
 
-【<a href="mailto:jvr34@cornell.edu" style="color: #8B0000;">**email**</a>】【<a href="https://discord.com/users/294518633541926912" style="color: #8B0000;">**discord**</a>】【<a href="https://twitter.com/JanPaulV" style="color: #8B0000;">**twitter**</a>】</p>
+【<a href="mailto:jvr34@cornell.edu" style="color: #8B0000;">**email**</a>】【<a href="https://discord.com/users/294518633541926912" style="color: #8B0000;">**discord**</a>】【<a href="https://twitter.com/JanPaulV" style="color: #8B0000;">**twitter**</a>】【<a href="http://member.acm.org/~jan-paulramos" style="color: #8B0000;">**funny acm vcard**</a>】</p>
 
 <br>
 

@@ -14,7 +14,6 @@ My —*current and always changing*— favorite areas of study are logic, type t
 <br>
 
 ## publications
-> `*` indicates equal contribution
 
 POPL '23 (SRC) <a href="https://popl23.sigplan.org/track/POPL-2023-student-research-competition" style="color: #8B0000; border-bottom:1px dotted">Evaluating Soundness of a Gradual Verifier with Property Based Testing</a>  ( <a href="https://github.com/gradual-verification/gvc0" style="color: #8B0000; border-bottom:1px dotted">code</a> | <a href="https://jpramos.me/Data/popl23src-paper20.pdf" style="color: #8B0000; border-bottom:1px dotted">paper</a> | <a href="http://jpramos.me/Data/2022%2008.05%20REUSE%20Poster%20-%20JanPaulVRamosEmpiricalSoundnessofGradualVerification.pdf" style="color: #8B0000; border-bottom:1px dotted">poster</a> )
 ##### Jan-Paul Ramos-Dávila

@@ -22,7 +22,7 @@ My —*current and always changing*— favorite areas of study are logic, type t
 
 ## projects
 
-**λ** <a href="https://jpramos.me/RNAfoldml/" style="color: #8B0000; border-bottom:1px dotted">**RNAfoldml**</a>: An OCaml package that enables users to input both RNA sequences in FASTA format and a set of constraints to predict RNA secondary structure.
+**λ** <a href="https://jpramos.me/RNAfoldml/" style="color: #8B0000; border-bottom:1px dotted">RNAfoldml</a>: An OCaml package that enables users to input both RNA sequences in FASTA format and a set of constraints to predict RNA secondary structure.
 
 <br>
 

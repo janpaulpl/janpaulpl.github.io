@@ -20,8 +20,13 @@ My —*current and always changing*— favorite areas of study are logic, type t
 
 <br>
 
+## projects
+
+λ <a href="https://jpramos.me/RNAfoldml/" style="color: #8B0000; border-bottom:1px dotted">RNAfoldml</a>: An OCaml package that enables users to input both RNA sequences in FASTA format and a set of constraints to predict RNA secondary structure.
+
 <br>
 
+<br>
 
 【<a href="mailto:jvr34@cornell.edu" style="color: #8B0000;">**email**</a>】【<a href="https://discord.com/users/294518633541926912" style="color: #8B0000;">**discord**</a>】【<a href="https://twitter.com/JanPaulV" style="color: #8B0000;">**twitter**</a>】【<a href="http://member.acm.org/~jan-paulramos" style="color: #8B0000;">**funny acm vcard**</a>】</p>
 

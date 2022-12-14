@@ -15,14 +15,14 @@ My —*current and always changing*— favorite areas of study are logic, type t
 
 ## publications
 
-**POPL '23 (SRC)** *Evaluating Soundness of a Gradual Verifier with Property Based Testing*  ( <a href="https://github.com/gradual-verification/gvc0" style="color: #8B0000; border-bottom:1px dotted">code</a> | <a href="https://jpramos.me/Data/popl23src-paper20.pdf" style="color: #8B0000; border-bottom:1px dotted">paper</a> | <a href="http://jpramos.me/Data/2022%2008.05%20REUSE%20Poster%20-%20JanPaulVRamosEmpiricalSoundnessofGradualVerification.pdf" style="color: #8B0000; border-bottom:1px dotted">poster</a> )
+POPL '23 (SRC) *Evaluating Soundness of a Gradual Verifier with Property Based Testing*  ( <a href="https://github.com/gradual-verification/gvc0" style="color: #8B0000; border-bottom:1px dotted">code</a> | <a href="https://jpramos.me/Data/popl23src-paper20.pdf" style="color: #8B0000; border-bottom:1px dotted">paper</a> | <a href="http://jpramos.me/Data/2022%2008.05%20REUSE%20Poster%20-%20JanPaulVRamosEmpiricalSoundnessofGradualVerification.pdf" style="color: #8B0000; border-bottom:1px dotted">poster</a> )
 ##### Jan-Paul Ramos-Dávila
 
 <br>
 
 ## projects
 
-**λ** <a href="https://jpramos.me/RNAfoldml/" style="color: #8B0000; border-bottom:1px dotted">RNAfoldml</a>: An OCaml package that enables users to input both RNA sequences in FASTA format and a set of constraints to predict RNA secondary structure.
+λ <a href="https://jpramos.me/RNAfoldml/" style="color: #8B0000; border-bottom:1px dotted">RNAfoldml</a>: An OCaml package that enables users to input both RNA sequences in FASTA format and a set of constraints to predict RNA secondary structure.
 
 <br>
 

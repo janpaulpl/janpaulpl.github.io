@@ -11,7 +11,7 @@ During academic months, I am a part of the <a href="https://capra.cs.cornell.edu
 
 I am also currently working with <a href="https://www.cs.cmu.edu/~jlwise/" style="color: #8B0000; border-bottom:1px dotted">Jenna DiVincenzo</a> and her doctoral advisors ( <a href="https://www.cs.cmu.edu/~aldrich/" style="color: #8B0000; border-bottom:1px dotted">1</a> \| <a href="https://www.cs.cmu.edu/~jssunshi/" style="color: #8B0000; border-bottom:1px dotted">2</a> ) on a <a href="https://github.com/gradual-verification/gvc0/" style="color: #8B0000; border-bottom:1px dotted">verifier that leverages partial specifications for scalability in specification-driven verification</a> at Carnegie Mellon University through the <a href="https://www.cmu.edu/scs/isr/reuse/" style="color: #8B0000; border-bottom:1px dotted">REUSE internship</a>. 
 
-Somewhere along these lines, my main research goals involve developing practical tools for formal verification in general **and** domain-specific areas through programming language theory.
+Somewhere along these lines, my main research goals involve developing practical tools for software verification in the general **and** domain-specific case through programming language theory.
 
 My —*current and always changing*— favorite areas of study are logic, type theory, category theory, linguistics, **analytical** philosophy, and software verification. For objective film ratings <a href="https://letterboxd.com/Vinnely/" style="color: #8B0000; border-bottom:1px dotted">click here</a>, and for objectively good music <a href="https://bandcamp.com/jpvinnely" style="color: #8B0000; border-bottom:1px dotted">here</a>.
 

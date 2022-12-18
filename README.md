@@ -13,8 +13,6 @@ I am also currently working with <a href="https://www.cs.cmu.edu/~aldrich/" styl
 
 Somewhere along these lines, my main research goals involve developing practical tools for software verification in the general **and** domain-specific case through programming language theory.
 
-My —*current and always changing*— favorite areas of study are logic, type theory, category theory, linguistics, **analytical** philosophy, and software verification. For objective film ratings <a href="https://letterboxd.com/Vinnely/" style="color: #8B0000; border-bottom:1px dotted">click here</a>, and for objectively good music <a href="https://bandcamp.com/jpvinnely" style="color: #8B0000; border-bottom:1px dotted">here</a>.
-
 <br>
 
 ## publications

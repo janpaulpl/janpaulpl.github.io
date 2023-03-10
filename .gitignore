@@ -1,1 +1,12 @@
 public/
+Data/resume/cv.aux
+Data/resume/cv.bbl
+Data/resume/cv.bcf
+.gitignore
+Data/resume/cv.blg
+Data/resume/cv.fdb_latexmk
+Data/resume/cv.fls
+Data/resume/cv.log
+Data/resume/cv.out
+Data/resume/cv.run.xml
+Data/resume/cv.synctex.gz

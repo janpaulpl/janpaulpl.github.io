@@ -10,3 +10,7 @@ data/resume/cv.log
 data/resume/cv.out
 data/resume/cv.run.xml
 data/resume/cv.synctex.gz
+data/resume/conf/preamble.log
+data/resume/conf/preamble.fdb_latexmk
+data/resume/conf/preamble.aux
+data/resume/conf/preamble.fls

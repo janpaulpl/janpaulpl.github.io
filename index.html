@@ -7,10 +7,14 @@
   <title>Jan-Paul 😎</title>
   <link rel="icon" href="data/imgs/favicon.ico">
   <link href='https://fonts.googleapis.com/css?family=Fira Code' rel='stylesheet'>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,500&family=Scope+One&display=swap" rel="stylesheet"> 
   <style>
-    body {background-color: #212228;}
+    body {background-color: #282828;}
+    .light-mode {
+    background-color: #f7f4f0;
+    color: #282828;} 
     div   {color: #ebdad0;}
-    div {font-family: Verdana, Geneva, Tahoma, sans-serif}
+    div {font-family: 'Lora'; font-size: 18px;}
     .heading{
       font-size:_;
       color:_;
@@ -26,13 +30,20 @@
       color: #ff9480;
       }
     .default{
-      font-size:_;
       color:#6688ff;
+      font-size: 14px;
+      font-family: 'Fira Code';
       }
     .default:hover {
       color: #ff9480;
       }
   </style>
+  <script>
+    function myFunction() {
+      var element = document.body;
+      element.classList.toggle("light-mode");
+    } 
+  </script>
 </head>
 <body>
   <div class="grid place-items-center">
@@ -62,12 +73,12 @@
             </div>
             <div class="text-sm text-sky-600 p-3 grid place-items-center">
               <div>
-              【<a href="mailto:jvr34@cornell.edu" class="default" target="_blank" rel="noopener noreferrer">jvr34@cornell.edu</a>】
-              【<a href="data/resume/cv.pdf" class="default" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>】
-              【<a href="https://www.linkedin.com/in/jpv-ramos/" class="default" target="_blank" rel="noopener noreferrer">LinkedIn</a>】
-              【<a href="https://github.com/jpVinnie/" class="default" target="_blank" rel="noopener noreferrer">GitHub</a>】
+              <a href="mailto:jvr34@cornell.edu" class="default" target="_blank" rel="noopener noreferrer">【jvr34@cornell.edu】</a>
+              <a href="data/resume/cv.pdf" class="default" target="_blank" rel="noopener noreferrer">【Curriculum Vitae】</a>
+              <a href="https://www.linkedin.com/in/jpv-ramos/" class="default" target="_blank" rel="noopener noreferrer">【LinkedIn】</a>
+              <a href="https://github.com/jpVinnie/" class="default" target="_blank" rel="noopener noreferrer">【GitHub】</a>
               </div>
-              <p style="font-family: 'Fira Code'; font-size: small; color:#212228">
+              <p style="font-family: 'Fira Code'; font-size: small; color:#282828">
                 --<-<<+[+[<+>--->->->-<<<]>]<<--.<++++++.<<-..<<.<+.>>.>>.<<<.+++.>>.>>-.<<<+.
               </p>
           </div>
@@ -78,7 +89,7 @@
       </div>
       <div class="">
         <div class="p-3">
-          <div class="text-xl font-bold">
+          <div class="text-xl font-bold" style="font-size: 25px;">
           Publications
           </div>
           <div class="text-xs">
@@ -97,13 +108,13 @@
               <b>Jan-Paul Ramos-Dávila</b>
             </div>
             <div class="">
-              【<a href="https://journals.library.cornell.edu/index.php/CURJ/" class="default" target="_blank" rel="noopener noreferrer">Paper</a>】
+              <a href="https://journals.library.cornell.edu/index.php/CURJ/" class="default" target="_blank" rel="noopener noreferrer">【Paper】</a>
             </div>     
           </div>
         </div>
         <br>
         <div class="p-3">
-          <div class="text-xl font-bold">
+          <div class="text-xl font-bold" style="font-size: 25px;">
           Presentations
           </div>
         </div>
@@ -119,17 +130,17 @@
               <b>Jan-Paul Ramos-Dávila</b>
             </div>
             <div class="">
-              【<a href="https://stei.substack.com/p/what-is-gradual-verification" class="default" target="_blank" rel="noopener noreferrer">Blog Post</a>】
-              【<a href="https://github.com/gradual-verification/gvc0" class="default" target="_blank" rel="noopener noreferrer">Code</a>】
-              【<a href="https://jpramos.me/data/pdf/popl23src-paper20.pdf" class="default" target="_blank" rel="noopener noreferrer">Extended Abstract</a>】
-              【<a href="https://jpramos.me/data/pdf/POPL%2023%20SRC%20POSTER.pdf" class="default" target="_blank" rel="noopener noreferrer">Poster</a>】
-              【<a href="https://www.youtube.com/watch?v=sIIwmw0z2Yg" class="default" target="_blank" rel="noopener noreferrer">Video Presentation</a>】
+              <a href="https://stei.substack.com/p/what-is-gradual-verification" class="default" target="_blank" rel="noopener noreferrer">【Blog Post】</a>
+              <a href="https://github.com/gradual-verification/gvc0" class="default" target="_blank" rel="noopener noreferrer">【Code】</a>
+              <a href="https://jpramos.me/data/pdf/popl23src-paper20.pdf" class="default" target="_blank" rel="noopener noreferrer">【Extended Abstract】</a>
+              <a href="https://jpramos.me/data/pdf/POPL%2023%20SRC%20POSTER.pdf" class="default" target="_blank" rel="noopener noreferrer">【Poster】</a>
+              <a href="https://www.youtube.com/watch?v=sIIwmw0z2Yg" class="default" target="_blank" rel="noopener noreferrer">【Video Presentation】</a>
             </div>     
           </div>
         </div>
         <br>
         <div class="p-3">
-          <div class="text-xl font-bold">
+          <div class="text-xl font-bold" style="font-size: 25px;">
           Cool Projects
           </div>
         </div>
@@ -142,9 +153,9 @@
               <a href="https://github.com/cyankaet" style="border-bottom:1px dotted" class="heading" target="_blank" rel="noopener noreferrer">Kate Meuse</a>, <b>Jan-Paul Ramos-Dávila</b>, <a href="https://github.com/zwt299" style="border-bottom:1px dotted" class="heading" target="_blank" rel="noopener noreferrer">Zachary Thurston</a>
             </div>
             <div class="">
-              【<a href="https://github.com/zwt299/spec-miners/tree/master/run-spec-miners" class="default" target="_blank" rel="noopener noreferrer">Code</a>】
-              【<a href="https://www.cs.cornell.edu/courses/cs6156/2023sp/" class="default" target="_blank" rel="noopener noreferrer">Course</a>】
-              【<a href="" class="default" target="_blank" rel="noopener noreferrer">Paper</a>】
+              <a href="https://github.com/zwt299/spec-miners/tree/master/run-spec-miners" class="default" target="_blank" rel="noopener noreferrer">【Code】</a>
+              <a href="https://www.cs.cornell.edu/courses/cs6156/2023sp/" class="default" target="_blank" rel="noopener noreferrer">【Course】</a>
+              <a href="" class="default" target="_blank" rel="noopener noreferrer">【Paper】</a>
             </div>
           </div>
           <div class="col-span-2 p-3">
@@ -155,7 +166,7 @@
               <a href="https://github.com/imbush/" style="border-bottom:1px dotted" class="heading" target="_blank" rel="noopener noreferrer">Inle Bush</a>, <a href="https://github.com/s-ye" style="border-bottom:1px dotted" class="heading" target="_blank" rel="noopener noreferrer">Songyu Ye</a>, <b>Jan-Paul Ramos-Dávila</b>
             </div>
             <div class="">
-              【<a href="https://github.com/jpVinnie/RNAfoldml/" class="default" target="_blank" rel="noopener noreferrer">Code</a>】
+              <a href="https://github.com/jpVinnie/RNAfoldml/" class="default" target="_blank" rel="noopener noreferrer">【Code】</a>
             </div>
           </div>
           <div class="col-span-2 p-3">
@@ -166,13 +177,13 @@
               <a href="https://github.com/Camto/" style="border-bottom:1px dotted" class="heading" target="_blank" rel="noopener noreferrer">Benjamin Philippe</a>, <b>Jan-Paul Ramos-Dávila</b>
             </div>
             <div class="">
-              【<a href="https://github.com/jpVinnie/diffeq-lang/" class="default" target="_blank" rel="noopener noreferrer">Code</a>】
+              <a href="https://github.com/jpVinnie/diffeq-lang/" class="default" target="_blank" rel="noopener noreferrer">【Code】</a>
             </div>
           </div>
         </div>
         <br>
         <br>
-        <center><a href="https://www.thegreatcat.org/the-cat-in-art-and-photos-2/cats-asian-art/tokuhiro-kawai-1971-present-japanese" style="font-size: 14px;" class="default" target="_blank" rel="noopener noreferrer">Idea of a Certain Cat 2004 -Tokuhiro Kawai (川井徳寛)</a></center>
+        <center><a href="https://www.thegreatcat.org/the-cat-in-art-and-photos-2/cats-asian-art/tokuhiro-kawai-1971-present-japanese" style="font-size: 14px; font-family: 'Lora'" class="heading" target="_blank" rel="noopener noreferrer">Idea of a Certain Cat 2004 -Tokuhiro Kawai (川井徳寛)</a></center>
       <center><img width="25%"src="data/imgs/Tokuhiro Kawai3.jpg" alt="Idea of a Certain Cat 2004 -Tokuhiro Kawai (川井徳寛)"></center>
     </div>
   </div>

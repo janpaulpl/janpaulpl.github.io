@@ -1,50 +1,22 @@
 <!doctype html>
 <html>
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://cdn.tailwindcss.com"></script>
   <title>Jan-Paul 😎</title>
+  
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script type="text/javascript" src="script.js"></script>
+
   <link rel="icon" href="data/imgs/favicon.ico">
   <link href='https://fonts.googleapis.com/css?family=Fira Code' rel='stylesheet'>
-  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,500&family=Scope+One&display=swap" rel="stylesheet"> 
-  <style>
-    body {background-color: #282828;}
-    .light-mode {
-    background-color: #f7f4f0;
-    color: #282828;} 
-    div   {color: #ebdad0;}
-    div {font-family: 'Lora'; font-size: 18px;}
-    .heading{
-      font-size:_;
-      color:_;
-      }
-    .heading:hover {
-      color: #ff9480;
-      }
-    .link{
-      font-size:_;
-      color:#d79921;
-      }
-    .link:hover {
-      color: #ff9480;
-      }
-    .default{
-      color:#6688ff;
-      font-size: 14px;
-      font-family: 'Fira Code';
-      }
-    .default:hover {
-      color: #ff9480;
-      }
-  </style>
-  <script>
-    function myFunction() {
-      var element = document.body;
-      element.classList.toggle("light-mode");
-    } 
-  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;1,500&family=Scope+One&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+
 </head>
+
 <body>
   <div class="grid place-items-center">
     <div class="max-w-4xl p-6">
@@ -52,142 +24,185 @@
         <div class="grid place-items-center p-3">
           <a href="https://jpramos.me/old_site/jpVinnie"><img class="rounded-full" src="data/imgs/headshot.jpg"></a>
         </div>
-
         <div class="col-span-4">
+          <div>
+            <p style = "float: right;"><img width="40px" id="mode" onclick="change_icon();change_style()" src="https://img.icons8.com/emoji/512/white-circle-emoji.png" alt="change style"></p>
+          </div>
           <div class="font-bold text-3xl p-3 grid place-items-center">
-          Jan-Paul Vincent Ramos-Dávila
+            Jan-Paul Vincent Ramos-Dávila
           </div>
           <div>
-            <center>Visit my <a href="https://stei.substack.com" class="link" style="border-bottom:1px dotted">Substack<a> blog!
+            <center>Visit my <a href="https://stei.substack.com" id="substack" class="substack"
+                style="border-bottom:1px dotted">Substack<a> blog! 
           </div>
           <br>
           <div class="text-md p-3 grid place-items-center">
             <div>
-              Ciao! I'm a Sophomore at Cornell University working towards degrees in Computer Science & Philosophy. My main research interests involve developing practical tools for software verification using both formal & lightweight methods.
+              Ciao! I'm a Sophomore at Cornell University working towards degrees in Computer Science & Philosophy. My
+              main research interests involve developing practical tools for software verification using both formal &
+              lightweight methods.
               <br>
               &nbsp;
               <br>
-              I conduct research with <a href="https://www.cs.cmu.edu/~aldrich/" class="heading" style="border-bottom:1px dotted">Dr. Jonathan Aldrich</a> & <a href="https://www.cs.cmu.edu/~jssunshi/" class="heading" style="border-bottom:1px dotted">Dr. Joshua Sunshine</a> along with their graduate students ( <a href="https://www.cs.cmu.edu/~jlwise/" class="heading" style="border-bottom:1px dotted">1</a> | <a href="https://icmccorm.me/" class="heading" style="border-bottom:1px dotted">2</a> ) on a <a href="https://github.com/gradual-verification/gvc0/" class="heading" style="border-bottom:1px dotted"><em>gradual verifier</em> that leverages partial specifications for scalability in specification-driven verification</a> at Carnegie Mellon University. 
+              I conduct research with <a href="https://www.cs.cmu.edu/~aldrich/" id="heading" class="heading"
+                style="border-bottom:1px dotted">Dr. Jonathan Aldrich</a> & <a href="https://www.cs.cmu.edu/~jssunshi/"
+                id="heading" class="heading" style="border-bottom:1px dotted">Dr. Joshua Sunshine</a> along with their graduate
+              students ( <a href="https://www.cs.cmu.edu/~jlwise/" id="heading" class="heading"
+                style="border-bottom:1px dotted">1</a> | <a href="https://icmccorm.me/" id="heading" class="heading"
+                style="border-bottom:1px dotted">2</a> ) on a <a href="https://github.com/gradual-verification/gvc0/"
+                id="heading" class="heading" style="border-bottom:1px dotted"><em>gradual verifier</em> that leverages partial
+                specifications for scalability in specification-driven verification</a> at Carnegie Mellon University.
               <br>
             </div>
-            </div>
-            <div class="text-sm text-sky-600 p-3 grid place-items-center">
-              <div>
-              <a href="mailto:jvr34@cornell.edu" class="default" target="_blank" rel="noopener noreferrer">【jvr34@cornell.edu】</a>
-              <a href="data/resume/cv.pdf" class="default" target="_blank" rel="noopener noreferrer">【Curriculum Vitae】</a>
-              <a href="https://www.linkedin.com/in/jpv-ramos/" class="default" target="_blank" rel="noopener noreferrer">【LinkedIn】</a>
-              <a href="https://github.com/jpVinnie/" class="default" target="_blank" rel="noopener noreferrer">【GitHub】</a>
-              </div>
-              <p style="font-family: 'Fira Code'; font-size: small; color:#282828">
-                --<-<<+[+[<+>--->->->-<<<]>]<<--.<++++++.<<-..<<.<+.>>.>>.<<<.+++.>>.>>-.<<<+.
-              </p>
-          </div>
           </div>
           <div class="text-sm text-sky-600 p-3 grid place-items-center">
+            <div>
+              <a href="mailto:jvr34@cornell.edu" id="default" class="default" target="_blank"
+                rel="noopener noreferrer">【jvr34@cornell.edu】</a>
+              <a href="data/resume/cv.pdf" id="default" class="default" target="_blank" rel="noopener noreferrer">【Curriculum
+                Vitae】</a>
+              <a href="https://www.linkedin.com/in/jpv-ramos/" id="default" class="default" target="_blank"
+                rel="noopener noreferrer">【LinkedIn】</a>
+              <a href="https://github.com/jpVinnie/" id="default" class="default" target="_blank"
+                rel="noopener noreferrer">【GitHub】</a>
+            </div>
+            <p id="mode-sec" style="font-family: 'Fira Code'; font-size: small; color:#282828">
+              --<-<<+[+[<+>--->->->-<<<]>]<<--.<++++++.<<-..<<.<+.>>.>>.<<<.+++.>>.>>-.<<<+. </p>
+          </div>
+        </div>
+        <div class="text-sm text-sky-600 p-3 grid place-items-center">
+        </div>
+      </div>
+    </div>
+    <div class="">
+      <div class="p-3">
+        <div class="text-xl font-bold" style="font-size: 25px;">
+          Publications
+        </div>
+        <div class="text-xs">
+          * indicates equal contribution
+        </div>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <div class="col-span-2 p-3">
+          <div>
+            Evaluating Soundness of a Gradual Verifier with Property Based Testing
+          </div>
+          <div>
+            <a href="https://journals.library.cornell.edu/index.php/CURJ/" style="border-bottom:1px dotted"
+              id="heading" class="heading" target="_blank" rel="noopener noreferrer">Cornell Undergraduate Research Journal '23 Vol.
+              2 No. 1</a>
+          </div>
+          <div>
+            <b>Jan-Paul Ramos-Dávila</b>
+          </div>
+          <div class="">
+            <a href="https://journals.library.cornell.edu/index.php/CURJ/" id="default" class="default" target="_blank"
+              rel="noopener noreferrer">【Paper】</a>
           </div>
         </div>
       </div>
-      <div class="">
-        <div class="p-3">
-          <div class="text-xl font-bold" style="font-size: 25px;">
-          Publications
-          </div>
-          <div class="text-xs">
-            * indicates equal contribution
-          </div>
-        </div>
-        <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
-          <div class="col-span-2 p-3">
-            <div>
-              Evaluating Soundness of a Gradual Verifier with Property Based Testing
-            </div>
-            <div>
-              <a href="https://journals.library.cornell.edu/index.php/CURJ/" style="border-bottom:1px dotted" class="heading" target="_blank" rel="noopener noreferrer">Cornell Undergraduate Research Journal '23 Vol. 2 No. 1</a>
-            </div>
-            <div>
-              <b>Jan-Paul Ramos-Dávila</b>
-            </div>
-            <div class="">
-              <a href="https://journals.library.cornell.edu/index.php/CURJ/" class="default" target="_blank" rel="noopener noreferrer">【Paper】</a>
-            </div>     
-          </div>
-        </div>
-        <br>
-        <div class="p-3">
-          <div class="text-xl font-bold" style="font-size: 25px;">
+      <br>
+      <div class="p-3">
+        <div class="text-xl font-bold" style="font-size: 25px;">
           Presentations
+        </div>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <div class="col-span-2 p-3">
+          <div>
+            Evaluating Soundness of a Gradual Verifier with Property Based Testing
+          </div>
+          <div>
+            <a href="https://popl23.sigplan.org/details/POPL-2023-student-research-competition/13/Evaluating-Soundness-of-a-Gradual-Verifier-with-Property-Based-Testing"
+              style="border-bottom:1px dotted" id="heading" class="heading" target="_blank" rel="noopener noreferrer">POPL '23
+              Student Research Competition</a>
+          </div>
+          <div>
+            <b>Jan-Paul Ramos-Dávila</b>
+          </div>
+          <div class="">
+            <a href="https://stei.substack.com/p/what-is-gradual-verification" id="default" class="default" target="_blank"
+              rel="noopener noreferrer">【Blog Post】</a>
+            <a href="https://github.com/gradual-verification/gvc0" id="default" class="default" target="_blank"
+              rel="noopener noreferrer">【Code】</a>
+            <a href="https://jpramos.me/data/pdf/popl23src-paper20.pdf" id="default" class="default" target="_blank"
+              rel="noopener noreferrer">【Extended Abstract】</a>
+            <a href="https://jpramos.me/data/pdf/POPL%2023%20SRC%20POSTER.pdf" id="default" class="default" target="_blank"
+              rel="noopener noreferrer">【Poster】</a>
+            <a href="https://www.youtube.com/watch?v=sIIwmw0z2Yg" id="default" class="default" target="_blank"
+              rel="noopener noreferrer">【Video Presentation】</a>
           </div>
         </div>
-        <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
-          <div class="col-span-2 p-3">
-            <div>
-              Evaluating Soundness of a Gradual Verifier with Property Based Testing
-            </div>
-            <div>
-              <a href="https://popl23.sigplan.org/details/POPL-2023-student-research-competition/13/Evaluating-Soundness-of-a-Gradual-Verifier-with-Property-Based-Testing" style="border-bottom:1px dotted" class="heading" target="_blank" rel="noopener noreferrer">POPL '23 Student Research Competition</a>
-            </div>
-            <div>
-              <b>Jan-Paul Ramos-Dávila</b>
-            </div>
-            <div class="">
-              <a href="https://stei.substack.com/p/what-is-gradual-verification" class="default" target="_blank" rel="noopener noreferrer">【Blog Post】</a>
-              <a href="https://github.com/gradual-verification/gvc0" class="default" target="_blank" rel="noopener noreferrer">【Code】</a>
-              <a href="https://jpramos.me/data/pdf/popl23src-paper20.pdf" class="default" target="_blank" rel="noopener noreferrer">【Extended Abstract】</a>
-              <a href="https://jpramos.me/data/pdf/POPL%2023%20SRC%20POSTER.pdf" class="default" target="_blank" rel="noopener noreferrer">【Poster】</a>
-              <a href="https://www.youtube.com/watch?v=sIIwmw0z2Yg" class="default" target="_blank" rel="noopener noreferrer">【Video Presentation】</a>
-            </div>     
-          </div>
-        </div>
-        <br>
-        <div class="p-3">
-          <div class="text-xl font-bold" style="font-size: 25px;">
+      </div>
+      <br>
+      <div class="p-3">
+        <div class="text-xl font-bold" style="font-size: 25px;">
           Cool Projects
+        </div>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <div class="col-span-2 p-3">
+          <div>
+            Co-Evolution of Code and Mined Specifications
+          </div>
+          <div>
+            <a href="https://github.com/cyankaet" style="border-bottom:1px dotted" id="heading" class="heading" target="_blank"
+              rel="noopener noreferrer">Kate Meuse</a>, <b>Jan-Paul Ramos-Dávila</b>, <a
+              href="https://github.com/zwt299" style="border-bottom:1px dotted" id="heading" class="heading" target="_blank"
+              rel="noopener noreferrer">Zachary Thurston</a>
+          </div>
+          <div class="">
+            <a href="https://github.com/zwt299/spec-miners/tree/master/run-spec-miners" id="default" class="default" target="_blank"
+              rel="noopener noreferrer">【Code】</a>
+            <a href="https://www.cs.cornell.edu/courses/cs6156/2023sp/" id="default" class="default" target="_blank"
+              rel="noopener noreferrer">【Course】</a>
+            <a href="" id="default" class="default" target="_blank" rel="noopener noreferrer">【Paper】</a>
           </div>
         </div>
-        <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
-          <div class="col-span-2 p-3">
-            <div>
-              Co-Evolution of Code and Mined Specifications
-            </div>
-            <div>
-              <a href="https://github.com/cyankaet" style="border-bottom:1px dotted" class="heading" target="_blank" rel="noopener noreferrer">Kate Meuse</a>, <b>Jan-Paul Ramos-Dávila</b>, <a href="https://github.com/zwt299" style="border-bottom:1px dotted" class="heading" target="_blank" rel="noopener noreferrer">Zachary Thurston</a>
-            </div>
-            <div class="">
-              <a href="https://github.com/zwt299/spec-miners/tree/master/run-spec-miners" class="default" target="_blank" rel="noopener noreferrer">【Code】</a>
-              <a href="https://www.cs.cornell.edu/courses/cs6156/2023sp/" class="default" target="_blank" rel="noopener noreferrer">【Course】</a>
-              <a href="" class="default" target="_blank" rel="noopener noreferrer">【Paper】</a>
-            </div>
+        <div class="col-span-2 p-3">
+          <div>
+            <em>RNAfoldml</em>: An OCaml package for predicting RNA secondary structure
           </div>
-          <div class="col-span-2 p-3">
-            <div>
-              <em>RNAfoldml</em>: An OCaml package for predicting RNA secondary structure
-            </div>
-            <div>
-              <a href="https://github.com/imbush/" style="border-bottom:1px dotted" class="heading" target="_blank" rel="noopener noreferrer">Inle Bush</a>, <a href="https://github.com/s-ye" style="border-bottom:1px dotted" class="heading" target="_blank" rel="noopener noreferrer">Songyu Ye</a>, <b>Jan-Paul Ramos-Dávila</b>
-            </div>
-            <div class="">
-              <a href="https://github.com/jpVinnie/RNAfoldml/" class="default" target="_blank" rel="noopener noreferrer">【Code】</a>
-              <a href="https://www.cs.cornell.edu/courses/cs3110/2022sp/" class="default" target="_blank" rel="noopener noreferrer">【Course】</a>
-            </div>
+          <div>
+            <a href="https://github.com/imbush/" style="border-bottom:1px dotted" id="heading" class="heading" target="_blank"
+              rel="noopener noreferrer">Inle Bush</a>, <a href="https://github.com/s-ye"
+              style="border-bottom:1px dotted" id="heading" class="heading" target="_blank" rel="noopener noreferrer">Songyu Ye</a>,
+            <b>Jan-Paul Ramos-Dávila</b>
           </div>
-          <div class="col-span-2 p-3">
-            <div>
-              <em>Diffeq-lang</em>: DSL for solving differential equations
-            </div>
-            <div>
-              <a href="https://github.com/Camto/" style="border-bottom:1px dotted" class="heading" target="_blank" rel="noopener noreferrer">Benjamin Philippe</a>, <b>Jan-Paul Ramos-Dávila</b>
-            </div>
-            <div class="">
-              <a href="https://github.com/jpVinnie/diffeq-lang/" class="default" target="_blank" rel="noopener noreferrer">【Code】</a>
-              <a href="https://projectboard.world/isef/project/math029t---dsl-for-des-with-denotational-semantics" class="default" target="_blank" rel="noopener noreferrer">【Presentation】</a>
-            </div>
+          <div class="">
+            <a href="https://github.com/jpVinnie/RNAfoldml/" id="default" class="default" target="_blank"
+              rel="noopener noreferrer">【Code】</a>
+            <a href="https://www.cs.cornell.edu/courses/cs3110/2022sp/" id="default" class="default" target="_blank"
+              rel="noopener noreferrer">【Course】</a>
           </div>
         </div>
-        <br>
-        <br>
-        <center><a href="https://www.thegreatcat.org/the-cat-in-art-and-photos-2/cats-asian-art/tokuhiro-kawai-1971-present-japanese" style="font-size: 14px; font-family: 'Lora'" class="heading" target="_blank" rel="noopener noreferrer">Idea of a Certain Cat 2004 -Tokuhiro Kawai (川井徳寛)</a></center>
-      <center><img width="25%"src="data/imgs/Tokuhiro Kawai3.jpg" alt="Idea of a Certain Cat 2004 -Tokuhiro Kawai (川井徳寛)"></center>
+        <div class="col-span-2 p-3">
+          <div>
+            <em>Diffeq-lang</em>: DSL for solving differential equations
+          </div>
+          <div>
+            <a href="https://github.com/Camto/" style="border-bottom:1px dotted" id="heading" class="heading" target="_blank"
+              rel="noopener noreferrer">Benjamin Philippe</a>, <b>Jan-Paul Ramos-Dávila</b>
+          </div>
+          <div class="">
+            <a href="https://github.com/jpVinnie/diffeq-lang/" id="default" class="default" target="_blank"
+              rel="noopener noreferrer">【Code】</a>
+            <a href="https://projectboard.world/isef/project/math029t---dsl-for-des-with-denotational-semantics"
+              id="default" class="default" target="_blank" rel="noopener noreferrer">【Presentation】</a>
+          </div>
+        </div>
+      </div>
+      <br>
+      <br>
+      <center><a
+          href="https://www.thegreatcat.org/the-cat-in-art-and-photos-2/cats-asian-art/tokuhiro-kawai-1971-present-japanese"
+          style="font-size: 14px; font-family: 'Lora'" id="heading" class="heading" target="_blank" rel="noopener noreferrer">Idea of
+          a Certain Cat 2004 -Tokuhiro Kawai (川井徳寛)</a></center>
+      <center><img width="25%" src="data/imgs/Tokuhiro Kawai3.jpg"
+          alt="Idea of a Certain Cat 2004 -Tokuhiro Kawai (川井徳寛)"></center>
     </div>
   </div>
 </body>
+
 </html>

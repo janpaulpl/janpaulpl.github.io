@@ -5,7 +5,7 @@ body {
   font-size: 18px;
 }
 
-.light-mode {
+.dark-mode {
   background-color: #282828;
   color: #ebdad0;
 }
@@ -14,7 +14,7 @@ body {
   color: #b31b1b;
 }
 
-.heading_light:hover {
+.heading_dark:hover {
   color: #ff9480
 }
 
@@ -26,11 +26,11 @@ body {
   color: #b31b1b;
 }
 
-.substack_light {
+.substack_dark {
   color: #d79921;
 }
 
-.substack_light:hover {
+.substack_dark:hover {
   color: #ff9480;
 }
 
@@ -40,7 +40,7 @@ body {
   font-family: 'Fira Code';
 }
 
-.default_light {
+.default_dark {
   color: #83a598;
   font-size: 14px;
   font-family: 'Fira Code';
@@ -50,6 +50,6 @@ body {
   color: #b31b1b;
 }
 
-.default_light:hover {
+.default_dark:hover {
   color: #ff9480;
 }

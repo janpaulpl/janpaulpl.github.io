@@ -13,23 +13,23 @@ function change_style() {
   if(document.getElementById("substack").classList.contains("substack")) {
     elements = document.getElementsByClassName("substack")
     for(let i=0; i < elements.length; i++) {
-      elements[i].classList.toggle('substack_light');
+      elements[i].classList.toggle('substack_dark');
     }
   }
   if(document.getElementById("default").classList.contains("default")) {
     elements = document.getElementsByClassName("default")
     for(let i=0; i < elements.length; i++) {
-      elements[i].classList.toggle('default_light');
+      elements[i].classList.toggle('default_dark');
     }
   }
   if(document.getElementById("heading").classList.contains("heading")) {
     elements = document.getElementsByClassName("heading")
     for (let i =0; i < elements.length; i++) {
-      elements[i].classList.toggle('heading_light');
+      elements[i].classList.toggle('heading_dark');
     } 
   }
   var element = document.body;
-  element.classList.toggle("light-mode");
+  element.classList.toggle("dark-mode");
 }
 
 function change_headshot() {

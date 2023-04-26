@@ -34,9 +34,9 @@ function change_style() {
 
 function change_headshot() {
   if(document.getElementById("headshot").src == "https://media.discordapp.net/attachments/861779234812461066/1100542963253260328/headshot_2.png?width=576&height=604") {
-    document.getElementById("headshot").src = "https://media.discordapp.net/attachments/861779234812461066/1100541875934462074/headshot.jpg?width=690&height=657"
+    document.getElementById("headshot").src = "https://media.discordapp.net/attachments/861779234812461066/1100541875934462074/headshot.jpg?width=576&height=604"
   }
-  else if(document.getElementById("headshot").src == "https://media.discordapp.net/attachments/861779234812461066/1100541875934462074/headshot.jpg?width=690&height=657") {
+  else if(document.getElementById("headshot").src == "https://media.discordapp.net/attachments/861779234812461066/1100541875934462074/headshot.jpg?width=576&height=604") {
     document.getElementById("headshot").src = "https://media.discordapp.net/attachments/861779234812461066/1100542953799307264/headshot_3.png?width=576&height=604"
   }
   else {

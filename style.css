@@ -1,55 +1,55 @@
 body {
-  background-color: #282828;
-  color: #ebdad0;
+  background-color: #e6d2b5;
+  color: #1d2021;
   font-family: 'Lora';
   font-size: 18px;
 }
 
 .light-mode {
-  background-color: #e6d2b5;
-  color: #1d2021;
+  background-color: #282828;
+  color: #ebdad0;
 }
 
 .heading:hover {
-  color: #ff9480;
-}
-
-.heading_light:hover {
-  color: #b31b1b
-}
-
-.substack {
-  color: #d79921;
-}
-
-.substack:hover {
-  color: #ff9480;
-}
-
-.substack_light {
-  color: #af3a03;
-}
-
-.substack_light:hover {
   color: #b31b1b;
 }
 
-.default {
-  color: #83a598;
-  font-size: 14px;
-  font-family: 'Fira Code';
+.heading_light:hover {
+  color: #ff9480
 }
 
-.default_light {
+.substack {
+  color: #af3a03;
+}
+
+.substack:hover {
+  color: #b31b1b;
+}
+
+.substack_light {
+  color: #d79921;
+}
+
+.substack_light:hover {
+  color: #ff9480;
+}
+
+.default {
   color: #076678;
   font-size: 14px;
   font-family: 'Fira Code';
 }
 
+.default_light {
+  color: #83a598;
+  font-size: 14px;
+  font-family: 'Fira Code';
+}
+
 .default:hover {
-  color: #ff9480;
+  color: #b31b1b;
 }
 
 .default_light:hover {
-  color: #b31b1b;
+  color: #ff9480;
 }

@@ -1,10 +1,10 @@
 function change_icon() {
-  if(document.getElementById("mode").src == "https://img.icons8.com/emoji/256/black-circle-emoji.png"){
-    document.getElementById("mode").src = "https://img.icons8.com/emoji/512/white-circle-emoji.png";
+  if(document.getElementById("mode").src == "https://media.discordapp.net/attachments/861779234812461066/1100616207725506670/black-circle-emoji_dark.png?width=192&height=192"){
+    document.getElementById("mode").src = "https://media.discordapp.net/attachments/861779234812461066/1100616218282577990/white-circle-emoji_light.png?width=192&height=192";
     document.getElementById("mode-sec").style.color = "#282828";
   }
   else {
-    document.getElementById("mode").src = "https://img.icons8.com/emoji/256/black-circle-emoji.png"
+    document.getElementById("mode").src = "https://media.discordapp.net/attachments/861779234812461066/1100616207725506670/black-circle-emoji_dark.png?width=192&height=192"
     document.getElementById("mode-sec").style.color = "#e6d2b5";
   }
 }

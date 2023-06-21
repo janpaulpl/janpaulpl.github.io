@@ -8,6 +8,8 @@
 \usepackage[left=0.1 in,top=0.2in,right=0.1 in,bottom=0.6in]{geometry} % Document margins
 \usepackage{hyperref}
 \usepackage{tikz}
+\usepackage[normalem]{ulem}
+\usepackage{enumitem}
 
 % Page Customization
 \pagestyle{fancy}
@@ -26,11 +28,13 @@
   \path[draw, line width = 0.5] (0.5, 0.5) -- (1, 1);
   \path[draw, line width = 0.5] (0.6, 1) -- (1, 1) -- (1, 0.6);}}
 
+\renewcommand\labelitemi{{$\lambda$}}
+
 % Header
 \name{Jan-Paul Vincent Ramos-Dávila}
-\address{\href{https://jpramos.me}{\faIcon{link} \underline{jpramos.me}} \\
-\href{mailto:jvr34@cornell.edu}{\faIcon{envelope} \underline{jvr34@cornell.edu}} \\ \href{https://github.com/jpvinnie/}{\faIcon{github} \underline{github/jpvinnie}} \\ 
-\href{https://www.linkedin.com/in/jpv-ramos/}{\faIcon{linkedin} \underline{linkedin/jpv-ramos}}}
+\address{\href{mailto:jvr34@cornell.edu}{\faIcon{link} \underline{mail@jpramos.me}} \\
+\href{https://jpramos.me}{\faIcon{envelope} \underline{jpramos.me}} \\ \href{https://github.com/jpramos-me/}{\faIcon{github} \underline{jpramos-me}} \\ 
+\href{https://www.linkedin.com/in/jpramos-me/}{\faIcon{linkedin} \underline{jpramos-me}}}
 
 % Footer
 \lfoot{\color{gray}\footnotesize{June 16, 2023}\color{black}}
@@ -40,6 +44,7 @@
 \begin{document}
 
 \pagecolor{page_color}
+\setlist[itemize]{leftmargin=*}
 
 \input{sections/education.tex}
 

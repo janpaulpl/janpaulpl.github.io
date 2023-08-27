@@ -1,0 +1,82 @@
+.contact {
+    text-align: center;
+    @include desktop {
+        height: auto !important;
+        flex-grow: 1;
+    }
+    @include mobile {
+        box-sizing: border-box !important;
+        flex-grow: 0;
+        width: auto;
+        max-width: 20em;
+        margin-bottom: 0em;
+        margin-top: 0em;
+        margin-left: auto;
+        margin-right: auto;
+        height: 0em;
+        @include transition(all 0.25s ease-in-out);
+        @include clearfix;
+        overflow: hidden;
+
+        * {
+            background-color: $color-black-lite;
+            color: $color-white;
+            border-color: $color-white;
+        }
+
+        background-color: $color-black-lite;
+
+    }
+}
+
+.contact-inline {
+    @include mobile {
+        width: 100% !important;
+        max-width: none !important;
+        flex-grow: 1;
+    }
+    @include desktop {
+ 
+    }
+}
+
+.contact-wrapper {
+    display: flex;
+    align-items: center;
+    @include mobile {
+        position: relative;
+        float: right;
+        width: 100%;
+        background-color: $color-black-lite;
+        color: white;
+    }
+    height: auto;
+    flex-shrink: 0;
+    flex-grow: 1;
+}
+
+.contact-toggle-wrapper{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: right;
+    @include desktop {
+        display: none !important;
+    }
+    flex-grow: 1;
+}
+
+#contact-toggle {
+    background-color: $color-black-lite;
+    color: $color-white;
+    @include mobile {
+        display: flex;
+        float: right;
+        align-items: center;
+        height: 100%;
+        width: auto;
+        margin-right: 1em;
+    }
+    i {
+        font-size: 2em;
+    }
+}

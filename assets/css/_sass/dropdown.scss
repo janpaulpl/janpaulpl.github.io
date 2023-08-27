@@ -1,0 +1,24 @@
+@import 'global';
+
+.relative-div {
+    position: relative;
+}
+
+.profile-contact-list {
+    list-style: none;
+}
+
+.absolute-div {
+    position: absolute;
+    z-index: 1;
+
+    @include desktop {
+        display: block !important;
+    }
+}
+
+.toggle-btn {
+    @include desktop {
+        display: none !important;
+    }
+}

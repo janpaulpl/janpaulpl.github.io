@@ -1,0 +1,233 @@
+@import './global.scss';
+
+.flex-main {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    overflow-y: scroll;
+    order: 1;
+    flex-grow: 1;
+    height: 100%;    
+    width: 100%;
+    @include desktop {
+        justify-content: flex-start;
+        align-items: stretch;
+    }
+    @include mobile {
+        align-items: center;
+    }
+}
+
+
+.flex-profile {
+    justify-content: center;
+    top: 0;
+    display: flex;
+    align-self: flex-start;    
+    flex-grow: 0;
+
+    @include desktop {
+        position: sticky;
+        margin-right: 3em;
+        max-width: 30%;
+    }
+
+    @include mobile {
+        width: 100%;
+    }
+}
+
+.flex-body {
+    
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.flex-content {
+    width: 100%;
+    display: flex;
+    @include desktop {
+        flex-flow: row nowrap;
+        justify-content: center;
+    }
+    @include mobile {
+        flex-flow: column nowrap;
+        justify-content: center;
+    }
+}
+
+.flex-body-post{
+    align-items: center;
+}
+
+.flex-rendered{
+    flex-grow: 2;
+    @include desktop {
+        max-width: 700px;
+    }
+    @include mobile {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+
+.flex-rendered-post {
+    @include desktop {
+        max-width: 600px !important;
+        padding-left: 0em !important;
+    }
+}
+
+.flex-rendered-post {
+    @include desktop {
+        max-width: 800px;
+    }
+
+}
+
+.flex-body ul {
+    list-style-position: outside;
+}
+
+.menu-ul {
+    text-decoration: none;
+    font-size: 1em;
+    width: 100%;
+    
+    @include desktop {
+        display: block !important;
+        background-color: $color-black;
+    }
+}
+
+.menu-li {
+    background-color: transparent;
+
+    @include desktop{
+        display: inline-block;
+    }
+
+    @include mobile {
+        display: block;
+        margin-bottom: 0.5em;
+    }
+
+    a {
+        background-color: $color-black;
+
+        text-decoration: none;
+        color: $color-white;
+        font-size: 1em;
+        width: 100%;
+        height: 100%;
+        display: block;
+
+        padding-left: 0.75em;
+        padding-right: 0.75em;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+
+        @include mobile {
+            border-radius: 1em;
+        }
+    }
+}
+
+.menu-btn {
+    width: 100%;
+    font-size: 2em;
+    border-radius: 0.75em;
+    padding: 0em;
+    background-color: $color-black;
+    border: none;
+    @include mobile {
+        order: 1;
+    }
+    @include desktop {
+        display: none !important;
+    }
+}
+
+.settings-toggle {
+    box-shadow: none;
+    border: none;
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    i {
+        font-size: 1em;
+        color: lighten($color-black-lite, 50%);
+    }
+    @include mobile {
+    }
+}
+
+.success {
+    color: green !important;
+}
+
+.flex-tools {
+    display: flex;
+    position: fixed;
+
+    bottom: 1em;
+    right: 1em;
+
+    flex-flow: column nowrap;
+
+    @include mobile {
+        display: none !important;
+    }
+}
+
+.tool-btn {
+    box-shadow: none;
+    border: none;
+    width: 2em;
+    height: 2em;
+    font-size: 1em;
+}
+
+
+
+
+.footer {
+    display: flex;
+    margin-top: auto;
+    padding: 1em;
+    width: 100%;
+    background-color: $color-black-lite;
+    color: $color-white;
+    @include mobile {
+
+        font-size: 0.5dpt;
+        flex-flow: column nowrap;
+        justify-content: left;
+    }
+    
+}
+.footer-attrib {
+    float: right;
+    @include mobile{
+        float: left;
+    }
+    @include desktop {
+        margin-left: auto;
+    }
+    right: 0;
+}
+
+.footer-link {
+    all: unset;
+    color: $color-white;
+    text-decoration: none;
+}
+.footer-link:hover{
+    text-decoration:underline;
+    cursor: pointer;
+}

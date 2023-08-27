@@ -1,0 +1,32 @@
+---
+layout: main
+---
+<div class="flex-profile">
+  <div class="profile-wrapper">
+    <div class="profile">
+      <div class="profile-header">
+        <div class="profile-pic">
+          <img src="{{ base.url | prepend: site.url }}/assets/img/headshot.png"></img>
+        </div>
+      </div>
+      <div class="profile-info">
+        <hr />
+        <ul class="profile-info-list">
+          <li class="item">
+            <i class="ri-government-line"></i><span>{{site.org}}</span>
+          </li>
+          <li class="item">
+            <i class="ri-building-line"></i><span>{{site.suborg}}</span>
+          </li>
+          <li class="item">
+            <i class="ri-mail-line"></i><span>{{site.email}}</span>
+          </li>
+        </ul>
+        <hr />
+      </div>
+    </div>
+  </div>
+</div>
+<div class="flex-rendered">
+  {{content}}
+</div>

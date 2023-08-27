@@ -1,0 +1,60 @@
+<div class="pub" markdown="0">
+<div class="pub-tags">
+    <span class="conf-tag">{{include.pub.conf}}</span>
+</div> 
+<div class="pub-content">
+<div class="pub-text">
+    <h3 class="pub-title">{{include.pub.title}}</h3>
+    <span class="pub-authors">{{include.pub.authors}}</span>
+    <p class="pub-conference"> {% if include.pub.type %} {{include.pub.type}}.{% endif %} <em> In {{include.pub.in}}</em>, {{include.pub.year}}{%if include.pub.pages %}, {{include.pub.pages}}{% endif %}.</p>
+</div>
+<div class="pub-links">
+{% assign filename = include.pub.path | remove: "_publications/" | remove: ".md" %}
+
+{% assign article_filename = filename | prepend: "/assets/pdfs/" | remove: ".md" | append: ".pdf" %}
+{% assign article_file = site.static_files | where: "path", article_filename | first %}
+
+{% assign slides_filename = filename | prepend: "/assets/slides/" | remove: ".md" | append: "_slides.pdf" %}
+{% assign slides_file = site.static_files | where: "path", slides_filename | first %}
+
+{% assign poster_filename = filename | prepend: "/assets/posters/" | remove: ".md" | append: "_poster.pdf" %}
+{% assign poster_file = site.static_files | where: "path", poster_filename | first %}
+
+{% if article_file %}
+<a href="{{article_filename}}" class="pub-link-box">
+<i class="pub-link ri-article-line"></i>
+<p>PDF</p>
+</a>
+{% endif %}
+
+{% if slides_file %}
+<a href="{{slides_filename}}" class="pub-link-box">
+<i class="pub-link ri-slideshow-line"></i>
+<p>Slides</p>
+</a>
+{% endif %}
+
+{% if poster_file %}
+<a href="{{poster_filename}}" class="pub-link-box">
+<i class="ri-table-line"></i>
+<p>Poster</p>
+</a>
+{% endif %}
+
+{% if include.pub.video_link != Nil %}
+<a href="{{include.pub.video_link}}" class="pub-link-box">
+<i class="pub-link ri-video-line"></i>
+<p>Video</p>
+</a>
+{% endif %}
+
+{% if include.pub.code_link != Nil %}
+<a href="{{include.pub.code_link}}" class="pub-link-box">
+<i class="pub-link ri-code-line"></i>
+<p>Code</p>
+</a>
+{% endif %}
+
+</div>
+</div>
+</div>

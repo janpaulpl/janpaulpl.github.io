@@ -3,10 +3,12 @@ layout: default
 post: ./_includes/publication.html
 ---
 
-## Papers
-{% assign papers = site.publications | where: "category", "paper" %}
-{% for pap in papers%}
-{% include publication.html pub=pap %}
+<!-- ## Conferences -->
+
+## Journals
+{% assign journals = site.publications | where: "category", "journal" %}
+{% for j in journals%}
+{% include publication.html pub=j %}
 {% endfor %}
 
 ## Research Competitions

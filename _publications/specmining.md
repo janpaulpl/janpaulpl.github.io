@@ -1,5 +1,5 @@
 ---
-title: Incremental Specification Mining, Using Regression Testing in Selective Spec Mining 
+title: "Incremental Specification Mining: Using Regression Testing in Selective Spec Mining" 
 authors: Kate Meuse, Jan-Paul Ramos-Dávila
 type: 
 category: project

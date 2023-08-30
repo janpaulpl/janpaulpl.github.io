@@ -1,5 +1,5 @@
 ---
-title: Diffeq-lang, DSL for solving differential equations  
+title: "Diffeq-lang: DSL for solving differential equations"  
 authors: Benjamin Philippe, Jan-Paul Ramos-Dávila  
 type: 
 category: project

@@ -5,7 +5,7 @@ domain: "jpramos.me"
 url: "https://jpramos.me" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 social_tag: jpramos-me
-email: mail [at] jpramos.me
+email: mail [at] jpramos [dot] me
 orcid_id: "0000-0003-1055-6785"
 # Build settings
 

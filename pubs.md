@@ -17,6 +17,12 @@ post: ./_includes/publication.html
 {% include publication.html pub=conf_pub %}
 {% endfor %}
 
+## Presentations
+{% assign presentations = site.publications | where: "category", "presentation" %}
+{% for p in presentations%}
+{% include publication.html pub=p %}
+{% endfor %}
+
 ## Projects
 {% assign projects = site.publications | where: "category", "project" %}
 {% for proj in projects%}

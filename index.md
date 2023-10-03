@@ -2,8 +2,9 @@
 layout: about
 post: ./_includes/publication.html
 ---
-# Education
-Ciao! I'm a Junior at [Cornell University](https://www.cornell.edu/) working towards degrees in [Computer Science](https://cis.cornell.edu/) & [Philosophy](https://philosophy.cornell.edu/). I started doing Computer Science research under [Dr. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Calyx project](https://calyxir.org/). We studied optimizations and extensions towards a compiler infrastructure to simplify encoding of high-level program semantics to lower-level synthesizable hardware designs.
+
+# Hi!
+I'm a Junior at [Cornell University](https://www.cornell.edu/) working towards degrees in [Computer Science](https://cis.cornell.edu/) & [Philosophy](https://philosophy.cornell.edu/). I started doing Computer Science research under [Dr. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Calyx project](https://calyxir.org/). We studied optimizations and extensions towards a compiler infrastructure to simplify encoding of high-level program semantics to lower-level synthesizable hardware designs.
 
 My main research interests involve developing **practical tools** for software verification using both formal & lightweight methods. 
 

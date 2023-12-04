@@ -11,6 +11,12 @@ post: ./_includes/publication.html
 {% include publication.html pub=j %}
 {% endfor %}
 
+## Workshops
+{% assign workshop_pubs = site.publications | where: "category", "workshop" %}
+{% for w in workshop_pubs%}
+{% include publication.html pub=w %}
+{% endfor %}
+
 ## Research Competitions
 {% assign conference_pubs = site.publications | where: "category", "competition" %}
 {% for conf_pub in conference_pubs%}

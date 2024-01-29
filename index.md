@@ -3,15 +3,24 @@ layout: about
 post: ./_includes/publication.html
 ---
 
-# Hi!
-I'm a Junior at [Cornell University](https://www.cornell.edu/) working towards degrees in [Computer Science](https://cis.cornell.edu/) & [Philosophy](https://philosophy.cornell.edu/). I started doing Computer Science research under [Dr. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Calyx project](https://calyxir.org/). We studied optimizations and extensions towards a compiler infrastructure to simplify encoding of high-level program semantics to lower-level synthesizable hardware designs.
+# About
+I'm a Junior at [Cornell University](https://www.cornell.edu/) working towards degrees in [Computer Science](https://cis.cornell.edu/) with a concentration in [Programming Languages](https://pl.cs.cornell.edu/) & [Philosophy](https://philosophy.cornell.edu/) with a concentration in [Logic advised by Harold Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
 
-My main research interests involve developing **practical tools** for software verification using both formal & lightweight methods. 
+My main research interests involve developing practical tools for program and theorem verification using both formal & lightweight methods.
 
-# Current Research
-Since the summer of 2022, I've been working under CMU's [REUSE](https://www.cmu.edu/scs/s3d/reuse/Research/index.html) program with [Dr. Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/). We've been working on a [Gradual Verifier](http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf) which serves to bridge the gap between static and dynamic verification, by allowing incremental verification of a program. 
+Recreationally, I'm an avid *cinephile* (I'm sorry) and *audiophile* (I'm sorry again), for which you can judge my tastes all you like by following the socials at the top right corner of this page.
 
-My work under the Gradual Verification framework involves optimizing and [verifying the soundness](https://www.youtube.com/watch?v=sIIwmw0z2Yg) of the first ever gradual verification tool -- [Gradual C0](https://arxiv.org/abs/2210.02428) -- and bringing gradual verification to the domain of [blockchain programming languages](https://github.com/gradual-verification/gradual-TEAL).
+## Research 
+
+This summer, I'm excited to work with [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/) in the [Langley Formal Methods research program at NASA](https://shemesh.larc.nasa.gov/fm/index.html). We'll be using Coq to formally verify theorems proving the soundness of network protocols.
+
+Since before that, I've been working under [Dr. Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) at CMU thanks to the [REUSE](https://www.cmu.edu/scs/s3d/reuse/Research/index.html) program. We are developing a [Gradual Verifier](http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf) which serves to bridge the gap between static and dynamic verification, by allowing incremental verification of a program. I've worked on the first ever gradual verification tool -- [Gradual C0](https://arxiv.org/abs/2210.02428) -- and gradual verification in [blockchain programming languages](https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts).
+
+Before that, I started doing Computer Science research under [Dr. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Calyx project](https://calyxir.org/). We studied optimizations and extensions towards a compiler infrastructure to simplify encoding of high-level program semantics to lower-level synthesizable hardware designs.
+
+## Community
+
+Outside of Cornell, I'm part of the Audio/Visual team for [SIGPLAN conferences](https://www.sigplan.org/Conferences/). While this is just volunteering work, I've come to put a considerable amount of time into it, so checkout the [SIGPLAN YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some cool PL videos!
 
 <center>
 <img width="25%" src="assets/img/Tokuhiro_Kawai.jpg">

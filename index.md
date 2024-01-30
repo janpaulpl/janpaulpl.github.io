@@ -16,11 +16,11 @@ This summer, I'm excited to work with [Dr. Alwyn Goodloe](https://shemesh.larc.n
 
 Since before that, I've been working under [Dr. Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) at CMU thanks to the [REUSE](https://www.cmu.edu/scs/s3d/reuse/Research/index.html) program. We are developing a [Gradual Verifier](http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf) which serves to bridge the gap between static and dynamic verification, by allowing incremental verification of a program. I've worked on the first ever gradual verification tool -- [Gradual C0](https://arxiv.org/abs/2210.02428) -- and gradual verification in [blockchain programming languages](https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts).
 
-Before that, I started doing Computer Science research under [Dr. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Calyx project](https://calyxir.org/). We studied optimizations and extensions towards a compiler infrastructure to simplify encoding of high-level program semantics to lower-level synthesizable hardware designs.
+And even before *that*, I started doing Computer Science research under [Dr. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Calyx project](https://calyxir.org/). We studied optimizations and extensions towards a compiler infrastructure to simplify encoding of high-level program semantics to lower-level synthesizable hardware designs.
 
 ## Community
 
-Outside of Cornell, I'm part of the Audio/Visual team for [SIGPLAN conferences](https://www.sigplan.org/Conferences/). While this is just volunteering work, I've come to put a considerable amount of time into it, so checkout the [SIGPLAN YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some cool PL videos!
+Outside of Cornell, I'm part of the Audio/Visual team for [SIGPLAN conferences](https://www.sigplan.org/Conferences/). While this is just volunteering work, I've come to put a considerable amount of time into it, so please check out the [SIGPLAN YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some cool PL videos!
 
 <center>
 <img width="25%" src="assets/img/Tokuhiro_Kawai.jpg">

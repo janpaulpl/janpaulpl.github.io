@@ -13,7 +13,7 @@ post: ./_includes/publication.html
 
 <i class="ri-git-commit-fill">
 <em>
-01.20.24. Just finished providing AV support for POPL'24. We put in a lot of effort into this one, you can checkout the talks [here](https://www.youtube.com/@acmsigplan). 
+01.20.24. Just finished providing AV support for POPL'24. We put in a lot of effort into this one, you can check out the talks [here](https://www.youtube.com/@acmsigplan). 
 </em>
 </i>
 

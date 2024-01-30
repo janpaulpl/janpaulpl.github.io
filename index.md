@@ -6,7 +6,7 @@ post: ./_includes/publication.html
 # About
 I'm a Junior at [Cornell University](https://www.cornell.edu/) working towards degrees in [Computer Science](https://cis.cornell.edu/) with a concentration in [Programming Languages](https://pl.cs.cornell.edu/) & [Philosophy](https://philosophy.cornell.edu/) with a concentration in [Logic advised by Harold Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
 
-My main research interests involve developing practical tools for program and theorem verification using both formal & lightweight methods.
+My main research interests involve developing practical tools for program verification and theorem proving using both formal & lightweight methods.
 
 Recreationally, I'm an avid *cinephile* (I'm sorry) and *audiophile* (I'm sorry again), for which you can judge my tastes all you like by following the socials at the top right corner of this page.
 

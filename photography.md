@@ -1,6 +1,6 @@
 ---
 layout: default
-post: ./_includes/publication.html # TODO: Move photos to their own folder
+post: ./_includes/publication.html # TODO: Move photos to their own folder and streamline process to avoid md for each photo
 ---
 
 # Some cute pics

@@ -8,7 +8,7 @@ I'm a Junior at [Cornell University](https://www.cornell.edu/) working towards d
 
 My main research interests involve developing practical tools for program verification and theorem proving using both formal & lightweight methods.
 
-Recreationally, I'm an avid *cinephile* (I'm sorry) and *audiophile* (I'm sorry again), for which you can judge my tastes all you like by following the socials at the top right corner of this page.
+Recreationally, I'm an avid *cinephile* (I'm sorry) and *audiophile* (I'm sorry again), for which you can judge my tastes all you like by following the socials (including my blog!) at the top right corner of this page.
 
 ## Research 
 

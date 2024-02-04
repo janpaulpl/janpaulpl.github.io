@@ -1,0 +1,20 @@
+.photo {
+  display: flex;
+  flex-flow: column;
+  @include desktop {
+
+  }
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-bottom: 0.5em;
+  @include clearfix;
+  padding: 0.75em;
+}
+
+.photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 0.5em;
+  object-fit:scale-down;
+}

@@ -8,7 +8,8 @@ window.onload = () => {
   profileContactToggle.onclick = () => {
     const isClosed = profileContact.style.height === "0em" || !profileContact.style.height;
 
-    profileContact.style.height = isClosed ? "13em" : "0em";
+    // Dropdown height 
+    profileContact.style.height = isClosed ? "19em" : "0em";
 
   }
 

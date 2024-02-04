@@ -1,0 +1,11 @@
+<div class="photo" markdown="0">
+  {%assign photo = {{include.photo.image}} %}
+
+  <center>
+    <img src="{{photo}}" >
+  </center>
+  
+  <center>
+    <em>{{include.photo.date-taken}}. {{include.photo.title}}. </em> {{include.photo.specs}}
+  </center>
+</div>

@@ -3,7 +3,9 @@ layout: default
 post: ./_includes/publication.html # TODO: Move photos to their own folder and streamline process to avoid md for each photo
 ---
 
-# Some cute pics
+# Select pictures
+
+> [For more cute pics, checkout my respository :)](https://github.com/jpramos-me/photographs)
 
 ## Ithaca, NY
 {% assign photos = site.publications | where: "category", "photo" %}

@@ -8,8 +8,6 @@ I'm a Junior at [Cornell University](https://www.cornell.edu/) working towards d
 
 My main research interests involve developing practical tools for program verification and theorem proving using both formal & lightweight methods.
 
-Recreationally, I'm an avid *cinephile* (I'm sorry) and *audiophile* (I'm sorry again), for which you can judge my tastes all you like by following the socials (including my blog!) at the top right corner of this page.
-
 ## Research 
 
 This summer, I'm excited to work with [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/) in the [Langley Formal Methods research program at NASA](https://shemesh.larc.nasa.gov/fm/index.html). We'll be using Coq to formally verify theorems proving the soundness of network protocols.

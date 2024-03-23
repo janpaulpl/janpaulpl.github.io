@@ -6,5 +6,5 @@ category: project
 conf: Compilers/Verification
 in: Cornell CS 6120
 year: Fall 2023
-code_link: https://github.com/jpramos-me/CS6120-Project
+code_link: https://github.com/janpaulpl/CS6120-Project
 ---

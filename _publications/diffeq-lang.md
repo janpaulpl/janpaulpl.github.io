@@ -7,5 +7,5 @@ conf: PL
 in: Regeneron International Science and Engineering Fair
 year: 2021
 video_link: https://projectboard.world/isef2021/project/math029t---dsl-for-des-with-denotational-semantics
-code_link: https://github.com/jpramos-me/diffeq-lang
+code_link: https://github.com/janpaulpl/diffeq-lang
 ---

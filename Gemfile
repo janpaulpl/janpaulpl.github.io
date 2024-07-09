@@ -2,12 +2,13 @@ source "https://rubygems.org"
 
 # gem "jekyll", "~> 4.2.0"
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages"
+# , group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-group :jekyll_plugins do
-
-end
+#group :jekyll_plugins do
+#
+#end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", "~> 1.2"

@@ -6,11 +6,11 @@ post: ./_includes/publication.html
 # About
 I'm a Senior (applying to Doctoral Programs!) at [Cornell University](https://www.cornell.edu/) working towards degrees in [Computer Science](https://cis.cornell.edu/) with a concentration in [Programming Languages](https://pl.cs.cornell.edu/) & [Philosophy](https://philosophy.cornell.edu/) with a concentration in [Logic advised by Dr. Harold T. Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
 
-My main research interests involve developing practical tools for program verification and theorem proving using both formal & lightweight methods.
+My main research interests involve developing practical frameworks for specifying program behaviors and using automated theorem provers to guarantee such specifications via behaviorally-sound type systems.
 
-## Research 
+## Research
 
-This summer, I'm working with [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/) at the [Langley Formal Methods research program at NASA](https://shemesh.larc.nasa.gov/fm/index.html). We're mechanizing proofs that model _correct_ behaviors behind a Delay-Tolerant Network for NASA's Interplanetary Overlay Network framework.
+This summer, I'm working with [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/) at the [Langley Formal Methods research program at NASA](https://shemesh.larc.nasa.gov/fm/index.html). We're mechanizing proofs with Coq that model correct behaviors behind a _well-typed_ implementation of a Software Defined Delay-Tolerant Network's Match-Action pipeline algorithm for NASA’s Interplanetary Overlay Network framework. The well-typedness of the algorithm comes from it being implemented in our _NetQIR_ DSL.
 
 Before that, I worked under [Dr. Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) at CMU thanks to the [REUSE](https://www.cmu.edu/scs/s3d/reuse/Research/index.html) program. We developed a [Gradual Verifier](http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf) which serves to bridge the gap between static and dynamic verification, by allowing incremental verification of a program. I've worked on the first ever gradual verification tool -- [Gradual C0](https://arxiv.org/abs/2210.02428) -- and gradual verification in [blockchain programming languages](https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts).
 

@@ -6,7 +6,7 @@ post: ./_includes/publication.html
 # About
 I'm a Senior (applying to Doctoral Programs!) at [Cornell University](https://www.cornell.edu/) working towards degrees in [Computer Science](https://cis.cornell.edu/) with a concentration in [Programming Languages](https://pl.cs.cornell.edu/) & [Philosophy](https://philosophy.cornell.edu/) with a concentration in [Logic advised by Dr. Harold T. Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
 
-My main research interests involve developing practical frameworks for specifying program behaviors and using automated theorem provers to guarantee such specifications via behaviorally-sound type systems. You can find my [research statement here!](https://janpaul.pl/assets/pdfs/research_stmt.pdf)
+My main research interests involves developing practical frameworks for program verification by creating a set of _canonical_ and _reusable_ representations for domain-specific programs to ease the need to directly mechanize code with automated theorem provers. You can find my [research statement here!](https://janpaul.pl/assets/pdfs/research_stmt.pdf)
 
 ## Research
 

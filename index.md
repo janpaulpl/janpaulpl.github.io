@@ -10,7 +10,7 @@ My main research interest involves developing practical frameworks for program v
 
 ## Research
 
-I'm currenty working with [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/) at the [Langley Formal Methods research program at NASA](https://shemesh.larc.nasa.gov/fm/index.html). We're mechanizing proofs with Coq that model correct behaviors behind a _well-behaved_ implementation of a Software Defined Delay-Tolerant Network's Match-Action pipeline algorithm for NASA’s Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL: _NetQIR_ !
+I'm currenty working with [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/) at [NASA's Langley Formal Methods](https://shemesh.larc.nasa.gov/fm/index.html). We're mechanizing proofs with Coq that model correct behaviors behind a _well-behaved_ implementation of a Software Defined Delay-Tolerant Network's Match-Action pipeline algorithm for NASA’s Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL: _NetQIR_ !
 
 I'm also working with [Dr. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Calyx project](https://calyxir.org/). Here, I'm figuring out how to model hardware-level parallelism using Kleene Algebra with Tests.
 

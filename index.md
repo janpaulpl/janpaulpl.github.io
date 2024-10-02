@@ -30,7 +30,9 @@ Outside of Cornell, I'm part of the Audio/Visual team for [SIGPLAN conferences](
     { name: 'Sina', url: 'https://sinearc.github.io/' },
     { name: 'Elaine', url: 'https://samoyed.blog/' },
     { name: 'Alex', url: 'https://www.eecs.tufts.edu/~abai02/'},
-    { name: 'John', url: 'https://j-hui.com/'}
+    { name: 'John', url: 'https://j-hui.com/'},
+    { name: 'Chris', url: 'https://flyingrocksquirrel.github.io/'},
+    { name: 'Max', url: 'https://conf.researchr.org/profile/conf/maxsun'}
   ];
 
   // Function to choose a random friend and return the URL

@@ -20,6 +20,44 @@ In addition, I'm a 2× [CMU REUSE](https://www.cmu.edu/scs/s3d/reuse/Research/in
 
 Outside of Cornell, I'm part of the Audio/Visual team for [SIGPLAN conferences](https://www.sigplan.org/AV). While this is just volunteering work, I've come to put a considerable amount of time into it, so feel free check out [SIGPLAN's official YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some cool PL videos!
 
+<script>
+  // Define an array of friends' links and their names
+  const friends = [
+    { name: 'Song', url: 'https://s-ye.github.io/me/' },
+    { name: 'Inle', url: 'https://imbush.github.io/' },
+    { name: 'Sid', url: 'https://sholalkere.github.io/' },
+    { name: 'Ben', url: 'https://camto.github.io/' },
+    { name: 'Sina', url: 'https://sinearc.github.io/' },
+    { name: 'Elaine', url: 'https://samoyed.blog/' },
+    { name: 'Alex', url: 'https://www.eecs.tufts.edu/~abai02/'},
+    { name: 'John', url: 'https://j-hui.com/'}
+  ];
+
+  // Function to choose a random friend and return the URL
+  function getRandomFriendURL() {
+    const randomIndex = Math.floor(Math.random() * friends.length);
+    return friends[randomIndex].url;
+  }
+
+  // Function to handle the link click (normal and middle-click)
+  function handleLinkClick(event) {
+    const randomFriendURL = getRandomFriendURL();
+
+    // If middle mouse button is clicked or Ctrl/Command key is pressed, open in a new tab
+    if (event.button === 1 || event.ctrlKey || event.metaKey) {
+      window.open(randomFriendURL, '_blank'); // Open in a new tab
+    } else {
+      // For normal clicks, redirect in the same tab
+      window.location.href = randomFriendURL;
+    }
+
+    event.preventDefault(); // Prevent default behavior of link
+  }
+</script>
+
+<!-- Add the button or clickable link somewhere in your HTML -->
+<p>Tired of my site? Click <a href="" onmousedown="handleLinkClick(event);">here</a> for a random one of my friends.</p>
+
 <center>
 <img width="25%" src="assets/img/Tokuhiro_Kawai.jpg">
 </center>

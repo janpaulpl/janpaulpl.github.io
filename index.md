@@ -58,7 +58,7 @@ Outside of Cornell, I'm part of the Audio/Visual team for [SIGPLAN conferences](
 </script>
 
 <!-- Add the button or clickable link somewhere in your HTML -->
-<p>Tired of my site? Click <a href="" onmousedown="handleLinkClick(event);">here</a> for a random one of my friends.</p>
+<p>Tired of my site? Click <a href="#" onmousedown="handleLinkClick(event);">here</a> for a random one of my friends.</p>
 
 <center>
 <img width="25%" src="assets/img/Tokuhiro_Kawai.jpg">

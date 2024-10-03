@@ -18,7 +18,7 @@ In addition, I'm a 2× [CMU REUSE](https://www.cmu.edu/scs/s3d/reuse/Research/in
 
 ## Community
 
-Outside of Cornell, I'm part of the Audio/Visual team for [SIGPLAN conferences](https://www.sigplan.org/AV). While this is just volunteering work, I've come to put a considerable amount of time into it, so feel free check out [SIGPLAN's official YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some cool PL videos!
+I'm a member of the Audio/Visual team for [SIGPLAN conferences](https://www.sigplan.org/AV). While this is just volunteering work, I've come to put a considerable amount of time into it, so feel free check out [SIGPLAN's official YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some cool PL videos!
 
 <script>
   // Define an array of friends' links and their names

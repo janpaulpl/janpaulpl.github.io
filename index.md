@@ -12,7 +12,7 @@ My main research interest involves developing practical frameworks for program v
 
 I'm currenty working with [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/) at [NASA's Langley Formal Methods](https://shemesh.larc.nasa.gov/fm/index.html). We're mechanizing proofs with Coq that model correct behaviors behind a _well-behaved_ implementation of a Software Defined Delay-Tolerant Network's Match-Action pipeline algorithm for NASA’s Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL: _NetQIR_ !
 
-I'm also working with [Dr. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Calyx project](https://calyxir.org/). Here, I'm figuring out how to model hardware-level parallelism using Kleene Algebra with Tests.
+I'm also working with [Dr. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) on the [Calyx project](https://calyxir.org/). Here, I'm figuring out how to model hardware-level parallelism using Kleene Algebra with Tests.
 
 In addition, I'm a 2× [CMU REUSE](https://www.cmu.edu/scs/s3d/reuse/Research/index.html) alumni. I worked under [Dr. Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) in developing a [Gradual Verifier](http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf), seeking to bridge the gap between static and dynamic verification. I worked on the first ever gradual verification tool -- [Gradual C0](https://arxiv.org/abs/2210.02428) -- and made use of gradual verification for [blockchain programming languages](https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts).
 

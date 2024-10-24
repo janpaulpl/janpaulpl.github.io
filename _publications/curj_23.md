@@ -3,7 +3,7 @@ title: Evaluating Soundness of a Gradual Verifier with Property Based Testing
 authors: Jan-Paul Ramos-Dávila
 type: 
 category: journal
-conf: CURJ
+conf: CORNELL
 in: "Cornell Undergraduate Research Journal"
 year: 2(1)
 month: 

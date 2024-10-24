@@ -11,6 +11,12 @@ post: ./_includes/publication.html
 {% include publication.html pub=j %}
 {% endfor %}
 
+## Conferences
+{% assign conferences = site.publications | where: "category", "conference" %}
+{% for c in conferences%}
+{% include publication.html pub=c %}
+{% endfor %}
+
 ## Workshops
 {% assign workshop_pubs = site.publications | where: "category", "workshop" %}
 {% for w in workshop_pubs%}
@@ -29,8 +35,8 @@ post: ./_includes/publication.html
 {% include publication.html pub=p %}
 {% endfor %}
 
-## Projects
+<!-- ## Projects
 {% assign projects = site.publications | where: "category", "project" %}
 {% for proj in projects%}
 {% include publication.html pub=proj %}
-{% endfor %}
+{% endfor %} -->

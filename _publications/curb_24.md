@@ -5,7 +5,7 @@ type: Poster
 category: presentation
 conf: CORNELL
 in: "Cornell Undergraduate Research Board"
-year: 2024
+year: Fall Forum 2024
 month: 
 dates: 
 pages:

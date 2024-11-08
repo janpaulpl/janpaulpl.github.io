@@ -3,7 +3,7 @@ title: "Optimization of a Gradual Verifier: Lazy evaluation of Iso-recursive Pre
 authors: Jan-Paul Ramos-Dávila
 type: Extended abstract
 category: competition
-conf: POPL
+conf: POPL SRC
 in: "ACM SIGPLAN Symposium on Principles of Programming Languages"
 year: 2024
 month: January

@@ -1,10 +1,10 @@
 ---
-title: Type-Preserving Compilation for Formally Verified Software-Defined Delay Tolerant Networks
+title:  Formal Verification of a Software Defined Delay-Tolerant Network
 authors: Jan-Paul Ramos-Dávila, Alwyn E. Goodloe
 type: 
-category: conference
-conf: CPP
-in: "ACM SIGPLAN/SIGLOG Certified Programs and Proofs, co-located with POPL"
+category: workshop
+conf: CoqPL
+in: "The Eleventh International Workshop on Coq for Programming Languages, co-located with POPL"
 year: 2025
 month: 
 dates: 

@@ -1,7 +1,7 @@
 ---
 title: "Optimization of a Gradual Verifier: Lazy evaluation of Iso-recursive Predicates as Equi-recursive at Runtime"
 authors: Jan-Paul Ramos-Dávila
-type: Poster
+type:
 category: presentation
 conf: MWPLS
 in: "Midwest Programming Languages Summit"

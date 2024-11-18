@@ -52,27 +52,28 @@ title: Publications
 
 .filter-btn {
     padding: 0.5rem 1rem;
-    border: none;
+    border: 1px solid #3c3836; /* gruvbox dark0 for border */
     border-radius: 4px;
     cursor: pointer;
     transition: all 0.2s ease;
     font-size: 0.9rem;
-    background-color: #fbf1c7; /* gruvbox light0_hard */
+    background-color: #e6d2b5; /* gruvbox light0_hard */
     color: #504945; /* gruvbox fg4 */
-    box-shadow: 0 2px 4px rgba(60, 56, 54, 0.1); /* gruvbox dark0 for shadow */
+    box-shadow: none;
 }
 
 .filter-btn:hover {
     background-color: #d5c4a1; /* gruvbox light2 */
     color: #3c3836; /* gruvbox dark0 */
     transform: translateY(-1px);
-    box-shadow: 0 4px 6px rgba(60, 56, 54, 0.15);
+    box-shadow: none;
 }
 
 .filter-btn.active {
     background-color: #83a598; /* gruvbox green (brighter) */
     color: #fbf1c7; /* gruvbox light0_hard */
-    box-shadow: 0 2px 4px rgba(60, 56, 54, 0.2);
+    border-color: #3c3836;
+    box-shadow: none;
 }
 
 .pub.hidden {

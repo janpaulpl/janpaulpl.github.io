@@ -8,5 +8,5 @@ in: "The Eleventh International Workshop on Coq for Programming Languages, co-lo
 year: 2025
 month: 
 dates: 
-pages: In Submission
+pages:
 ---

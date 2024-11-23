@@ -1,5 +1,5 @@
 ---
-title: "Gradual C0: Symbolic Execution for Gradual Verification"
+title: "Gradual C0: Symbolic Execution for Gradual Verification (TOPLAS)"
 authors: Jenna DiVincenzo, Ian McCormack, Hemant Gouni, Jacob Gorenburg, Jan-Paul Ramos-Dávila, Mona Zhang, Conrad Zimmerman, Joshua Sunshine, Éric Tanter, Jonathan Aldrich
 type: 
 category: conference

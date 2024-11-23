@@ -8,5 +8,5 @@ in: "Cornell Undergraduate Research Journal"
 year: 2(1)
 month: 
 dates: 
-pages: 17–27, https://doi.org/10.37513/curj.v2i1.696
+pages: 17–27, 10.37513/curj.v2i1.696
 ---

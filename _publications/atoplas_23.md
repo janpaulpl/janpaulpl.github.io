@@ -6,7 +6,7 @@ category: journal
 conf: TOPLAS
 in: "ACM Transactions on Programming Languages and Systems"
 year: 2024
-month: 
-dates: 
-pages: https://dl.acm.org/doi/10.1145/3704808
+month: December
+dates: Volume 46 , Issue 4 
+pages: "Article No.: 14, 1–57, https://doi.org/10.1145/3704808"
 ---

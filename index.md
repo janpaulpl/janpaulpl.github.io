@@ -12,7 +12,7 @@ My main research interests involve developing practical frameworks for program v
 
 During my undergrad, I worked on (broadly) three projects:
 
-- *RocqNet: Advised by [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/) at [NASA's Langley Formal Methods](https://shemesh.larc.nasa.gov/fm/index.html), we mechanized proofs with Coq that model correct behaviors behind a _well-behaved_ implementation of a Software Defined Delay-Tolerant Network's Match-Action pipeline algorithm for NASA’s Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL.
+- *RocqNet*: Advised by [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/) at [NASA's Langley Formal Methods](https://shemesh.larc.nasa.gov/fm/index.html), we mechanized proofs with Coq that model correct behaviors behind a _well-behaved_ implementation of a Software Defined Delay-Tolerant Network's Match-Action pipeline algorithm for NASA’s Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL.
 
 - *Calyx*: Advised by [Dr. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) on the [Calyx project](https://calyxir.org/). Here, I studied how to reason about  modelling hardware-level parallelism using Kleene Algebra with Tests and symbolic execution.
 

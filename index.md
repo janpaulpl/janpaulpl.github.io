@@ -35,7 +35,7 @@ I'm a member of the Audio/Visual team for [SIGPLAN conferences](https://www.sigp
     { name: 'John', url: 'https://j-hui.com/'},
     { name: 'Chris', url: 'https://flyingrocksquirrel.github.io/'},
     { name: 'Max', url: 'https://conf.researchr.org/profile/conf/maxsun'},
-    { name: 'Espada', url: 'https://x.com/guiespada'}
+    { name: 'Espada', url: 'https://mastodon.social/@GUIpsp@types.pl'}
   ];
 
   // Function to choose a random friend and return the URL

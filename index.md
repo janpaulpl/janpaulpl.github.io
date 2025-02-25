@@ -4,7 +4,7 @@ post: ./_includes/publication.html
 ---
 
 # About
-I'm an incoming CS PhD student! At one time, I did my undergraduate at Cornell University, where I majored in Philosophy with a concentration in Philosophy of Mathematics and Intuitionistic Logic advised by [Dr. Harold T. Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
+I'm an incoming CS PhD student! At one time, I did my undergraduate at Cornell University, where I majored in Philosophy with a concentration in Philosophy of Mathematics and Formal Logic advised by [Dr. Harold T. Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
 
 My main research interests involve developing practical frameworks for program verification by creating a set of _canonical_ and _reusable_ representations for domain-specific programs to ease the need to directly mechanize code with automated theorem provers.
 

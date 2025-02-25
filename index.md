@@ -4,13 +4,17 @@ post: ./_includes/publication.html
 ---
 
 # About
-I'm an incoming CS PhD student! At one time, I did my undergraduate at Cornell University, where I majored in Philosophy with a concentration in Philosophy of Mathematics and Formal Logic advised by [Dr. Harold T. Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
+I'm an incoming CS PhD student! At one time, I did my undergraduate at Cornell University, where I studied Computer Science, Mathematics, and earned a degree in Philosophy with a concentration in Philosophy of Mathematics supervised by [Dr. Harold T. Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
 
-My main research interests involve developing practical frameworks for program verification by creating a set of _canonical_ and _reusable_ representations for domain-specific programs to ease the need to directly mechanize code with automated theorem provers.
+I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: program synthesis and repair, programming languages theory, and formal methods for software engineering.
+
+Personally, I'm an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. On the former, my favorite directors are Satoshi Kon, Akira Kurosawa, and David Lynch—among others. On the latter, my daily driver is a Sony Walkman NW-WM1AM2 DAP with a DragonFly Black DAC connected to either Sennheiser's HD600s or Moondrop's Blessing3 IEMs.
 
 ## Research
 
-During my undergrad, I worked on (broadly) three projects:
+I find most tools for formal verification make it too uninspiring and difficult to prioritize static guarantees, when lightweight methods provide reasonable results in their stead (at the cost of runtime overhead). My current research involves developing practical frameworks for specification-driven program verification to ease the need/complexity of directly mechanizing code. I want to assure all well-_typed_ and well-_constructed_ programs imply well-_behaved_ programs.
+
+Previously, during my undergrad, I worked on—broadly—three projects:
 
 - *RocqNet* : Advised by [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/) at [NASA's Langley Formal Methods](https://shemesh.larc.nasa.gov/fm/index.html), we mechanized proofs with Coq that model correct behaviors behind a _well-behaved_ implementation of a Software Defined Delay-Tolerant Network's Match-Action pipeline algorithm for NASA's Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL.
 

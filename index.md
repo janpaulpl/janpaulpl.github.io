@@ -8,7 +8,7 @@ I'm an incoming CS PhD student! At one time, I did my undergraduate at Cornell U
 
 I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: program synthesis and repair, programming languages theory, and formal methods for software engineering.
 
-Personally, I'm an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. On the former, my favorite directors are Satoshi Kon, Akira Kurosawa, and David Lynch—among others. On the latter, my daily driver is a Sony Walkman NW-WM1AM2 DAP with a DragonFly Black DAC connected to either Sennheiser's HD600s or Moondrop's Blessing3 IEMs.
+Personally, I'm an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. On the former, my favorite directors are Satoshi Kon, Akira Kurosawa, and David Lynch—among others. On the latter, my daily driver is a Sony NW-WM1AM2 Walkman DAP with a DragonFly Black DAC connected to either Sennheiser's HD600s or Moondrop's Blessing3 IEMs.
 
 ## Research
 

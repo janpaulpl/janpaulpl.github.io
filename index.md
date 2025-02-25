@@ -8,7 +8,7 @@ I'm an incoming CS PhD student! At one time, I did my undergraduate at Cornell U
 
 I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: program synthesis and repair, programming languages theory, and formal methods for software engineering.
 
-Personally, I'm an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. I also enjoy [digital photograph](https://janpaul.pl/photography.html), and I am particularly interested in getting into birding after getting inspired by [Cornell's Ornithology Lab](https://www.birds.cornell.edu/home/). Some day, I want to learn how to shoot/develop film.
+Personally, I'm an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. I also enjoy [digital photography](https://janpaul.pl/photography.html), and I am amateurly practicing birding after getting inspired by [Cornell's Ornithology Lab](https://www.birds.cornell.edu/home/). Some day, I want to learn how to shoot/develop film.
 
 ## Research
 

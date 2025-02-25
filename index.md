@@ -8,7 +8,7 @@ I'm an incoming CS PhD student! At one time, I did my undergraduate at Cornell U
 
 I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: program synthesis and repair, programming languages theory, and formal methods for software engineering.
 
-Personally, I'm an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. On the former, my favorite directors are Satoshi Kon, Akira Kurosawa, and David Lynch—among others. On the latter, my daily driver is a Sony NW-WM1AM2 Walkman DAP with a DragonFly Black DAC connected to either Sennheiser's HD600s or Moondrop's Blessing3 IEMs.
+Personally, I'm an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. I also enjoy [digital photograph](https://janpaul.pl/photography.html), and I am particularly interested in getting into birding after getting inspired by [Cornell's Ornithology Lab](https://www.birds.cornell.edu/home/). Some day, I want to learn how to shoot/develop film.
 
 ## Research
 

@@ -8,7 +8,7 @@ I'm an incoming CS PhD student! At one time, I did my undergraduate at Cornell U
 
 I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: program synthesis and repair, programming languages theory, and formal methods for software engineering.
 
-Personally, I'm an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. I also enjoy [digital photography](https://janpaul.pl/photography.html), and am amateurly practicing birding after getting inspired by [Cornell's Ornithology Lab](https://www.birds.cornell.edu/home/). Some day, I want to learn to shoot/develop film, and get a [US Amateur Radio License](http://www.arrl.org/what-is-ham-radio).
+Personally, I'm an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. I also enjoy [digital photography](https://janpaul.pl/photography.html), and am amateurly practicing birding after getting inspired by [Cornell's Ornithology Lab](https://www.birds.cornell.edu/home/). Some day, I want to learn to [shoot/develop film](https://qph.cf2.quoracdn.net/main-qimg-3c723b666a25d581b7c3ab149655626e), get a [US Amateur Radio License](http://www.arrl.org/what-is-ham-radio), and successfully pick a [Abloy Protec2](https://www.locksmithledger.com/locks/article/12438396/abloy-protec2-the-ultimate-locking-solution).
 
 ## Research
 

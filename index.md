@@ -12,7 +12,7 @@ Personally, I'm an avid cinephile and audiophile, for which you can find a rabbi
 
 ## Research
 
-I find most tools for formal verification make it too uninspiring and difficult to prioritize static guarantees, especially when lightweight methods provide reasonable results in their stead (at the cost of runtime overhead). My current research involves developing practical frameworks for specification-driven program verification to ease the need/complexity of directly mechanizing code. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs.
+Most formal verification toolchains feel uninspiring to me because they make it challenging to prioritize static guarantees given their technical complexity, especially given that lightweight methods provide reasonable results in their stead (at the cost of runtime overhead). My current research involves developing practical frameworks for specification-driven program verification to ease the need/complexity of directly mechanizing code. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs.
 
 Previously, during my undergrad, I worked on—broadly—three projects:
 

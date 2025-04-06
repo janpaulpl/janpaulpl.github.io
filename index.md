@@ -4,7 +4,7 @@ post: ./_includes/publication.html
 ---
 
 # About
-I'm an incoming CS PhD student in the [POPV research group](https://www.bu.edu/cs/research-groups/popv/) at Boston University coadvised by [Ankush Das](https://ankushdas.github.io) and [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/). At one time, I did my undergraduate at Cornell University, where I studied Computer Science, Mathematics, and earned a degree in Philosophy with a concentration in Philosophy of Mathematics and Logic supervised by [Harold T. Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
+I'm an incoming CS PhD student in the [POPV research group](https://www.bu.edu/cs/research-groups/popv/) at Boston University coadvised by [Ankush Das](https://ankushdas.github.io) and [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/). At one time, I did my undergraduate at Cornell University, where I studied Computer Science, Mathematics, and Analytical Philosophy. I earned a degree in Philosophy with a concentration in Philosophy of Mathematics and Logic supervised by [Harold T. Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
 
 I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: type systems, program synthesis and repair, and formal methods for software engineering.
 
@@ -12,7 +12,9 @@ Personally, I'm an avid cinephile and audiophile, for which you can find a rabbi
 
 ## Research
 
-Most formal verification toolchains feel uninspiring to me because they make it challenging to prioritize static guarantees given their technical complexity, especially given that lightweight methods provide reasonable results in their stead (at the cost of runtime overhead). My current research involves developing practical frameworks for soundness guarantees provided at the type-level to ease the need/complexity of directly mechanizing code. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs.
+I am uninspired by our current suite of languages that make use of manually specified formal specs. These tend to offload the intellectual challenge of coming up with exhaustive static guarantees to developers, those which don't have the domain-specific expertise or simply *time* to become reasonable proof engineers.
+
+My current research involves developing practical frameworks for soundness guarantees provided at the type-level to ease the need/complexity of having developers directly mechanizing their code. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs.
 
 Previously, during my undergrad, I worked on—broadly—three projects:
 

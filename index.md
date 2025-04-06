@@ -4,7 +4,7 @@ post: ./_includes/publication.html
 ---
 
 # About
-I'm an incoming CS PhD student in the [Principles of Programming and Verification research group](https://www.bu.edu/cs/research-groups/popv/) at Boston University coadvised by [Dr. Ankush Das](https://ankushdas.github.io) and [Dr. Marco Gaboardi](https://cs-people.bu.edu/gaboardi/). At one time, I did my undergraduate at Cornell University, where I studied Computer Science, Mathematics, and earned a degree in Philosophy with a concentration in Philosophy of Mathematics and Logic supervised by [Dr. Harold T. Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
+I'm an incoming CS PhD student in the [POPV research group](https://www.bu.edu/cs/research-groups/popv/) at Boston University coadvised by [Ankush Das](https://ankushdas.github.io) and [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/). At one time, I did my undergraduate at Cornell University, where I studied Computer Science, Mathematics, and earned a degree in Philosophy with a concentration in Philosophy of Mathematics and Logic supervised by [Harold T. Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
 
 I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: type systems, program synthesis and repair, and formal methods for software engineering.
 
@@ -16,11 +16,11 @@ Most formal verification toolchains feel uninspiring to me because they make it 
 
 Previously, during my undergrad, I worked on—broadly—three projects:
 
-- *RocqNet* : Advised by [Dr. Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/) at [NASA's Langley Formal Methods](https://shemesh.larc.nasa.gov/fm/index.html), we mechanized proofs with Coq that model correct behaviors behind a well-behaved implementation of a Software Defined Delay-Tolerant Network's Match-Action pipeline algorithm for NASA's Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL.
+- *RocqNet* : Advised by [Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/) at [NASA's Langley Formal Methods](https://shemesh.larc.nasa.gov/fm/index.html), we mechanized proofs with Coq that model correct behaviors behind a well-behaved implementation of a Software Defined Delay-Tolerant Network's Match-Action pipeline algorithm for NASA's Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL.
 
-- *Calyx* : Advised by [Dr. Adrian Sampson](https://www.cs.cornell.edu/~asampson/) at the [Computer Architecture & Programming Abstractions group](https://capra.cs.cornell.edu/). Here, I studied how to reason about modelling hardware-level parallelism for [Calyx](https://calyxir.org/) using symbolic execution and KATs.
+- *Calyx* : Advised by [ Adrian Sampson](https://www.cs.cornell.edu/~asampson/) at the [Computer Architecture & Programming Abstractions group](https://capra.cs.cornell.edu/). Here, I studied how to reason about modelling hardware-level parallelism for [Calyx](https://calyxir.org/) using symbolic execution and KATs.
 
-- *Gradual Verification* : I'm a 2× [CMU REUSE](https://www.cmu.edu/scs/s3d/reuse/Research/index.html) alumni. I worked under [Dr. Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) in developing a [Gradual Verifier](http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf), seeking to bridge the gap between static and dynamic verification. I worked on the first ever gradual verification tool -- [Gradual C0](https://arxiv.org/abs/2210.02428) -- and made use of gradual verification for [blockchain programming languages](https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts).
+- *Gradual Verification* : I'm a 2× [CMU REUSE](https://www.cmu.edu/scs/s3d/reuse/Research/index.html) alumni. I worked under [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) in developing a [Gradual Verifier](http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf), seeking to bridge the gap between static and dynamic verification. I worked on the first ever gradual verification tool -- [Gradual C0](https://arxiv.org/abs/2210.02428) -- and made use of gradual verification for [blockchain programming languages](https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts).
 
 ## Community
 

@@ -6,7 +6,7 @@ post: ./_includes/publication.html
 # About
 I'm an incoming CS PhD student in the [Principles of Programming and Verification research group](https://www.bu.edu/cs/research-groups/popv/) at Boston University coadvised by [Dr. Ankush Das](https://ankushdas.github.io) and [Dr. Marco Gaboardi](https://cs-people.bu.edu/gaboardi/). At one time, I did my undergraduate at Cornell University, where I studied Computer Science, Mathematics, and earned a degree in Philosophy with a concentration in Philosophy of Mathematics and Logic supervised by [Dr. Harold T. Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
 
-I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: refinement type systems, program synthesis and repair, and formal methods for software engineering.
+I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: type systems, program synthesis and repair, and formal methods for software engineering.
 
 Personally, I'm an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. I also enjoy [digital photography](https://janpaul.pl/photography.html), and am amateurly practicing birding after getting inspired by [Cornell's Ornithology Lab](https://www.birds.cornell.edu/home/). Some day, I want to learn to [shoot/develop film](https://qph.cf2.quoracdn.net/main-qimg-3c723b666a25d581b7c3ab149655626e), get a [US Amateur Radio License](http://www.arrl.org/what-is-ham-radio), and successfully pick an [Abloy Protec2](https://www.locksmithledger.com/locks/article/12438396/abloy-protec2-the-ultimate-locking-solution).
 

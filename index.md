@@ -4,7 +4,9 @@ post: ./_includes/publication.html
 ---
 
 # About
-I'm an incoming CS PhD student in the [POPV research group](https://www.bu.edu/cs/research-groups/popv/) at Boston University coadvised by [Ankush Das](https://ankushdas.github.io) and [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/). At one time, I did my undergraduate at Cornell University, where I studied Computer Science, Mathematics, and Analytical Philosophy. I earned a degree in Philosophy with a concentration in Philosophy of Mathematics and Logic supervised by [Harold T. Hodes](https://philosophy.cornell.edu/harold-theodore-hodes).
+I'm an incoming CS PhD student in the [POPV research group](https://www.bu.edu/cs/research-groups/popv/) at Boston University coadvised by [Ankush Das](https://ankushdas.github.io) and [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/).
+
+At one time, I did my undergraduate at Cornell University, where I studied Computer Science, Mathematics, and Analytical Philosophy. I earned a degree in Philosophy with a concentration in Philosophy of Mathematics and Logic.
 
 I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: type systems, program synthesis and repair, and formal methods for software engineering.
 

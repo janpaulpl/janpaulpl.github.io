@@ -6,17 +6,17 @@ post: ./_includes/publication.html
 # About
 I'm an incoming CS PhD student in the [POPV research group](https://www.bu.edu/cs/research-groups/popv/) at Boston University coadvised by [Ankush Das](https://ankushdas.github.io) and [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/).
 
-At one time, I did my undergraduate at Cornell University, where I studied Computer Science, Mathematics, and Analytical Philosophy. I earned a degree in Philosophy with a concentration in Philosophy of Mathematics, Logic, and Type Theory.
+At one time, I did my undergraduate at Cornell University, where I studied computer science, mathematics, and analytical philosophy. I earned a degree in philosophy with a concentration in philosophy of mathematics, logic, and type theory.
 
-I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: programming languages, automated reasoning, and formal methods for software engineering.
+> I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: programming languages, automated reasoning, and formal methods for software engineering.
 
 Personally, I'm an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. I also enjoy [digital photography](https://janpaul.pl/photography.html), and am amateurly practicing birding after getting inspired by [Cornell's Ornithology Lab](https://www.birds.cornell.edu/home/). Some day, I want to learn to [shoot/develop film](https://qph.cf2.quoracdn.net/main-qimg-3c723b666a25d581b7c3ab149655626e), get a [US Amateur Radio License](http://www.arrl.org/what-is-ham-radio), and successfully pick an [Abloy Protec2](https://www.locksmithledger.com/locks/article/12438396/abloy-protec2-the-ultimate-locking-solution).
 
-## Research
+# Research
 
 I am uninspired by our current suite of languages that make use of manually specified formal specs. These tend to offload the intellectual challenge of coming up with exhaustive static guarantees to developers, those which don't have the domain-specific expertise or simply *time* to become reasonable proof engineers.
 
-My current research involves developing frameworks for soundness guarantees provided at the type-level to ease the need/complexity directly mechanizing code. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs.
+> My current research involves developing frameworks for soundness guarantees provided at the type-level to ease the need/complexity directly mechanizing code. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs.
 
 Previously, during my undergrad, I worked on—broadly—three projects:
 
@@ -26,7 +26,7 @@ Previously, during my undergrad, I worked on—broadly—three projects:
 
 - *Gradual Verification* : I'm a 2× [CMU REUSE](https://www.cmu.edu/scs/s3d/reuse/Research/index.html) alumni. I worked under [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) in developing a [Gradual Verifier](http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf), seeking to bridge the gap between static and dynamic verification. I worked on the first ever gradual verification tool -- [Gradual C0](https://arxiv.org/abs/2210.02428) -- and made use of gradual verification for [blockchain programming languages](https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts).
 
-## Community
+# Community
 
 I'm a member of the Audio/Visual team for [SIGPLAN conferences](https://www.sigplan.org/AV). While this is just volunteering work, I've come to put a considerable amount of time into it, so feel free check out [SIGPLAN's official YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some cool PL videos!
 
@@ -68,8 +68,7 @@ I'm a member of the Audio/Visual team for [SIGPLAN conferences](https://www.sigp
   }
 </script>
 
-<!-- Add the button or clickable link somewhere in your HTML -->
-<p>Tired of my site? Click <a href="#" onmousedown="handleLinkClick(event);">here</a> for a random one of my friends.</p>
+> <p> Tired of my site? Click <a href="#" onmousedown="handleLinkClick(event);">here</a> for a random one of my friends.</p>
 
 <center>
 <img width="25%" src="assets/img/Tokuhiro_Kawai.jpg">

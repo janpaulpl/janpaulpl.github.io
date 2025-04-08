@@ -12,6 +12,37 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
   <script src="http://localhost:4000/assets/js/dropdown.js"></script>
   <title>Jan-Paul 😎</title>
+  <style>
+  /* Blockquote styling with subtle outline instead of background */
+  .flex-rendered blockquote {
+    border-left: 3px solid #666;
+    margin: 1.5em 0;
+    padding: 0.5em 0 0.5em 1em;
+    font-style: italic;
+    color: #666;
+    transition: all 0.3s ease;
+  }
+
+  .flex-rendered blockquote:hover {
+    border-left-color: #444;
+    color: #444;
+  }
+
+  .flex-rendered blockquote p {
+    margin: 0.5em 0;
+  }
+
+  .flex-rendered blockquote a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px dotted #666;
+    transition: all 0.2s ease;
+  }
+
+  .flex-rendered blockquote a:hover {
+    border-bottom: 1px solid #444;
+  }
+  </style>
 </head>
 
 <body>
@@ -161,17 +192,21 @@
   <h1 id="about">About</h1>
 <p>I’m an incoming CS PhD student in the <a href="https://www.bu.edu/cs/research-groups/popv/">POPV research group</a> at Boston University coadvised by <a href="https://ankushdas.github.io">Ankush Das</a> and <a href="https://cs-people.bu.edu/gaboardi/">Marco Gaboardi</a>.</p>
 
-<p>At one time, I did my undergraduate at Cornell University, where I studied Computer Science, Mathematics, and Analytical Philosophy. I earned a degree in Philosophy with a concentration in Philosophy of Mathematics, Logic, and Type Theory.</p>
+<p>At one time, I did my undergraduate at Cornell University, where I studied computer science, mathematics, and analytical philosophy. I earned a degree in philosophy with a concentration in philosophy of mathematics, logic, and type theory.</p>
 
-<p>I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: programming languages, automated reasoning, and formal methods for software engineering.</p>
+<blockquote>
+  <p>I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: programming languages, automated reasoning, and formal methods for software engineering.</p>
+</blockquote>
 
 <p>Personally, I’m an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. I also enjoy <a href="https://janpaul.pl/photography.html">digital photography</a>, and am amateurly practicing birding after getting inspired by <a href="https://www.birds.cornell.edu/home/">Cornell’s Ornithology Lab</a>. Some day, I want to learn to <a href="https://qph.cf2.quoracdn.net/main-qimg-3c723b666a25d581b7c3ab149655626e">shoot/develop film</a>, get a <a href="http://www.arrl.org/what-is-ham-radio">US Amateur Radio License</a>, and successfully pick an <a href="https://www.locksmithledger.com/locks/article/12438396/abloy-protec2-the-ultimate-locking-solution">Abloy Protec2</a>.</p>
 
-<h2 id="research">Research</h2>
+<h1 id="research">Research</h1>
 
 <p>I am uninspired by our current suite of languages that make use of manually specified formal specs. These tend to offload the intellectual challenge of coming up with exhaustive static guarantees to developers, those which don’t have the domain-specific expertise or simply <em>time</em> to become reasonable proof engineers.</p>
 
-<p>My current research involves developing practical frameworks for soundness guarantees provided at the type-level to ease the need/complexity of having developers directly mechanizing their code. I want to assure all well-<em>typed</em> and well-<em>constructed</em> programs imply well-<em>behaved</em> programs.</p>
+<blockquote>
+  <p>My current research involves developing frameworks for soundness guarantees provided at the type-level to ease the need/complexity directly mechanizing code. I want to assure all well-<em>typed</em> and well-<em>constructed</em> programs imply well-<em>behaved</em> programs.</p>
+</blockquote>
 
 <p>Previously, during my undergrad, I worked on—broadly—three projects:</p>
 
@@ -187,7 +222,7 @@
   </li>
 </ul>
 
-<h2 id="community">Community</h2>
+<h1 id="community">Community</h1>
 
 <p>I’m a member of the Audio/Visual team for <a href="https://www.sigplan.org/AV">SIGPLAN conferences</a>. While this is just volunteering work, I’ve come to put a considerable amount of time into it, so feel free check out <a href="https://www.youtube.com/@acmsigplan">SIGPLAN’s official YouTube Channel</a> if you’re interested in some cool PL videos!</p>
 
@@ -229,8 +264,9 @@
   }
 </script>
 
-<!-- Add the button or clickable link somewhere in your HTML -->
-<p>Tired of my site? Click <a href="#" onmousedown="handleLinkClick(event);">here</a> for a random one of my friends.</p>
+<blockquote>
+  <p> Tired of my site? Click <a href="#" onmousedown="handleLinkClick(event);">here</a> for a random one of my friends.</p>
+</blockquote>
 
 <center>
 <img width="25%" src="assets/img/Tokuhiro_Kawai.jpg" />
@@ -253,6 +289,137 @@
       </div>
     </div>
   </div>
+
+<!-- Add this right before the closing </body> tag in your main.html file -->
+
+<style>
+  /* Collapsible Section Styles */
+  .collapsible {
+    position: relative;
+    transition: color 0.3s ease;
+    cursor: pointer;
+    user-select: none;
+    margin-top: 1rem;
+    padding-bottom: 0.25rem;
+  }
+
+  .collapsible:hover {
+    color: #666;
+  }
+
+  .collapse-indicator {
+    display: inline-block;
+    margin-left: 8px;
+    color: #888;
+    font-size: 0.8em;
+    transition: transform 0.3s ease;
+  }
+
+  .collapsible.collapsed .collapse-indicator i {
+    transform: rotate(-90deg);
+    display: inline-block;
+  }
+
+  .collapsible-content {
+    overflow: hidden;
+    transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    max-height: 2000px; /* A large value to accommodate all content */
+    opacity: 1;
+  }
+
+  .collapsible-content.collapsed {
+    max-height: 0;
+    opacity: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  /* Keep the cat image section always visible */
+  .cat-image-section {
+    margin-top: 2rem;
+  }
+</style>
+
+<script>
+  // Collapsible section functionality
+  document.addEventListener('DOMContentLoaded', function() {
+    // First, let's identify the cat image section that should always be visible
+    const catImages = document.querySelectorAll('.flex-rendered center');
+    if (catImages.length > 0) {
+      // Mark cat image elements as non-collapsible
+      catImages.forEach(center => {
+        center.classList.add('cat-image-section');
+      });
+    }
+
+    // Get all h1 and h2 headers in the rendered content
+    const headers = document.querySelectorAll('.flex-rendered h1, .flex-rendered h2');
+    
+    headers.forEach(header => {
+      // Include all headers, including the main About header
+      // Make header clickable
+      header.classList.add('collapsible');
+      
+      // Add improved indicator icon using remix icons (which are already included in your site)
+      const indicator = document.createElement('span');
+      indicator.className = 'collapse-indicator';
+      indicator.innerHTML = ' <i class="ri-arrow-down-s-line"></i>'; // Using RemixIcon - start with down arrow
+      header.appendChild(indicator);
+      
+      // Find all elements to collapse (everything between this header and the next header)
+      // But exclude any cat image sections
+      let content = [];
+      let nextEl = header.nextElementSibling;
+      
+      while (nextEl && !['H1', 'H2'].includes(nextEl.tagName)) {
+        // Skip the cat image section
+        if (nextEl.classList.contains('cat-image-section')) {
+          nextEl = nextEl.nextElementSibling;
+          continue;
+        }
+        content.push(nextEl);
+        nextEl = nextEl.nextElementSibling;
+      }
+      
+      // Only create a collapsible section if there's content to collapse
+      if (content.length > 0) {
+        // Create a container for the content
+        const contentDiv = document.createElement('div');
+        contentDiv.className = 'collapsible-content';
+        header.after(contentDiv);
+        
+        // Move all content into the container
+        content.forEach(el => contentDiv.appendChild(el));
+        
+        // Set up click handler
+        header.addEventListener('click', (e) => {
+          header.classList.toggle('collapsed');
+          contentDiv.classList.toggle('collapsed');
+          
+          // Prevent default behavior (like anchor tag navigation)
+          e.preventDefault();
+          
+          // Toggle the icon (using CSS transform for smoother animation)
+          const icon = header.querySelector('.collapse-indicator i');
+          if (icon) {
+            if (header.classList.contains('collapsed')) {
+              icon.className = 'ri-arrow-right-s-line';
+            } else {
+              icon.className = 'ri-arrow-down-s-line';
+            }
+          }
+        });
+      } else {
+        // If no content, remove the collapse indicator
+        indicator.remove();
+        header.classList.remove('collapsible');
+      }
+    });
+  });
+</script>
+
 </body>
 
 </html>

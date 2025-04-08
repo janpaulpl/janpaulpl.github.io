@@ -16,7 +16,7 @@ Personally, I'm an avid cinephile and audiophile, for which you can find a rabbi
 
 I am uninspired by our current suite of languages that make use of manually specified formal specs. These tend to offload the intellectual challenge of coming up with exhaustive static guarantees to developers, those which don't have the domain-specific expertise or simply *time* to become reasonable proof engineers.
 
-> My current research involves developing frameworks for soundness guarantees provided at the type-level to ease the need/complexity directly mechanizing code. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs.
+> My current research involves developing type-theoretic frameworks providing soundness guarantees to ease the need/complexity of directly mechanizing code. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs.
 
 Previously, during my undergrad, I worked on—broadly—three projects:
 

@@ -140,13 +140,16 @@
         <hr />
         <ul class="profile-info-list">
           <li class="item">
-            <i class="ri-government-fill"></i><span>Cornell University</span>
+            <i class="ri-government-fill"></i><span>Boston University</span>
           </li>
           <li class="item">
-            <i class="ri-building-fill"></i><span>Analytic Philosophy and Type Theory</span>
+            <i class="ri-building-fill"></i><span>Computer Science</span>
           </li>
           <li class="item">
             <i class="ri-mail-fill"></i><span>mail [at] janpaul [dot] pl</span>
+          </li>
+          <li class="item">
+            <i class="ri-mail-fill"></i><span>janpaul [at] bu [dot] edu</span>
           </li>
         </ul>
         <hr />
@@ -156,17 +159,33 @@
 </div>
 <div class="flex-rendered">
   <h1 id="about">About</h1>
-<p>I’m a Senior (applying to Doctoral Programs!) at <a href="https://www.cornell.edu/">Cornell University</a> working towards degrees in <a href="https://cis.cornell.edu/">Computer Science</a> with a concentration in <a href="https://pl.cs.cornell.edu/">Programming Languages</a> &amp; <a href="https://philosophy.cornell.edu/">Philosophy</a> with a concentration in <a href="https://philosophy.cornell.edu/harold-theodore-hodes">Logic advised by Dr. Harold T. Hodes</a>.</p>
+<p>I’m an incoming CS PhD student in the <a href="https://www.bu.edu/cs/research-groups/popv/">POPV research group</a> at Boston University coadvised by <a href="https://ankushdas.github.io">Ankush Das</a> and <a href="https://cs-people.bu.edu/gaboardi/">Marco Gaboardi</a>.</p>
 
-<p>My main research interest involves developing practical frameworks for program verification by creating a set of <em>canonical</em> and <em>reusable</em> representations for domain-specific programs to ease the need to directly mechanize code with automated theorem provers. You can find my <a href="https://janpaul.pl/assets/pdfs/research_stmt.pdf">research statement here!</a></p>
+<p>At one time, I did my undergraduate at Cornell University, where I studied Computer Science, Mathematics, and Analytical Philosophy. I earned a degree in Philosophy with a concentration in Philosophy of Mathematics, Logic, and Type Theory.</p>
+
+<p>I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: programming languages, automated reasoning, and formal methods for software engineering.</p>
+
+<p>Personally, I’m an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. I also enjoy <a href="https://janpaul.pl/photography.html">digital photography</a>, and am amateurly practicing birding after getting inspired by <a href="https://www.birds.cornell.edu/home/">Cornell’s Ornithology Lab</a>. Some day, I want to learn to <a href="https://qph.cf2.quoracdn.net/main-qimg-3c723b666a25d581b7c3ab149655626e">shoot/develop film</a>, get a <a href="http://www.arrl.org/what-is-ham-radio">US Amateur Radio License</a>, and successfully pick an <a href="https://www.locksmithledger.com/locks/article/12438396/abloy-protec2-the-ultimate-locking-solution">Abloy Protec2</a>.</p>
 
 <h2 id="research">Research</h2>
 
-<p>I’m currenty working with <a href="https://shemesh.larc.nasa.gov/people/aeg/">Dr. Alwyn Goodloe</a> at <a href="https://shemesh.larc.nasa.gov/fm/index.html">NASA’s Langley Formal Methods</a>. We’re mechanizing proofs with Coq that model correct behaviors behind a <em>well-behaved</em> implementation of a Software Defined Delay-Tolerant Network’s Match-Action pipeline algorithm for NASA’s Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL: <em>NetQIR</em> !</p>
+<p>I am uninspired by our current suite of languages that make use of manually specified formal specs. These tend to offload the intellectual challenge of coming up with exhaustive static guarantees to developers, those which don’t have the domain-specific expertise or simply <em>time</em> to become reasonable proof engineers.</p>
 
-<p>I’m also working with <a href="https://www.cs.cornell.edu/~asampson/">Dr. Adrian Sampson</a> on the <a href="https://calyxir.org/">Calyx project</a>. Here, I’m figuring out how to model hardware-level parallelism using Kleene Algebra with Tests.</p>
+<p>My current research involves developing practical frameworks for soundness guarantees provided at the type-level to ease the need/complexity of having developers directly mechanizing their code. I want to assure all well-<em>typed</em> and well-<em>constructed</em> programs imply well-<em>behaved</em> programs.</p>
 
-<p>In addition, I’m a 2× <a href="https://www.cmu.edu/scs/s3d/reuse/Research/index.html">CMU REUSE</a> alumni. I worked under <a href="https://www.cs.cmu.edu/~aldrich/">Dr. Jonathan Aldrich</a> in developing a <a href="http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf">Gradual Verifier</a>, seeking to bridge the gap between static and dynamic verification. I worked on the first ever gradual verification tool – <a href="https://arxiv.org/abs/2210.02428">Gradual C0</a> – and made use of gradual verification for <a href="https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts">blockchain programming languages</a>.</p>
+<p>Previously, during my undergrad, I worked on—broadly—three projects:</p>
+
+<ul>
+  <li>
+    <p><em>RocqNet</em> : Advised by <a href="https://shemesh.larc.nasa.gov/people/aeg/">Alwyn Goodloe</a> at <a href="https://shemesh.larc.nasa.gov/fm/index.html">NASA’s Langley Formal Methods</a>, we mechanized proofs with Coq that model correct behaviors behind a well-behaved implementation of a Software Defined Delay-Tolerant Network’s Match-Action pipeline algorithm for NASA’s Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL.</p>
+  </li>
+  <li>
+    <p><em>Calyx</em> : Advised by <a href="https://www.cs.cornell.edu/~asampson/"> Adrian Sampson</a> at the <a href="https://capra.cs.cornell.edu/">Computer Architecture &amp; Programming Abstractions group</a>. Here, I studied how to reason about modelling hardware-level parallelism for <a href="https://calyxir.org/">Calyx</a> using symbolic execution and KATs.</p>
+  </li>
+  <li>
+    <p><em>Gradual Verification</em> : I’m a 2× <a href="https://www.cmu.edu/scs/s3d/reuse/Research/index.html">CMU REUSE</a> alumni. I worked under <a href="https://www.cs.cmu.edu/~aldrich/">Jonathan Aldrich</a> in developing a <a href="http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf">Gradual Verifier</a>, seeking to bridge the gap between static and dynamic verification. I worked on the first ever gradual verification tool – <a href="https://arxiv.org/abs/2210.02428">Gradual C0</a> – and made use of gradual verification for <a href="https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts">blockchain programming languages</a>.</p>
+  </li>
+</ul>
 
 <h2 id="community">Community</h2>
 
@@ -185,7 +204,7 @@
     { name: 'John', url: 'https://j-hui.com/'},
     { name: 'Chris', url: 'https://flyingrocksquirrel.github.io/'},
     { name: 'Max', url: 'https://conf.researchr.org/profile/conf/maxsun'},
-    { name: 'Espada', url: 'https://x.com/guiespada'}
+    { name: 'Espada', url: 'https://mastodon.social/@GUIpsp@types.pl'}
   ];
 
   // Function to choose a random friend and return the URL

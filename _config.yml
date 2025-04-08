@@ -6,6 +6,7 @@ url: "https://janpaul.pl" # the base hostname & protocol for your site, e.g. htt
 baseurl: "" # the subpath of your site, e.g. /blog
 social_tag: janpaulpl
 email: mail [at] janpaul [dot] pl
+educ: janpaul [at] bu [dot] edu
 orcid_id: "0000-0003-1055-6785"
 # Build settings
 

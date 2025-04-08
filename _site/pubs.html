@@ -140,13 +140,50 @@
       <div class="flex-body">
         <div class="flex-content">
           <div class="flex-rendered">
-  <div id="category-filters">
+  <!-- <div id="category-filters">
     <button class="filter-btn active" data-category="all" onclick="filterPublications('all')">All</button>
     <button class="filter-btn" data-category="journal" onclick="filterPublications('journal')">Journals</button>
     <button class="filter-btn" data-category="conference" onclick="filterPublications('conference')">Conferences</button>
     <button class="filter-btn" data-category="workshop" onclick="filterPublications('workshop')">Workshops</button>
     <button class="filter-btn" data-category="competition" onclick="filterPublications('competition')">Competitions</button>
     <button class="filter-btn" data-category="presentation" onclick="filterPublications('presentation')">Presentations</button>
+</div> -->
+
+<h2 id="conferences">Conferences</h2>
+
+<div class="pub" data-category="conference">
+    <div class="pub-tags">
+        <span class="conf-tag">POPL</span>
+    </div> 
+    <div class="pub-content">
+        <div class="pub-text">
+            <h3 class="pub-title">Gradual C0: Symbolic Execution for Gradual Verification (TOPLAS)</h3>
+            <span class="pub-authors">Jenna DiVincenzo, Ian McCormack, Hemant Gouni, Jacob Gorenburg, Jan-Paul Ramos-Dávila, Mona Zhang, Conrad Zimmerman, Joshua Sunshine, Éric Tanter, Jonathan Aldrich</span>
+            <p class="pub-conference">  <em>In 52nd ACM SIGPLAN Symposium on Principles of Programming Languages</em>, 2025.</p>
+        </div>
+        <div class="pub-links">
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+        </div>
+    </div>
 </div>
 
 <h2 id="journals">Journals</h2>
@@ -213,43 +250,6 @@
                 <i class="pub-link ri-article-line"></i>
                 <p>PDF</p>
             </a>
-            
-
-            
-
-            
-
-            
-
-            
-        </div>
-    </div>
-</div>
-
-<h2 id="conferences">Conferences</h2>
-
-<div class="pub" data-category="conference">
-    <div class="pub-tags">
-        <span class="conf-tag">POPL</span>
-    </div> 
-    <div class="pub-content">
-        <div class="pub-text">
-            <h3 class="pub-title">Gradual C0: Symbolic Execution for Gradual Verification (TOPLAS)</h3>
-            <span class="pub-authors">Jenna DiVincenzo, Ian McCormack, Hemant Gouni, Jacob Gorenburg, Jan-Paul Ramos-Dávila, Mona Zhang, Conrad Zimmerman, Joshua Sunshine, Éric Tanter, Jonathan Aldrich</span>
-            <p class="pub-conference">  <em>In 52nd ACM SIGPLAN Symposium on Principles of Programming Languages</em>, 2025.</p>
-        </div>
-        <div class="pub-links">
-            
-
-            
-            
-
-            
-            
-
-            
-            
-
             
 
             
@@ -390,6 +390,48 @@
     </div>
 </div>
 
+<h2 id="presentations">Presentations</h2>
+
+<div class="pub" data-category="presentation">
+    <div class="pub-tags">
+        <span class="conf-tag">MWPLS</span>
+    </div> 
+    <div class="pub-content">
+        <div class="pub-text">
+            <h3 class="pub-title">Optimization of a Gradual Verifier: Lazy evaluation of Iso-recursive Predicates as Equi-recursive at Runtime</h3>
+            <span class="pub-authors">Jan-Paul Ramos-Dávila</span>
+            <p class="pub-conference">  <em>In Midwest Programming Languages Summit</em>, 2023.</p>
+        </div>
+        <div class="pub-links">
+            
+
+            
+            
+
+            
+            
+
+            
+            
+
+            
+
+            
+
+            
+            <a href="/assets/posters/mwpls23_poster.pdf" class="pub-link-box">
+                <i class="ri-table-line"></i>
+                <p>Poster</p>
+            </a>
+            
+
+            
+
+            
+        </div>
+    </div>
+</div>
+
 <h2 id="research-competitions">Research Competitions</h2>
 
 <div class="pub" data-category="competition">
@@ -487,48 +529,6 @@
     </div>
 </div>
 
-<h2 id="presentations">Presentations</h2>
-
-<div class="pub" data-category="presentation">
-    <div class="pub-tags">
-        <span class="conf-tag">MWPLS</span>
-    </div> 
-    <div class="pub-content">
-        <div class="pub-text">
-            <h3 class="pub-title">Optimization of a Gradual Verifier: Lazy evaluation of Iso-recursive Predicates as Equi-recursive at Runtime</h3>
-            <span class="pub-authors">Jan-Paul Ramos-Dávila</span>
-            <p class="pub-conference">  <em>In Midwest Programming Languages Summit</em>, 2023.</p>
-        </div>
-        <div class="pub-links">
-            
-
-            
-            
-
-            
-            
-
-            
-            
-
-            
-
-            
-
-            
-            <a href="/assets/posters/mwpls23_poster.pdf" class="pub-link-box">
-                <i class="ri-table-line"></i>
-                <p>Poster</p>
-            </a>
-            
-
-            
-
-            
-        </div>
-    </div>
-</div>
-
 <style>
 #category-filters {
     margin-bottom: 2rem;
@@ -568,7 +568,7 @@
 }
 </style>
 
-<script>
+<!-- <script>
 if (!window.filterInitialized) {
     window.filterInitialized = true;
     
@@ -619,8 +619,7 @@ if (!window.filterInitialized) {
     const activeCategory = sessionStorage.getItem('activeCategory') || 'all';
     window.addEventListener('load', () => filterPublications(activeCategory));
 }
-</script>
-
+</script> -->
 
 </div>
         </div>

@@ -3,25 +3,25 @@ layout: default
 title: Publications
 ---
 
-<div id="category-filters">
+<!-- <div id="category-filters">
     <button class="filter-btn active" data-category="all" onclick="filterPublications('all')">All</button>
     <button class="filter-btn" data-category="journal" onclick="filterPublications('journal')">Journals</button>
     <button class="filter-btn" data-category="conference" onclick="filterPublications('conference')">Conferences</button>
     <button class="filter-btn" data-category="workshop" onclick="filterPublications('workshop')">Workshops</button>
     <button class="filter-btn" data-category="competition" onclick="filterPublications('competition')">Competitions</button>
     <button class="filter-btn" data-category="presentation" onclick="filterPublications('presentation')">Presentations</button>
-</div>
-
-## Journals
-{% assign journals = site.publications | where: "category", "journal" %}
-{% for j in journals %}
-{% include publication.html pub=j %}
-{% endfor %}
+</div> -->
 
 ## Conferences
 {% assign conferences = site.publications | where: "category", "conference" %}
 {% for c in conferences %}
 {% include publication.html pub=c %}
+{% endfor %}
+
+## Journals
+{% assign journals = site.publications | where: "category", "journal" %}
+{% for j in journals %}
+{% include publication.html pub=j %}
 {% endfor %}
 
 ## Workshops
@@ -30,16 +30,16 @@ title: Publications
 {% include publication.html pub=w %}
 {% endfor %}
 
-## Research Competitions
-{% assign conference_pubs = site.publications | where: "category", "competition" %}
-{% for conf_pub in conference_pubs %}
-{% include publication.html pub=conf_pub %}
-{% endfor %}
-
 ## Presentations
 {% assign presentations = site.publications | where: "category", "presentation" %}
 {% for p in presentations %}
 {% include publication.html pub=p %}
+{% endfor %}
+
+## Research Competitions
+{% assign conference_pubs = site.publications | where: "category", "competition" %}
+{% for conf_pub in conference_pubs %}
+{% include publication.html pub=conf_pub %}
 {% endfor %}
 
 <style>
@@ -81,7 +81,7 @@ title: Publications
 }
 </style>
 
-<script>
+<!-- <script>
 if (!window.filterInitialized) {
     window.filterInitialized = true;
     
@@ -132,4 +132,4 @@ if (!window.filterInitialized) {
     const activeCategory = sessionStorage.getItem('activeCategory') || 'all';
     window.addEventListener('load', () => filterPublications(activeCategory));
 }
-</script>
+</script> -->

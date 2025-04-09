@@ -28,7 +28,7 @@ Previously, during my undergrad, I worked on—broadly—three projects:
 
 # Community
 
-I'm a member of the [Audio/Visual team](https://www.sigplan.org/AV) for [SIGPLAN conferences](https://www.sigplan.org/Conferences/). While this is just volunteering work, I've come to put a considerable amount of time into it, so feel free check out [SIGPLAN's official YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some cool PL videos!
+I'm a member of the [Audio/Video team](https://www.sigplan.org/AV) for [SIGPLAN conferences](https://www.sigplan.org/Conferences/). While this is just volunteering work, I've come to put a considerable amount of time into it, so feel free check out [SIGPLAN's official YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some cool PL videos!
 
 <script>
   // Define an array of friends' links and their names

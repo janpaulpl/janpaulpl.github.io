@@ -4,7 +4,7 @@ post: ./_includes/publication.html
 ---
 
 # About
-I'm an incoming CS PhD student in the [POPV research group](https://www.bu.edu/cs/research-groups/popv/) at Boston University coadvised by [Ankush Das](https://ankushdas.github.io) and [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/).
+I'm an incoming CS PhD student in the [POPV research group](https://www.bu.edu/cs/research-groups/popv/) at Boston University co-advised by [Ankush Das](https://ankushdas.github.io) and [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/).
 
 At one time, I did my undergraduate at Cornell University, where I studied computer science, mathematics, and analytical philosophy. I earned a degree in philosophy with a concentration in philosophy of mathematics, logic, and type theory.
 
@@ -16,7 +16,7 @@ Personally, I'm an avid cinephile and audiophile, for which you can find a rabbi
 
 I am uninspired by our current suite of languages that make use of manually specified formal specs. These tend to offload the intellectual challenge of coming up with exhaustive static guarantees to developers, those which don't have the domain-specific expertise or simply *time* to become reasonable proof engineers.
 
-> My current research involves developing type-theoretic frameworks providing soundness guarantees to ease the need/complexity of directly mechanizing code. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs.
+> I develop type systems to guarantee behavioral soundness while easing the need/complexity of directly mechanizing code. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs.
 
 Previously, during my undergrad, I worked on—broadly—three projects:
 

@@ -9,4 +9,5 @@ year: 2025
 month: 
 dates: 
 pages:
+video_link: https://www.youtube.com/watch?v=ufXaANjc7r4
 ---

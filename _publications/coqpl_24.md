@@ -1,5 +1,5 @@
 ---
-title:  Formal Verification of a Software Defined Delay-Tolerant Network
+title:  Formal Verification of a Software Defined Delay-Tolerant Network (Extended Abstract)
 authors: Jan-Paul Ramos-Dávila, Alwyn E. Goodloe
 type:
 category: workshop

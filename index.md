@@ -20,7 +20,7 @@ I am uninspired by our current suite of languages that make use of manually spec
 
 Previously, during my undergrad, I worked on—broadly—three projects:
 
-- <u>NetQIR</u>: I was interned at [NASA's Langley Formal Methods lab](https://shemesh.larc.nasa.gov/fm/index.html) under the advisory of [Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/). We mechanized proofs with Rocq that model correct behaviors behind a well-behaved implementation of a Software Defined Delay-Tolerant Network's Match-Action pipeline algorithm for NASA's Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL.
+- <u>NetQIR</u>: I interned at [NASA's Langley Formal Methods lab](https://shemesh.larc.nasa.gov/fm/index.html) under the advisory of [Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/). We mechanized proofs with Rocq that model correct behaviors behind a well-behaved implementation of a Software Defined Delay-Tolerant Network's Match-Action pipeline algorithm for NASA's Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL.
 
 - <u>Calyx</u>: I worked with the  [Computer Architecture & Programming Abstractions group](https://capra.cs.cornell.edu/) at Cornell while advised by [ Adrian Sampson](https://www.cs.cornell.edu/~asampson/). I studied how to reason about modelling hardware-level parallelism for [Calyx](https://calyxir.org/) using symbolic execution and KATs.
 

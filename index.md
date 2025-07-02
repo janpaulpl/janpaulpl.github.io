@@ -10,13 +10,13 @@ At one time, I did my undergrad at [Cornell University](https://journals.library
 
 > I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: programming languages, automated reasoning, and formal methods for software engineering.
 
-Personally, I'm an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. I also enjoy [digital photography](https://janpaul.pl/photography.html), and am amateurly practicing birding after getting inspired by [Cornell's Ornithology Lab](https://www.birds.cornell.edu/home/). Some day, I want to learn to [shoot/develop film](https://qph.cf2.quoracdn.net/main-qimg-3c723b666a25d581b7c3ab149655626e), get a [US Amateur Radio License](http://www.arrl.org/what-is-ham-radio), and successfully pick an [Abloy Protec2](https://www.locksmithledger.com/locks/article/12438396/abloy-protec2-the-ultimate-locking-solution).
+You can find links to some of my hobbies in the navigation bar of this site. I enjoy [digital photography](https://janpaul.pl/photography.html), and am an aspiring amateur birder after being motivated by [Cornell's Ornithology Lab](https://www.birds.cornell.edu/home/). I am also an enthusiast of 20th century history, with some favorite topics of interest being [Irish revolutionary history](https://archive.org/details/nationnotrabblei0000ferr), Polish shock therapy via the [Balcerowicz Plan](https://polishhistory.pl/the-balcerowicz-plan-an-economic-leap-into-the-unknown/), and the fall of [Francoist Spain](https://origins.osu.edu/milestones/death-franco-spanish-civil-war).
 
 # Research
 
-I am uninspired by our current suite of languages that make use of manually specified formal specs. These tend to offload the intellectual challenge of coming up with exhaustive static guarantees to developers, those which don't have the domain-specific expertise or simply *time* to become reasonable proof engineers.
+I am not convinced by our current suite of languages that require manual work in a specification language on top of the implementation language. These tend to offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers.
 
-> I develop type systems to guarantee behavioral soundness while easing the need/complexity of directly mechanizing code. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs.
+> My research focuses on developing type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs. I achieve this using gradual, dependent, refinement, and probabilistic types, in tandem with proof automation and repair.
 
 Previously, during my undergrad, I worked on—broadly—three projects:
 

@@ -10,7 +10,7 @@ I'm an incoming CS PhD student in the [POPV research group](https://www.bu.edu/c
 You can find links to some of my hobbies in the navigation bar of this site. I enjoy [digital photography](https://janpaul.pl/photography.html), and am an aspiring amateur birder after being motivated by [Cornell's Ornithology Lab](https://www.birds.cornell.edu/home/). I am also an avid enthusiast of 20th century history, with some favorite topics of interest being [Irish revolutionary history](https://archive.org/details/nationnotrabblei0000ferr), Polish shock therapy via the [Balcerowicz Plan](https://polishhistory.pl/the-balcerowicz-plan-an-economic-leap-into-the-unknown/), and the fall of [Francoist Spain](https://origins.osu.edu/milestones/death-franco-spanish-civil-war).
 
 # Research
-{: style="margin-top:0"}
+
 I am not convinced by our current suite of languages that require manual work in a specification language on top of the implementation language. These tend to offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming languages, formal methods for software engineering, and automated reasoning*. 
 
 To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs. I primarily make use of gradual, dependent, refinement, and probabilistic types, in tandem with proof automation and repair.
@@ -29,7 +29,6 @@ To address this issue, I develop type systems to guarantee behavioral soundness 
 > Interested in any of my ongoing research, past projects, or research philosophy? [Feel free to reach out](mailto:janpaul@bu.edu)! I am also an active SIGPLAN community member, so you can probably catch me at any of the big-four SIGPLAN conferences.
 
 # Community
-{: style="margin-top:0"}
 I'm a member of the [Audio/Video team](https://www.sigplan.org/AV) for [SIGPLAN conferences](https://www.sigplan.org/Conferences/). While this is just volunteering work, we've come to put a considerable amount of time and effort into making conferences run as smoothly as possible! Feel free check out [SIGPLAN's official YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some *cool* PL videos.
 
 <script>

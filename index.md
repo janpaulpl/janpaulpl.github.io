@@ -13,7 +13,7 @@ You can find links to some of my hobbies in the navigation bar of this site. I e
 {: style="margin-top:0"}
 I am not convinced by our current suite of languages that require manual work in a specification language on top of the implementation language. These tend to offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming languages, formal methods for software engineering, and automated reasoning*. 
 
-I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs. I primarily make use of gradual, dependent, refinement, and probabilistic types, in tandem with proof automation and repair.
+To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs. I primarily make use of gradual, dependent, refinement, and probabilistic types, in tandem with proof automation and repair.
 
 ## I am currently working on:
 <u>(WIP) Gradual refinement types</u>: Generalizing [Igarashi's notion of gradual session types](https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf) to refinement types.

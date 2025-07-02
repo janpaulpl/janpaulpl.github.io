@@ -189,42 +189,33 @@
   </div>
 </div>
 <div class="flex-rendered">
-  <h1 id="about">About</h1>
-<p>I’m an incoming CS PhD student in the <a href="https://www.bu.edu/cs/research-groups/popv/">POPV research group</a> at Boston University co-advised by <a href="https://ankushdas.github.io">Ankush Das</a> and <a href="https://cs-people.bu.edu/gaboardi/">Marco Gaboardi</a>.</p>
+  <h1 class="no-collapse" id="about">About</h1>
+<p>I’m an incoming CS PhD student in the <a href="https://www.bu.edu/cs/research-groups/popv/">POPV research group</a> at Boston University co-advised by <a href="https://ankushdas.github.io">Ankush Das</a> and <a href="https://cs-people.bu.edu/gaboardi/">Marco Gaboardi</a>. I did my undergrad at <a href="https://journals.library.cornell.edu/index.php/CURJ/article/view/696">Cornell University</a>, where I studied Computer Science and Philosophy.</p>
 
-<p>At one time, I did my undergrad at <a href="https://journals.library.cornell.edu/index.php/CURJ/article/view/696">Cornell University</a>, where I studied Computer Science, Mathematics, and Analytical Philosophy.</p>
+<p>You can find links to some of my hobbies in the navigation bar of this site. I enjoy <a href="https://janpaul.pl/photography.html">digital photography</a>, and am an aspiring amateur birder after being motivated by <a href="https://www.birds.cornell.edu/home/">Cornell’s Ornithology Lab</a>. I am also an avid enthusiast of 20th century history, with some favorite topics of interest being <a href="https://archive.org/details/nationnotrabblei0000ferr">Irish revolutionary history</a>, Polish shock therapy via the <a href="https://polishhistory.pl/the-balcerowicz-plan-an-economic-leap-into-the-unknown/">Balcerowicz Plan</a>, and the fall of <a href="https://origins.osu.edu/milestones/death-franco-spanish-civil-war">Francoist Spain</a>.</p>
 
+<h1 style="margin-top:0" id="research">Research</h1>
+<p>I am not convinced by our current suite of languages that require manual work in a specification language on top of the implementation language. These tend to offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don’t have the domain-specific expertise or the <em>time</em> to become reasonable proof engineers. <em>This has motivated my main interests: programming languages, formal methods for software engineering, and automated reasoning</em>.</p>
+
+<p>I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-<em>typed</em> and well-<em>constructed</em> programs imply well-<em>behaved</em> programs. I primarily make use of gradual, dependent, refinement, and probabilistic types, in tandem with proof automation and repair.</p>
+
+<h2 id="i-am-currently-working-on">I am currently working on:</h2>
+<p><u>(WIP) Gradual refinement types</u>: Generalizing <a href="https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf">Igarashi’s notion of gradual session types</a> to refinement types.</p>
+
+<p><u>(WIP) Automatic type-based verification</u>: Automating refinement type systems with monadic effects with <a href="https://arxiv.org/pdf/1610.06768">Hiroshi’s Constraint Horne Clauses solver</a>.</p>
+
+<h2 id="i-have-previously-worked-on">I have previously worked on:</h2>
+<p><u>NetQIR</u>: I interned with the <a href="https://shemesh.larc.nasa.gov/fm/index.html">NASA Langley’s Formal Methods Research Program</a> as part of the Safety-Critical Avionics Systems Branch under the advisory of <a href="https://shemesh.larc.nasa.gov/people/aeg/">Alwyn Goodloe</a>. We mechanized proofs in Rocq that guarantee correct behaviors behind a well-behaved implementation of a Software Defined Delay-Tolerant Network algorithm written in <a href="https://p4.org/">P4</a> for <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/interplanetary-overlay-network/">NASA’s Interplanetary Overlay Network framework</a>. These guarantees are then provided to the user at the type level when written in our DSL, <a href="https://popl25.sigplan.org/details/CoqPL-2025-papers/1/Formal-Verification-of-a-Software-Defined-Delay-Tolerant-Network">NetQIR</a>, which compiles a subset of P4 to our verified representation for machine checking.</p>
+
+<p><u>Gradual Verification</u>: I’m a 2× <a href="https://www.cmu.edu/scs/s3d/reuse/Research/index.html">CMU REUSE</a> alumni. I worked under the advisory of <a href="https://www.cs.cmu.edu/~aldrich/">Jonathan Aldrich</a> in developing a <a href="http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf">Gradual Verifier</a>, seeking to bridge the gap between static and dynamic verification. I worked on the first ever gradual verification tool – <a href="https://arxiv.org/abs/2210.02428">Gradual C0</a> – and made use of gradual verification for <a href="https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts">blockchain programming languages</a>.</p>
+
+<p><u>Calyx</u>: I worked with the  <a href="https://capra.cs.cornell.edu/">Computer Architecture &amp; Programming Abstractions group</a> at Cornell while advised by <a href="https://www.cs.cornell.edu/~asampson/">Adrian Sampson</a>. I studied how to reason about modelling concurrency at the hardware-level for FPGA programming in <a href="https://calyxir.org/">Calyx</a> using <a href="https://github.com/calyxir/calyx/issues/2278">symbolic execution and KATs</a>.</p>
 <blockquote>
-  <p>I view my philosophical preparation in formal epistemology and logics as an essential framework to aid navigate my main technical interests: programming languages, automated reasoning, and formal methods for software engineering.</p>
+  <p>Interested in any of my ongoing research, past projects, or research philosophy? <a href="mailto:janpaul@bu.edu">Feel free to reach out</a>! I am also an active SIGPLAN community member, so you can probably catch me at any of the big-four SIGPLAN conferences.</p>
 </blockquote>
 
-<p>Personally, I’m an avid cinephile and audiophile, for which you can find a rabbit-hole of information at the top right of this page. I also enjoy <a href="https://janpaul.pl/photography.html">digital photography</a>, and am amateurly practicing birding after getting inspired by <a href="https://www.birds.cornell.edu/home/">Cornell’s Ornithology Lab</a>. Some day, I want to learn to <a href="https://qph.cf2.quoracdn.net/main-qimg-3c723b666a25d581b7c3ab149655626e">shoot/develop film</a>, get a <a href="http://www.arrl.org/what-is-ham-radio">US Amateur Radio License</a>, and successfully pick an <a href="https://www.locksmithledger.com/locks/article/12438396/abloy-protec2-the-ultimate-locking-solution">Abloy Protec2</a>.</p>
-
-<h1 id="research">Research</h1>
-
-<p>I am uninspired by our current suite of languages that make use of manually specified formal specs. These tend to offload the intellectual challenge of coming up with exhaustive static guarantees to developers, those which don’t have the domain-specific expertise or simply <em>time</em> to become reasonable proof engineers.</p>
-
-<blockquote>
-  <p>I develop type systems to guarantee behavioral soundness while easing the need/complexity of directly mechanizing code. I want to assure all well-<em>typed</em> and well-<em>constructed</em> programs imply well-<em>behaved</em> programs.</p>
-</blockquote>
-
-<p>Previously, during my undergrad, I worked on—broadly—three projects:</p>
-
-<ul>
-  <li>
-    <p><u>RocqNet</u>: Advised by <a href="https://shemesh.larc.nasa.gov/people/aeg/">Alwyn Goodloe</a> at <a href="https://shemesh.larc.nasa.gov/fm/index.html">NASA’s Langley Formal Methods</a>, we mechanized proofs with Coq that model correct behaviors behind a well-behaved implementation of a Software Defined Delay-Tolerant Network’s Match-Action pipeline algorithm for NASA’s Interplanetary Overlay Network framework. The well-behavedness of the algorithm comes from it being implemented in our networks DSL.</p>
-  </li>
-  <li>
-    <p><u>Calyx</u>: Advised by <a href="https://www.cs.cornell.edu/~asampson/"> Adrian Sampson</a> at the <a href="https://capra.cs.cornell.edu/">Computer Architecture &amp; Programming Abstractions group</a>. Here, I studied how to reason about modelling hardware-level parallelism for <a href="https://calyxir.org/">Calyx</a> using symbolic execution and KATs.</p>
-  </li>
-  <li>
-    <p><u>Gradual Verification</u>: I’m a 2× <a href="https://www.cmu.edu/scs/s3d/reuse/Research/index.html">CMU REUSE</a> alumni. I worked under <a href="https://www.cs.cmu.edu/~aldrich/">Jonathan Aldrich</a> in developing a <a href="http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf">Gradual Verifier</a>, seeking to bridge the gap between static and dynamic verification. I worked on the first ever gradual verification tool – <a href="https://arxiv.org/abs/2210.02428">Gradual C0</a> – and made use of gradual verification for <a href="https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts">blockchain programming languages</a>.</p>
-  </li>
-</ul>
-
-<h1 id="community">Community</h1>
-
-<p>I’m a member of the <a href="https://www.sigplan.org/AV">Audio/Video team</a> for <a href="https://www.sigplan.org/Conferences/">SIGPLAN conferences</a>. While this is just volunteering work, I’ve come to put a considerable amount of time into it, so feel free check out <a href="https://www.youtube.com/@acmsigplan">SIGPLAN’s official YouTube Channel</a> if you’re interested in some cool PL videos!</p>
+<h1 style="margin-top:0" id="community">Community</h1>
+<p>I’m a member of the <a href="https://www.sigplan.org/AV">Audio/Video team</a> for <a href="https://www.sigplan.org/Conferences/">SIGPLAN conferences</a>. While this is just volunteering work, we’ve come to put a considerable amount of time and effort into making conferences run as smoothly as possible! Feel free check out <a href="https://www.youtube.com/@acmsigplan">SIGPLAN’s official YouTube Channel</a> if you’re interested in some <em>cool</em> PL videos.</p>
 
 <script>
   // Define an array of friends' links and their names
@@ -238,8 +229,14 @@
     { name: 'Alex', url: 'https://www.eecs.tufts.edu/~abai02/'},
     { name: 'John', url: 'https://j-hui.com/'},
     { name: 'Chris', url: 'https://flyingrocksquirrel.github.io/'},
-    { name: 'Max', url: 'https://conf.researchr.org/profile/conf/maxsun'},
-    { name: 'Espada', url: 'https://mastodon.social/@GUIpsp@types.pl'}
+    { name: 'Max', url: 'https://github.com/MaxCan-Code'},
+    { name: 'Espada', url: 'https://github.com/GUIpsp'},
+    { name: 'Nicole', url: 'https://ipv3.org/'},
+    { name: 'Dexter', url: 'https://qtrp.org/'},
+    { name: 'Nicola', url: 'https://nicolaassolini98.github.io/'},
+    {name: 'Eduardo', url: 'https://github.com/eduardo-imadeira'},
+    {name: 'Ethan', url: 'https://ethanrange.com/'},
+    {name: 'Apoorv', url: 'https://cs.uiowa.edu/~aningle'}
   ];
 
   // Function to choose a random friend and return the URL
@@ -342,82 +339,62 @@
   }
 </style>
 
+
 <script>
-  // Collapsible section functionality
-  document.addEventListener('DOMContentLoaded', function() {
-    // First, let's identify the cat image section that should always be visible
-    const catImages = document.querySelectorAll('.flex-rendered center');
-    if (catImages.length > 0) {
-      // Mark cat image elements as non-collapsible
-      catImages.forEach(center => {
-        center.classList.add('cat-image-section');
-      });
+document.addEventListener('DOMContentLoaded', () => {
+
+    /* Skip collapsible behaviour on the root URL (“/”) */
+  if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
+    return;
+  }
+
+  /* All headings that MAY collapse (h1 plus h2 that are NOT flagged) */
+  const headers = document.querySelectorAll(
+      '.flex-rendered h1, ' +           /* every h1  */
+      '.flex-rendered h2:not(.no-collapse)' /* every h2 except .no-collapse */
+  );
+
+  const catImageSel = '.cat-image-section';
+
+  headers.forEach(header => {
+    header.classList.add('collapsible');
+
+    /* little arrow ▾ */
+    const indicator = document.createElement('span');
+    indicator.className = 'collapse-indicator';
+    indicator.innerHTML = ' <i class="ri-arrow-down-s-line"></i>';
+    header.appendChild(indicator);
+
+    /* collect everything until the next *header of ANY level* */
+    const content = [];
+    let next = header.nextElementSibling;
+
+    while (next && !next.matches('.flex-rendered h1, .flex-rendered h2')) {
+      if (!next.matches(catImageSel)) content.push(next);
+      next = next.nextElementSibling;
     }
 
-    // Get all h1 and h2 headers in the rendered content
-    const headers = document.querySelectorAll('.flex-rendered h1, .flex-rendered h2');
-    
-    headers.forEach(header => {
-      // Include all headers, including the main About header
-      // Make header clickable
-      header.classList.add('collapsible');
-      
-      // Add improved indicator icon using remix icons (which are already included in your site)
-      const indicator = document.createElement('span');
-      indicator.className = 'collapse-indicator';
-      indicator.innerHTML = ' <i class="ri-arrow-down-s-line"></i>'; // Using RemixIcon - start with down arrow
-      header.appendChild(indicator);
-      
-      // Find all elements to collapse (everything between this header and the next header)
-      // But exclude any cat image sections
-      let content = [];
-      let nextEl = header.nextElementSibling;
-      
-      while (nextEl && !['H1', 'H2'].includes(nextEl.tagName)) {
-        // Skip the cat image section
-        if (nextEl.classList.contains('cat-image-section')) {
-          nextEl = nextEl.nextElementSibling;
-          continue;
-        }
-        content.push(nextEl);
-        nextEl = nextEl.nextElementSibling;
-      }
-      
-      // Only create a collapsible section if there's content to collapse
-      if (content.length > 0) {
-        // Create a container for the content
-        const contentDiv = document.createElement('div');
-        contentDiv.className = 'collapsible-content';
-        header.after(contentDiv);
-        
-        // Move all content into the container
-        content.forEach(el => contentDiv.appendChild(el));
-        
-        // Set up click handler
-        header.addEventListener('click', (e) => {
-          header.classList.toggle('collapsed');
-          contentDiv.classList.toggle('collapsed');
-          
-          // Prevent default behavior (like anchor tag navigation)
-          e.preventDefault();
-          
-          // Toggle the icon (using CSS transform for smoother animation)
-          const icon = header.querySelector('.collapse-indicator i');
-          if (icon) {
-            if (header.classList.contains('collapsed')) {
-              icon.className = 'ri-arrow-right-s-line';
-            } else {
-              icon.className = 'ri-arrow-down-s-line';
-            }
-          }
-        });
-      } else {
-        // If no content, remove the collapse indicator
-        indicator.remove();
-        header.classList.remove('collapsible');
-      }
-    });
+    if (content.length) {
+      const wrapper = document.createElement('div');
+      wrapper.className = 'collapsible-content';
+      header.after(wrapper);
+      content.forEach(el => wrapper.appendChild(el));
+
+      header.addEventListener('click', e => {
+        header.classList.toggle('collapsed');
+        wrapper.classList.toggle('collapsed');
+        e.preventDefault();
+        header.querySelector('i').className =
+          header.classList.contains('collapsed')
+            ? 'ri-arrow-right-s-line'
+            : 'ri-arrow-down-s-line';
+      });
+    } else {
+      indicator.remove();
+      header.classList.remove('collapsible');
+    }
   });
+});
 </script>
 
 </body>

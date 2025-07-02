@@ -226,82 +226,62 @@
   }
 </style>
 
+
 <script>
-  // Collapsible section functionality
-  document.addEventListener('DOMContentLoaded', function() {
-    // First, let's identify the cat image section that should always be visible
-    const catImages = document.querySelectorAll('.flex-rendered center');
-    if (catImages.length > 0) {
-      // Mark cat image elements as non-collapsible
-      catImages.forEach(center => {
-        center.classList.add('cat-image-section');
-      });
+document.addEventListener('DOMContentLoaded', () => {
+
+    /* Skip collapsible behaviour on the root URL (“/”) */
+  if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
+    return;
+  }
+
+  /* All headings that MAY collapse (h1 plus h2 that are NOT flagged) */
+  const headers = document.querySelectorAll(
+      '.flex-rendered h1, ' +           /* every h1  */
+      '.flex-rendered h2:not(.no-collapse)' /* every h2 except .no-collapse */
+  );
+
+  const catImageSel = '.cat-image-section';
+
+  headers.forEach(header => {
+    header.classList.add('collapsible');
+
+    /* little arrow ▾ */
+    const indicator = document.createElement('span');
+    indicator.className = 'collapse-indicator';
+    indicator.innerHTML = ' <i class="ri-arrow-down-s-line"></i>';
+    header.appendChild(indicator);
+
+    /* collect everything until the next *header of ANY level* */
+    const content = [];
+    let next = header.nextElementSibling;
+
+    while (next && !next.matches('.flex-rendered h1, .flex-rendered h2')) {
+      if (!next.matches(catImageSel)) content.push(next);
+      next = next.nextElementSibling;
     }
 
-    // Get all h1 and h2 headers in the rendered content
-    const headers = document.querySelectorAll('.flex-rendered h1, .flex-rendered h2');
-    
-    headers.forEach(header => {
-      // Include all headers, including the main About header
-      // Make header clickable
-      header.classList.add('collapsible');
-      
-      // Add improved indicator icon using remix icons (which are already included in your site)
-      const indicator = document.createElement('span');
-      indicator.className = 'collapse-indicator';
-      indicator.innerHTML = ' <i class="ri-arrow-down-s-line"></i>'; // Using RemixIcon - start with down arrow
-      header.appendChild(indicator);
-      
-      // Find all elements to collapse (everything between this header and the next header)
-      // But exclude any cat image sections
-      let content = [];
-      let nextEl = header.nextElementSibling;
-      
-      while (nextEl && !['H1', 'H2'].includes(nextEl.tagName)) {
-        // Skip the cat image section
-        if (nextEl.classList.contains('cat-image-section')) {
-          nextEl = nextEl.nextElementSibling;
-          continue;
-        }
-        content.push(nextEl);
-        nextEl = nextEl.nextElementSibling;
-      }
-      
-      // Only create a collapsible section if there's content to collapse
-      if (content.length > 0) {
-        // Create a container for the content
-        const contentDiv = document.createElement('div');
-        contentDiv.className = 'collapsible-content';
-        header.after(contentDiv);
-        
-        // Move all content into the container
-        content.forEach(el => contentDiv.appendChild(el));
-        
-        // Set up click handler
-        header.addEventListener('click', (e) => {
-          header.classList.toggle('collapsed');
-          contentDiv.classList.toggle('collapsed');
-          
-          // Prevent default behavior (like anchor tag navigation)
-          e.preventDefault();
-          
-          // Toggle the icon (using CSS transform for smoother animation)
-          const icon = header.querySelector('.collapse-indicator i');
-          if (icon) {
-            if (header.classList.contains('collapsed')) {
-              icon.className = 'ri-arrow-right-s-line';
-            } else {
-              icon.className = 'ri-arrow-down-s-line';
-            }
-          }
-        });
-      } else {
-        // If no content, remove the collapse indicator
-        indicator.remove();
-        header.classList.remove('collapsible');
-      }
-    });
+    if (content.length) {
+      const wrapper = document.createElement('div');
+      wrapper.className = 'collapsible-content';
+      header.after(wrapper);
+      content.forEach(el => wrapper.appendChild(el));
+
+      header.addEventListener('click', e => {
+        header.classList.toggle('collapsed');
+        wrapper.classList.toggle('collapsed');
+        e.preventDefault();
+        header.querySelector('i').className =
+          header.classList.contains('collapsed')
+            ? 'ri-arrow-right-s-line'
+            : 'ri-arrow-down-s-line';
+      });
+    } else {
+      indicator.remove();
+      header.classList.remove('collapsible');
+    }
   });
+});
 </script>
 
 </body>

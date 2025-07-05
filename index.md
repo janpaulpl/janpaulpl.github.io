@@ -50,7 +50,8 @@ I'm a member of the [Audio/Video team](https://www.sigplan.org/AV) for [SIGPLAN 
     { name: 'Nicola', url: 'https://nicolaassolini98.github.io/'},
     {name: 'Eduardo', url: 'https://github.com/eduardo-imadeira'},
     {name: 'Ethan', url: 'https://ethanrange.com/'},
-    {name: 'Apoorv', url: 'https://cs.uiowa.edu/~aningle'}
+    {name: 'Apoorv', url: 'https://cs.uiowa.edu/~aningle'},
+    {name: 'Eloise', url: 'https://github.com/fdeitylink'}
   ];
 
   // Function to choose a random friend and return the URL

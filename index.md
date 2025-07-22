@@ -11,14 +11,16 @@ You can find links to some of my hobbies in the navigation bar of this site. I e
 
 # Research
 
-I am not convinced by our current suite of languages that require manual work in a specification language on top of the implementation language. These tend to offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming languages, formal methods for software engineering, and automated reasoning*. 
+I am not convinced by the demanding workflow of current suite of languages that require manual work in a specification language on top of the implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming languages, formal methods for software engineering, and automated reasoning*. 
 
-To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs. I primarily make use of gradual, dependent, refinement, and probabilistic types, in tandem with proof automation and repair.
+To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs. I primarily make use of gradual, dependent/refinement, and probabilistic/plausibilistic types, in tandem with proof automation and repair.
 
-## I am currently working on:
-<u>(WIP) Gradual refinement types</u>: Generalizing [Igarashi's notion of gradual session types](https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf) to refinement types.
+## (WIP) I am currently working on:
+<u>PLausibilistic type system</u>: Qualitative notion of probabilistic type systems (such as [PReST](https://dl.acm.org/doi/10.1145/3729317)) using [Halpern's plausibility measures](https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf) for a more generalized belief model enriched with default reasoning.
 
-<u>(WIP) Automatic type-based verification</u>: Automating refinement type systems with monadic effects with [Hiroshi's Constraint Horne Clauses solver](https://arxiv.org/pdf/1610.06768).
+<u>Gradual refinement types</u>: Generalizing [Igarashi's notion of gradual session types](https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf) to refinement types.
+
+<u>Automatic type-based verification</u>: Automating refinement type systems with monadic effects with [Hiroshi's Constraint Horne Clauses solver](https://arxiv.org/pdf/1610.06768).
 
 ## I have previously worked on:
 <u>NetQIR</u>: I interned with the [NASA Langley's Formal Methods Research Program](https://shemesh.larc.nasa.gov/fm/index.html) as part of the Safety-Critical Avionics Systems Branch under the advisory of [Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/). We mechanized proofs in Rocq that guarantee correct behaviors behind a well-behaved implementation of a Software Defined Delay-Tolerant Network algorithm written in [P4](https://p4.org/) for [NASA's Interplanetary Overlay Network framework](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/interplanetary-overlay-network/). These guarantees are then provided to the user at the type level when written in our DSL, [NetQIR](https://popl25.sigplan.org/details/CoqPL-2025-papers/1/Formal-Verification-of-a-Software-Defined-Delay-Tolerant-Network), which compiles a subset of P4 to our verified representation for machine checking.

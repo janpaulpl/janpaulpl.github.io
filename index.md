@@ -13,10 +13,10 @@ You can find links to some of my hobbies in the navigation bar of this site. I e
 
 I am not convinced by the demanding workflow of current suite of languages that require manual work in a specification language on top of the implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming languages, formal methods for software engineering, and automated reasoning*. 
 
-To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs. I primarily make use of gradual, dependent/refinement, and probabilistic/plausibilistic types, in tandem with proof automation and repair.
+To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs. I primarily make use of gradual, dependent/refinement, and probabilistic/plausibilistic types, in tandem with proof mining, automation, and repair.
 
 ## (WIP) I am currently working on:
-<u>Plausibilistic type system</u>: Qualitative notion of probabilistic type systems (such as [PReST](https://dl.acm.org/doi/10.1145/3729317)) using [Halpern's plausibility measures](https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf) for a more generalized belief model enriched with default reasoning.
+<u>Plausibilistic type systems</u>: Qualitative notion of probabilistic type systems (such as [PReST](https://dl.acm.org/doi/10.1145/3729317)) using [Halpern's plausibility measures](https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf) for a more generalized belief model enriched with default reasoning. Started playing around with this idea with [Sound Default-Typed Scheme](https://conf.researchr.org/home/icfp-splash-2025/scheme-2025).
 
 <u>Gradual refinement types</u>: Generalizing [Igarashi's notion of gradual session types](https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf) to refinement types.
 

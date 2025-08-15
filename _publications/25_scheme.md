@@ -1,5 +1,5 @@
 ---
-title: "Sound Default-Typed Scheme (Position Paper) (In Submission)"
+title: "Sound Default-Typed Scheme (Position Paper)"
 authors: Jan-Paul Ramos-Dávila
 type:
 category: workshop

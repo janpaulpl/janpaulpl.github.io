@@ -32,7 +32,7 @@ To address this issue, I develop type systems to guarantee behavioral soundness 
 > Interested in any of my ongoing research, past projects, or research philosophy? [Feel free to reach out](mailto:research@janpaul.pl)! I am also an active SIGPLAN community member, so you can probably catch me at any of the big-four SIGPLAN conferences.
 
 ## And some "lesser" projects:
-<u>Plausibilistic type systems</u>: Qualitative notion of probabilistic type systems (such as [PReST](https://dl.acm.org/doi/10.1145/3729317)) using [Halpern's plausibility measures](https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf) for a more generalized belief model enriched with default reasoning. Started playing around with this idea with [Sound Default-Typed Scheme](https://conf.researchr.org/home/icfp-splash-2025/scheme-2025).
+<u>Plausibilistic type systems</u>: Qualitative notion of probabilistic type systems (such as [PReST](https://dl.acm.org/doi/10.1145/3729317)) using [Halpern's plausibility measures](https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf) for a more generalized belief model enriched with default reasoning. Started playing around with this idea via [Sound Default-Typed Scheme](https://conf.researchr.org/home/icfp-splash-2025/scheme-2025).
 
 # Community
 I'm a member of the [Audio/Video team](https://www.sigplan.org/AV) for [SIGPLAN conferences](https://www.sigplan.org/Conferences/). While this is just volunteering work, we've come to put a considerable amount of time and effort into making conferences run as smoothly as possible! Feel free check out [SIGPLAN's official YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some *cool* PL videos.

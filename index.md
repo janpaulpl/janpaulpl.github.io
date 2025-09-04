@@ -21,7 +21,7 @@ To address this issue, I develop type systems to guarantee behavioral soundness 
 
 <u>Automatic type-based verification</u>: Automating refinement type systems with monadic effects with [Hiroshi's Constraint Horne Clauses solver](https://arxiv.org/pdf/1610.06768).
 
-<u>Type-based concurrency reasoning</u>: Using [Temporal Session Types](https://arxiv.org/pdf/2012.13129) and [Inductive Diagrams for Causal Reasoning](https://dl.acm.org/doi/10.1145/3649830) as proof structures for formalizing timing constraints in queueing theory and hardware accelerators.
+<u>Type-based concurrency reasoning</u>: Using [Temporal Session Types](https://arxiv.org/pdf/2012.13129) as proof structures for formalizing timing constraints in queueing theory.
 
 ## I have previously worked on:
 <u>NetQIR</u>: I interned at [NASA Langley's Formal Methods Research Program](https://shemesh.larc.nasa.gov/fm/index.html) as part of the Safety-Critical Avionics Systems Branch under the advisory of [Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/). We mechanized proofs in Rocq that guarantee correct behaviors behind a well-behaved implementation of a Software Defined Delay-Tolerant Network algorithm written in [P4](https://p4.org/) for [NASA's Interplanetary Overlay Network framework](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/interplanetary-overlay-network/). These guarantees are then provided to the user at the type level when written in our DSL, [NetQIR](https://popl25.sigplan.org/details/CoqPL-2025-papers/1/Formal-Verification-of-a-Software-Defined-Delay-Tolerant-Network), which compiles a subset of P4 to our verified representation for machine checking.

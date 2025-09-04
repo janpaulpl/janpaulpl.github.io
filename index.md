@@ -17,7 +17,7 @@ To address this issue, I develop type systems to guarantee behavioral soundness 
 
 ## I am currently working on:
 
-<u>Gradual refinement types</u>: Generalizing [Igarashi's notion of gradual session types](https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf) to refinement types.
+<u>Gradual refinement/probabilistic types</u>: Generalizing [Igarashi's notion of gradual session types](https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf) to refinement and probabilistic types.
 
 <u>Automatic type-based verification</u>: Automating refinement type systems with monadic effects with [Hiroshi's Constraint Horne Clauses solver](https://arxiv.org/pdf/1610.06768).
 

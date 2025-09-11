@@ -11,17 +11,17 @@ You can find links to some of my hobbies in the navigation bar of this site. I e
 
 # Research
 
-I am not convinced by the demanding workflow required by our current suite of languages. That is, doing manual work in a specification language on top of the implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming languages, formal methods for software engineering, and automated reasoning*. 
+I am not convinced by the demanding workflow required by our current suite of languages. That is, doing manual work in a specification language on top of the implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming language design, type theory, and formal methods for software engineering*. 
 
-To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs. I primarily make use of gradual, dependent/refinement, and probabilistic/plausibilistic types, in tandem with proof mining, automation, and repair.
+To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* programs imply well-*behaved* programs.
 
 ## I am currently working on:
 
-<u>Gradual refinement/probabilistic types</u>: Generalizing [Igarashi's notion of gradual session types](https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf) to refinement and probabilistic types.
+<u>Gradual types</u>: Generalizing [Igarashi's notion of gradual session types](https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf) to probabilistic refinement session types.
 
-<u>Type-based concurrency reasoning</u>: Using [Temporal Session Types](https://arxiv.org/pdf/2012.13129) as proof structures for formalizing timing constraints in queueing theory.
+<u>Typed concurrency reasoning</u>: Instrumenting [probabilistic refinement session programs](https://dl.acm.org/doi/10.1145/3729317) with a typed [temporal analysis](https://ankushdas.github.io/docs/icfp18.pdf) for formalizing timing constraints via queueing theory.
 
-<u>Automatic type-based verification</u>: Automating refinement type systems with monadic effects with [Hiroshi's Constraint Horne Clauses solver](https://arxiv.org/pdf/1610.06768).
+<u>Typed automated verification</u>: Automating verification of refinement type systems with monadic effects based on [Hiroshi's constraint horne clauses solver](https://arxiv.org/pdf/1610.06768).
 
 ## I have previously worked on:
 <u>NetQIR</u>: I interned at [NASA Langley's Formal Methods Research Program](https://shemesh.larc.nasa.gov/fm/index.html) as part of the Safety-Critical Avionics Systems Branch under the advisory of [Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/). We mechanized proofs in Rocq that guarantee correct behaviors behind a well-behaved implementation of a Software Defined Delay-Tolerant Network algorithm written in [P4](https://p4.org/) for [NASA's Interplanetary Overlay Network framework](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/interplanetary-overlay-network/). These guarantees are then provided to the user at the type level when written in our DSL, [NetQIR](https://popl25.sigplan.org/details/CoqPL-2025-papers/1/Formal-Verification-of-a-Software-Defined-Delay-Tolerant-Network), which compiles a subset of P4 to our verified representation for machine checking.
@@ -30,8 +30,8 @@ To address this issue, I develop type systems to guarantee behavioral soundness 
 
 <u>Calyx</u>: I worked with the  [Computer Architecture & Programming Abstractions group](https://capra.cs.cornell.edu/) at Cornell while advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/). I studied how to reason about modelling concurrency at the hardware-level for FPGA programming in [Calyx](https://calyxir.org/) using [symbolic execution and KATs](https://github.com/calyxir/calyx/issues/2278).
 
-## And some "random" projects:
-<u>Plausibilistic type systems</u>: Qualitative notion of probabilistic type systems (such as [PReST](https://dl.acm.org/doi/10.1145/3729317)) using [Halpern's plausibility measures](https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf) for a more generalized belief model enriched with default reasoning. Started playing around with this idea via [Sound Default-Typed Scheme](https://conf.researchr.org/details/icfp-splash-2025/scheme-2025-papers/10/Sound-Default-Typed-Scheme-Position-Paper-).
+## And "disorganized" projects:
+<u>Plausibilistic type systems</u>: Qualitative notion of probabilistic type systems using [Halpern's plausibility measures](https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf) for a more generalized belief model enriched with default reasoning. Started playing around with this idea via [Sound Default-Typed Scheme](https://conf.researchr.org/details/icfp-splash-2025/scheme-2025-papers/10/Sound-Default-Typed-Scheme-Position-Paper-).
 
 > Interested in any of my ongoing research, past projects, or research philosophy? [Feel free to reach out](mailto:research@janpaul.pl)! I am also an active SIGPLAN community member, so you can probably catch me at any of the big-four SIGPLAN conferences.
 

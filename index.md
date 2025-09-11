@@ -11,7 +11,7 @@ You can find links to some of my hobbies in the navigation bar of this site. I e
 
 # Research
 
-I am not convinced by the demanding workflow of current suite of languages that require manual work in a specification language on top of the implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming languages, formal methods for software engineering, and automated reasoning*. 
+I am not convinced by the demanding workflow required by our current suite of languages. That is, doing manual work in a specification language on top of the implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming languages, formal methods for software engineering, and automated reasoning*. 
 
 To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* and well-*constructed* programs imply well-*behaved* programs. I primarily make use of gradual, dependent/refinement, and probabilistic/plausibilistic types, in tandem with proof mining, automation, and repair.
 
@@ -29,10 +29,11 @@ To address this issue, I develop type systems to guarantee behavioral soundness 
 <u>Gradual Verification</u>: I'm a 2× [CMU REUSE](https://www.cmu.edu/scs/s3d/reuse/Research/index.html) alumni. I worked under the advisory of [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) in developing a [Gradual Verifier](http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf), seeking to bridge the gap between static and dynamic verification. I worked on the first ever gradual verification tool -- [Gradual C0](https://arxiv.org/abs/2210.02428) -- and made use of gradual verification for [blockchain programming languages](https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts).
 
 <u>Calyx</u>: I worked with the  [Computer Architecture & Programming Abstractions group](https://capra.cs.cornell.edu/) at Cornell while advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/). I studied how to reason about modelling concurrency at the hardware-level for FPGA programming in [Calyx](https://calyxir.org/) using [symbolic execution and KATs](https://github.com/calyxir/calyx/issues/2278).
-> Interested in any of my ongoing research, past projects, or research philosophy? [Feel free to reach out](mailto:research@janpaul.pl)! I am also an active SIGPLAN community member, so you can probably catch me at any of the big-four SIGPLAN conferences.
 
 ## And some "random" projects:
 <u>Plausibilistic type systems</u>: Qualitative notion of probabilistic type systems (such as [PReST](https://dl.acm.org/doi/10.1145/3729317)) using [Halpern's plausibility measures](https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf) for a more generalized belief model enriched with default reasoning. Started playing around with this idea via [Sound Default-Typed Scheme](https://conf.researchr.org/details/icfp-splash-2025/scheme-2025-papers/10/Sound-Default-Typed-Scheme-Position-Paper-).
+
+> Interested in any of my ongoing research, past projects, or research philosophy? [Feel free to reach out](mailto:research@janpaul.pl)! I am also an active SIGPLAN community member, so you can probably catch me at any of the big-four SIGPLAN conferences.
 
 # Community
 I'm a member of the [Audio/Video team](https://www.sigplan.org/AV) for [SIGPLAN conferences](https://www.sigplan.org/Conferences/). While this is just volunteering work, we've come to put a considerable amount of time and effort into making conferences run as smoothly as possible! Feel free check out [SIGPLAN's official YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some *cool* PL videos.

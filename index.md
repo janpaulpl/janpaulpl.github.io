@@ -5,17 +5,17 @@ post: ./_includes/publication.html
 
 # About 
 {: .no-collapse}
-I'm a first-year PhD student studying programming languages at Boston University, co-advised by [Ankush Das](https://ankushdas.github.io) and [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/). I am affiliated with the [POPV research group](https://www.bu.edu/cs/research-groups/popv/) and with [Logic @ BU](https://nmmull.github.io/logic-bu/), an interdisciplinary group spanning computer science, math, linguistics, and philosophy. I earned my BA from [Cornell University](https://journals.library.cornell.edu/index.php/CURJ/article/view/696), with a focus in Computer Science and Philosophy.
+I'm a first-year PhD student studying programming languages at Boston University, co-advised by [Ankush Das](https://ankushdas.github.io) and [Marco Gaboardi](https://cs-people.bu.edu/gaboardi/). I'm affiliated with the [POPV research group](https://www.bu.edu/cs/research-groups/popv/) and with [Logic @ BU](https://nmmull.github.io/logic-bu/), an interdisciplinary group spanning computer science, math, linguistics, and philosophy. I earned my BA from [Cornell University](https://journals.library.cornell.edu/index.php/CURJ/article/view/696), with a focus in Computer Science and Philosophy.
 
-You can find links to some of my hobbies in the navigation bar of this site. I enjoy [digital photography](https://janpaul.pl/photography.html), and am an aspiring amateur birder after being motivated by [Cornell's Ornithology Lab](https://www.birds.cornell.edu/home/). I am also have a strong interest in 20th-century history, with a particular focus on [Irish revolutionary history](https://archive.org/details/nationnotrabblei0000ferr), Poland's economic transition via the [Balcerowicz Plan](https://polishhistory.pl/the-balcerowicz-plan-an-economic-leap-into-the-unknown/), and the fall of [Francoist Spain](https://origins.osu.edu/milestones/death-franco-spanish-civil-war).
+You can find links to some of my hobbies in the navigation bar of this site. I enjoy [digital photography](https://janpaul.pl/photography.html), and am an aspiring amateur birder after being motivated by [Cornell's Ornithology Lab](https://www.birds.cornell.edu/home/). I also have a strong interest in 20th-century history, with a particular focus on [Irish revolutionary history](https://archive.org/details/nationnotrabblei0000ferr), Poland's economic transition via the [Balcerowicz Plan](https://polishhistory.pl/the-balcerowicz-plan-an-economic-leap-into-the-unknown/), and the fall of [Francoist Spain](https://origins.osu.edu/milestones/death-franco-spanish-civil-war).
 
 # Research
 
-I am not convinced by the demanding workflow required by our current suite of languages. That is, doing manual work in a specification language on top of the implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming language design, type theory, and formal methods for software engineering*. 
+I find myself not convinced by the demanding workflow required by our current suite of languages. That is, doing manual work in a specification language on top of the implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming language design, type theory, and formal methods for software engineering*. 
 
 To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* programs imply well-*behaved* programs.
 
-## I am currently working on:
+## Currently working on:
 
 <u>Gradual types</u>: Generalizing [Igarashi's notion of gradual session types](https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf) to probabilistic refinement session types.
 
@@ -23,17 +23,17 @@ To address this issue, I develop type systems to guarantee behavioral soundness 
 
 <u>Typed automated verification</u>: Automating verification of refinement type systems with monadic effects based on [Hiroshi's constraint horne clauses solver](https://arxiv.org/pdf/1610.06768).
 
-## I have previously worked on:
+## Previously worked on:
 <u>NetQIR</u>: I interned at [NASA Langley's Formal Methods Research Program](https://shemesh.larc.nasa.gov/fm/index.html) as part of the Safety-Critical Avionics Systems Branch under the advisory of [Alwyn Goodloe](https://shemesh.larc.nasa.gov/people/aeg/). We mechanized proofs in Rocq that guarantee correct behaviors behind a well-behaved implementation of a Software Defined Delay-Tolerant Network algorithm written in [P4](https://p4.org/) for [NASA's Interplanetary Overlay Network framework](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/interplanetary-overlay-network/). These guarantees are then provided to the user at the type level when written in our DSL, [NetQIR](https://popl25.sigplan.org/details/CoqPL-2025-papers/1/Formal-Verification-of-a-Software-Defined-Delay-Tolerant-Network), which compiles a subset of P4 to our verified representation for machine checking.
 
 <u>Gradual Verification</u>: I'm a 2× [CMU REUSE](https://www.cmu.edu/scs/s3d/reuse/Research/index.html) alumni. I worked under the advisory of [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/) in developing a [Gradual Verifier](http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf), seeking to bridge the gap between static and dynamic verification. I worked on the first ever gradual verification tool -- [Gradual C0](https://arxiv.org/abs/2210.02428) -- and made use of gradual verification for [blockchain programming languages](https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts).
 
 <u>Calyx</u>: I worked with the  [Computer Architecture & Programming Abstractions group](https://capra.cs.cornell.edu/) at Cornell while advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/). I studied how to reason about modelling concurrency at the hardware-level for FPGA programming in [Calyx](https://calyxir.org/) using [symbolic execution and KATs](https://github.com/calyxir/calyx/issues/2278).
 
-## And "disorganized" projects:
+## "Disorganized" projects:
 <u>Plausibilistic type systems</u>: Qualitative notion of probabilistic type systems using [Halpern's plausibility measures](https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf) for a more generalized belief model enriched with default reasoning. Started playing around with this idea via [Sound Default-Typed Scheme](https://conf.researchr.org/details/icfp-splash-2025/scheme-2025-papers/10/Sound-Default-Typed-Scheme-Position-Paper-).
 
-> Interested in any of my ongoing research, past projects, or research philosophy? [Feel free to reach out](mailto:research@janpaul.pl)! I am also an active SIGPLAN community member, so you can probably catch me at any of the big-four SIGPLAN conferences.
+> Interested in any of my ongoing research, past projects, or research philosophy? [Feel free to reach out](mailto:research@janpaul.pl)! I'm also an active SIGPLAN community member, so you can probably catch me at any of the big-four SIGPLAN conferences.
 
 # Community
 I'm a member of the [Audio/Video team](https://www.sigplan.org/AV) for [SIGPLAN conferences](https://www.sigplan.org/Conferences/). While this is just volunteering work, we've come to put a considerable amount of time and effort into making conferences run as smoothly as possible! Feel free check out [SIGPLAN's official YouTube Channel](https://www.youtube.com/@acmsigplan) if you're interested in some *cool* PL videos.

@@ -171,16 +171,16 @@
         <hr />
         <ul class="profile-info-list">
           <li class="item">
-            <i class="ri-government-fill"></i><span>Boston University</span>
+            <i class="ri-government-fill"></i><span style="font-size: 1.0em;">Boston University</span>
           </li>
           <li class="item">
-            <i class="ri-building-fill"></i><span>Computer Science</span>
+            <i class="ri-building-fill"></i><span style="font-size: 1.0em;">Faculty of Computing & Data Sciences, 1002</span>
           </li>
           <li class="item">
-            <i class="ri-mail-fill"></i><span>mail [at] janpaul [dot] pl</span>
+            <i class="ri-map-pin-fill"></i><span style="font-size: 1.0em;">665 Commonwealth Ave, Boston, MA 02215</span>
           </li>
           <li class="item">
-            <i class="ri-mail-fill"></i><span>janpaul [at] bu [dot] edu</span>
+            <i class="ri-mail-fill"></i><span style="font-size: 1.0em;">janpaul [at] bu [dot] edu</span>
           </li>
         </ul>
         <hr />
@@ -190,36 +190,37 @@
 </div>
 <div class="flex-rendered">
   <h1 class="no-collapse" id="about">About</h1>
-<p>I’m pursuing a PhD in programming languages at Boston University as part of the <a href="https://www.bu.edu/cs/research-groups/popv/">POPV research group</a>, co-advised by <a href="https://ankushdas.github.io">Ankush Das</a> and <a href="https://cs-people.bu.edu/gaboardi/">Marco Gaboardi</a>. I did my undergrad at <a href="https://journals.library.cornell.edu/index.php/CURJ/article/view/696">Cornell University</a>, where I studied Computer Science and Philosophy.</p>
+<p>I’m a first-year PhD student in programming languages at Boston University, co-advised by <a href="https://ankushdas.github.io">Ankush Das</a> and <a href="https://cs-people.bu.edu/gaboardi/">Marco Gaboardi</a>. I’m affiliated with the <a href="https://www.bu.edu/cs/research-groups/popv/">POPV research group</a> and with <a href="https://nmmull.github.io/logic-bu/">Logic @ BU</a>, an interdisciplinary group spanning computer science, math, linguistics, and philosophy. I earned my BA from <a href="https://journals.library.cornell.edu/index.php/CURJ/article/view/696">Cornell University</a>, with a focus in Computer Science and Philosophy.</p>
 
-<p>You can find links to some of my hobbies in the navigation bar of this site. I enjoy <a href="https://janpaul.pl/photography.html">digital photography</a>, and am an aspiring amateur birder after being motivated by <a href="https://www.birds.cornell.edu/home/">Cornell’s Ornithology Lab</a>. I am also an avid enthusiast of 20th century history, with some favorite topics of interest being <a href="https://archive.org/details/nationnotrabblei0000ferr">Irish revolutionary history</a>, Polish shock therapy via the <a href="https://polishhistory.pl/the-balcerowicz-plan-an-economic-leap-into-the-unknown/">Balcerowicz Plan</a>, and the fall of <a href="https://origins.osu.edu/milestones/death-franco-spanish-civil-war">Francoist Spain</a>.</p>
+<p>You can find links to some of my hobbies in the navigation bar of this site. I enjoy <a href="https://janpaul.pl/photography.html">digital photography</a>, and am an aspiring amateur birder after being motivated by <a href="https://www.birds.cornell.edu/home/">Cornell’s Ornithology Lab</a>. I also have a strong interest in 20th-century history, with a particular focus on <a href="https://archive.org/details/nationnotrabblei0000ferr">Irish revolutionary history</a>, Poland’s economic transition via the <a href="https://polishhistory.pl/the-balcerowicz-plan-an-economic-leap-into-the-unknown/">Balcerowicz Plan</a>, and the fall of <a href="https://origins.osu.edu/milestones/death-franco-spanish-civil-war">Francoist Spain</a>.</p>
 
 <h1 id="research">Research</h1>
 
-<p>I am not convinced by the demanding workflow of current suite of languages that require manual work in a specification language on top of the implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don’t have the domain-specific expertise or the <em>time</em> to become reasonable proof engineers. <em>This has motivated my main interests: programming languages, formal methods for software engineering, and automated reasoning</em>.</p>
+<p>I find myself not convinced by the demanding instrumentation required in static analysis. That is, manually specifying verification constraints in a specification language on top of the program logic in an implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don’t have the domain-specific expertise to become reasonable proof engineers or <em>simply lack the time</em>. This challenge motivates my main research interests: programming language design, automated reasoning, and formal methods for software engineering.</p>
 
-<p>To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-<em>typed</em> and well-<em>constructed</em> programs imply well-<em>behaved</em> programs. I primarily make use of gradual, dependent/refinement, and probabilistic/plausibilistic types, in tandem with proof mining, automation, and repair.</p>
+<p>To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-<em>typed</em> programs imply well-<em>behaved</em> programs.</p>
 
-<h2 id="i-am-currently-working-on">I am currently working on:</h2>
+<h2 id="currently-working-on">Currently working on:</h2>
 
-<p><u>Gradual refinement types</u>: Generalizing <a href="https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf">Igarashi’s notion of gradual session types</a> to refinement types.</p>
+<p><u>Gradual types</u>: Generalizing <a href="https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf">Igarashi’s notion of gradual session types</a> to probabilistic refinement session types.</p>
 
-<p><u>Automatic type-based verification</u>: Automating refinement type systems with monadic effects with <a href="https://arxiv.org/pdf/1610.06768">Hiroshi’s Constraint Horne Clauses solver</a>.</p>
+<p><u>Continuous-time probabilistic types</u>: Instrumenting <a href="https://dl.acm.org/doi/10.1145/3729317">probabilistic refinement session programs</a> with a typed <a href="https://ankushdas.github.io/docs/icfp18.pdf">temporal analysis</a> for formalizing timing constraints via queueing theory.</p>
 
-<p><u>Type-based concurrency reasoning for hardware accelerators</u>: Using <a href="https://dl.acm.org/doi/10.1145/3649830">Inductive Diagrams for Causal Reasoning</a> as proof structures for formalizing parallelism in hardware. Joint work with <a href="https://rachitnigam.com/">Rachit Nigam at MIT</a>.</p>
+<p><u>Typed automated verification</u>: Automating verification of refinement type systems with monadic effects based on <a href="https://arxiv.org/pdf/1610.06768">Hiroshi’s constraint horne clauses solver</a>.</p>
 
-<h2 id="i-have-previously-worked-on">I have previously worked on:</h2>
+<h2 id="previously-worked-on">Previously worked on:</h2>
 <p><u>NetQIR</u>: I interned at <a href="https://shemesh.larc.nasa.gov/fm/index.html">NASA Langley’s Formal Methods Research Program</a> as part of the Safety-Critical Avionics Systems Branch under the advisory of <a href="https://shemesh.larc.nasa.gov/people/aeg/">Alwyn Goodloe</a>. We mechanized proofs in Rocq that guarantee correct behaviors behind a well-behaved implementation of a Software Defined Delay-Tolerant Network algorithm written in <a href="https://p4.org/">P4</a> for <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/interplanetary-overlay-network/">NASA’s Interplanetary Overlay Network framework</a>. These guarantees are then provided to the user at the type level when written in our DSL, <a href="https://popl25.sigplan.org/details/CoqPL-2025-papers/1/Formal-Verification-of-a-Software-Defined-Delay-Tolerant-Network">NetQIR</a>, which compiles a subset of P4 to our verified representation for machine checking.</p>
 
 <p><u>Gradual Verification</u>: I’m a 2× <a href="https://www.cmu.edu/scs/s3d/reuse/Research/index.html">CMU REUSE</a> alumni. I worked under the advisory of <a href="https://www.cs.cmu.edu/~aldrich/">Jonathan Aldrich</a> in developing a <a href="http://www.cs.cmu.edu/~aldrich/papers/vmcai2018-gradual-verification.pdf">Gradual Verifier</a>, seeking to bridge the gap between static and dynamic verification. I worked on the first ever gradual verification tool – <a href="https://arxiv.org/abs/2210.02428">Gradual C0</a> – and made use of gradual verification for <a href="https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts">blockchain programming languages</a>.</p>
 
 <p><u>Calyx</u>: I worked with the  <a href="https://capra.cs.cornell.edu/">Computer Architecture &amp; Programming Abstractions group</a> at Cornell while advised by <a href="https://www.cs.cornell.edu/~asampson/">Adrian Sampson</a>. I studied how to reason about modelling concurrency at the hardware-level for FPGA programming in <a href="https://calyxir.org/">Calyx</a> using <a href="https://github.com/calyxir/calyx/issues/2278">symbolic execution and KATs</a>.</p>
-<blockquote>
-  <p>Interested in any of my ongoing research, past projects, or research philosophy? <a href="mailto:research@janpaul.pl">Feel free to reach out</a>! I am also an active SIGPLAN community member, so you can probably catch me at any of the big-four SIGPLAN conferences.</p>
-</blockquote>
 
-<h2 id="and-some-random-projects">And some “random” projects:</h2>
-<p><u>Plausibilistic type systems</u>: Qualitative notion of probabilistic type systems (such as <a href="https://dl.acm.org/doi/10.1145/3729317">PReST</a>) using <a href="https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf">Halpern’s plausibility measures</a> for a more generalized belief model enriched with default reasoning. Started playing around with this idea via <a href="https://conf.researchr.org/details/icfp-splash-2025/scheme-2025-papers/10/Sound-Default-Typed-Scheme-Position-Paper-">Sound Default-Typed Scheme</a>.</p>
+<h2 id="disorganized-projects">“Disorganized” projects:</h2>
+<p><u>Plausibilistic type systems</u>: Qualitative notion of probabilistic type systems using <a href="https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf">Halpern’s plausibility measures</a> for a more generalized belief model enriched with default reasoning. Started playing around with this idea via <a href="https://conf.researchr.org/details/icfp-splash-2025/scheme-2025-papers/10/Sound-Default-Typed-Scheme-Position-Paper-">Sound Default-Typed Scheme</a>.</p>
+
+<blockquote>
+  <p>Interested in any of my ongoing research, past projects, or research philosophy? <a href="mailto:research@janpaul.pl">Feel free to reach out</a>! I’m also an active SIGPLAN community member, so you can probably catch me at any of the big-four SIGPLAN conferences.</p>
+</blockquote>
 
 <h1 id="community">Community</h1>
 <p>I’m a member of the <a href="https://www.sigplan.org/AV">Audio/Video team</a> for <a href="https://www.sigplan.org/Conferences/">SIGPLAN conferences</a>. While this is just volunteering work, we’ve come to put a considerable amount of time and effort into making conferences run as smoothly as possible! Feel free check out <a href="https://www.youtube.com/@acmsigplan">SIGPLAN’s official YouTube Channel</a> if you’re interested in some <em>cool</em> PL videos.</p>

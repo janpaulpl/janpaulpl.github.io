@@ -11,7 +11,7 @@ You can find links to some of my hobbies in the navigation bar of this site. I e
 
 # Research
 
-I find myself not convinced by the demanding workflow required by our current suite of languages. That is, doing manual work in a specification language on top of the implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming language design, type theory, and formal methods for software engineering*. 
+I find myself not convinced by the demanding workflow required in our current suite of languages. That is, doing manual work in a specification language on top of the implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise or the *time* to become reasonable proof engineers. *This has motivated my main interests: programming language design, type theory, and formal methods for software engineering*. 
 
 To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* programs imply well-*behaved* programs.
 

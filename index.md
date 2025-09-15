@@ -11,7 +11,7 @@ You can find links to some of my hobbies in the navigation bar of this site. I e
 
 # Research
 
-I find myself not convinced by the demanding instrumentation required in static analysis. That is, manually specifying verification constraints in a specification language on top of the program logic in an implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise to become reasonable proof engineers or *simply lack the time*. This challenge motivates my main research interests: programming language design, automated reasoning, and formal methods for software engineering.
+I find myself not convinced by the demanding instrumentation required in static analysis. That is, manually specifying verification constraints in a specification language on top of the program logic in an implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise to become reasonable proof engineers or *simply lack the time*. This challenge motivates my main research interests: programming language design, automated reasoning for formal methods, and network dataflow analysis.
 
 To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* programs imply well-*behaved* programs.
 
@@ -19,7 +19,7 @@ To address this issue, I develop type systems to guarantee behavioral soundness 
 
 <u>Gradual types</u>: Generalizing [Igarashi's notion of gradual session types](https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf) to probabilistic refinement session types.
 
-<u>Continuous-time probabilistic types</u>: Instrumenting [probabilistic refinement session programs](https://dl.acm.org/doi/10.1145/3729317) with a typed [temporal analysis](https://ankushdas.github.io/docs/icfp18.pdf) for formalizing timing constraints via queueing theory.
+<u>Continuous-time probabilistic types</u>: Instrumenting [probabilistic refinement session programs](https://dl.acm.org/doi/10.1145/3729317) with a typed [temporal analysis](https://ankushdas.github.io/docs/icfp18.pdf) for guaranteeing timing constraints in [distributed algorithms](https://research.google/pubs/maglev-a-fast-and-reliable-software-network-load-balancer/).
 
 <u>Typed automated verification</u>: Automating verification of refinement type systems with monadic effects based on [Hiroshi's constraint horne clauses solver](https://arxiv.org/pdf/1610.06768).
 

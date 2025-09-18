@@ -11,7 +11,7 @@ You can find links to some of my hobbies in the navigation bar of this site. I e
 
 # Research
 
-I find myself not convinced by the demanding instrumentation required in static analysis. That is, manually specifying verification constraints in a specification language on top of the program logic in an implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise to become reasonable proof engineers or *simply lack the time*. This challenge motivates my main research interests: programming language design, automated reasoning for formal methods, and network dataflow analysis.
+I find myself not convinced by the demanding instrumentation required in static analysis. That is, manually specifying verification constraints in a specification language on top of the program logic in an implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don't have the domain-specific expertise to become reasonable proof engineers or *simply lack the time*. This challenge motivates my main research interests: programming language design, automated reasoning for formal methods, and logic instrumented network dataflow analysis.
 
 To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-*typed* programs imply well-*behaved* programs.
 

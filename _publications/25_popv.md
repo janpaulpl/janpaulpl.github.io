@@ -4,7 +4,7 @@ authors: Jan-Paul Ramos-Dávila
 type:
 category: presentation
 conf: POPV
-in: "Principles of Programming and Verification seminar"
+in: "Principles of Programming and Verification Seminar at Boston University"
 year: 2025
 month: October
 dates: 1

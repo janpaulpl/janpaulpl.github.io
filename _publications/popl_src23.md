@@ -9,4 +9,5 @@ year: 2023
 month: January
 dates: 15—21
 video_link: https://www.youtube.com/watch?v=sIIwmw0z2Yg
+web_link: https://popl23.sigplan.org/track/POPL-2023-student-research-competition#About
 ---

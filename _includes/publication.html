@@ -48,6 +48,13 @@
             </a>
             {% endif %}
 
+            {% if include.pub.web_link != Nil %}
+            <a href="{{include.pub.web_link}}" class="pub-link-box">
+                <i class="pub-link ri-links-line"></i>
+                <p>Web</p>
+            </a>
+            {% endif %}
+
             {% if include.pub.code_link != Nil %}
             <a href="{{include.pub.code_link}}" class="pub-link-box">
                 <i class="pub-link ri-code-line"></i>

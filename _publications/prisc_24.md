@@ -8,4 +8,5 @@ in: "Workshop on Principles of Secure Compilation, co-located with POPL"
 year: 2024
 month: January
 dates: 20
+web_link: https://popl24.sigplan.org/details/prisc-2024-papers/2/Gradual-Verification-for-Smart-Contracts
 ---

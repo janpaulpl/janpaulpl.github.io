@@ -8,5 +8,5 @@ in: "Principles of Programming and Verification Seminar at Boston University"
 year: 2025
 month: October
 dates: 1
-video_link: https://www.bu.edu/cs/research-groups/popv/seminar/
+web_link: https://www.bu.edu/cs/research-groups/popv/seminar/
 ---

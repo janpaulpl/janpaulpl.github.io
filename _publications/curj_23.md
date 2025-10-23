@@ -9,4 +9,5 @@ year: 2(1)
 month: 
 dates: 
 pages: 17–27, 10.37513/curj.v2i1.696
+web_link: https://journals.library.cornell.edu/index.php/CURJ/article/view/696
 ---

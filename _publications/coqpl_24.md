@@ -10,4 +10,5 @@ month:
 dates: 
 pages:
 video_link: https://www.youtube.com/watch?v=ufXaANjc7r4
+web_link: https://popl25.sigplan.org/details/CoqPL-2025-papers/1/Formal-Verification-of-a-Software-Defined-Delay-Tolerant-Network
 ---

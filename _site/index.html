@@ -174,10 +174,10 @@
             <i class="ri-government-fill"></i><span style="font-size: 1.0em;">Boston University</span>
           </li>
           <li class="item">
-            <i class="ri-building-fill"></i><span style="font-size: 1.0em;">Faculty of Computing & Data Sciences, 1002</span>
+            <i class="ri-building-fill"></i><span style="font-size: 1.0em;">Computer Science Department</span>
           </li>
           <li class="item">
-            <i class="ri-map-pin-fill"></i><span style="font-size: 1.0em;">665 Commonwealth Ave, Boston, MA 02215</span>
+            <i class="ri-map-pin-fill"></i><span style="font-size: 1.0em;">Faculty of Computing & Data Sciences, 1002</span>
           </li>
           <li class="item">
             <i class="ri-mail-fill"></i><span style="font-size: 1.0em;">janpaul [at] bu [dot] edu</span>
@@ -196,15 +196,15 @@
 
 <h1 id="research">Research</h1>
 
-<p>I find myself not convinced by the demanding instrumentation required in static analysis. That is, manually specifying verification constraints in a specification language on top of the program logic in an implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don’t have the domain-specific expertise to become reasonable proof engineers or <em>simply lack the time</em>. This challenge motivates my main research interests: programming language design, automated reasoning, and formal methods for software engineering.</p>
+<p>I find myself not convinced by the demanding instrumentation required in static analysis. That is, manually specifying verification constraints in a specification language on top of the program logic in an implementation language. These offload the intellectual challenge of coming up with static guarantees to developers, many of whom either don’t have the domain-specific expertise to become reasonable proof engineers or simply lack the time. This challenge motivates my main research interests: <em>programming language design, automated reasoning for formal methods, and logic instrumented network dataflow analysis</em>.</p>
 
 <p>To address this issue, I develop type systems to guarantee behavioral soundness while easing/eliminating the need of directly specifying code behavior. I want to assure all well-<em>typed</em> programs imply well-<em>behaved</em> programs.</p>
 
 <h2 id="currently-working-on">Currently working on:</h2>
 
-<p><u>Gradual types</u>: Generalizing <a href="https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf">Igarashi’s notion of gradual session types</a> to probabilistic refinement session types.</p>
+<p><u>Gradual types</u>: Generalizing <a href="https://homepages.inf.ed.ac.uk/wadler/papers/gradsess/gradsess.pdf">Igarashi’s notion of gradual session types</a> to <a href="https://dl.acm.org/doi/10.1145/3729317">probabilistic refinement session types</a>.</p>
 
-<p><u>Continuous-time probabilistic types</u>: Instrumenting <a href="https://dl.acm.org/doi/10.1145/3729317">probabilistic refinement session programs</a> with a typed <a href="https://ankushdas.github.io/docs/icfp18.pdf">temporal analysis</a> for formalizing timing constraints via queueing theory.</p>
+<p><u>Continuous-time probabilistic types</u>: Instrumenting probabilistic refinement session programs with a typed <a href="https://ankushdas.github.io/docs/icfp18.pdf">temporal analysis</a> for guaranteeing timing constraints in <a href="https://research.google/pubs/maglev-a-fast-and-reliable-software-network-load-balancer/">distributed algorithms</a>.</p>
 
 <p><u>Typed automated verification</u>: Automating verification of refinement type systems with monadic effects based on <a href="https://arxiv.org/pdf/1610.06768">Hiroshi’s constraint horne clauses solver</a>.</p>
 
@@ -216,7 +216,7 @@
 <p><u>Calyx</u>: I worked with the  <a href="https://capra.cs.cornell.edu/">Computer Architecture &amp; Programming Abstractions group</a> at Cornell while advised by <a href="https://www.cs.cornell.edu/~asampson/">Adrian Sampson</a>. I studied how to reason about modelling concurrency at the hardware-level for FPGA programming in <a href="https://calyxir.org/">Calyx</a> using <a href="https://github.com/calyxir/calyx/issues/2278">symbolic execution and KATs</a>.</p>
 
 <h2 id="disorganized-projects">“Disorganized” projects:</h2>
-<p><u>Plausibilistic type systems</u>: Qualitative notion of probabilistic type systems using <a href="https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf">Halpern’s plausibility measures</a> for a more generalized belief model enriched with default reasoning. Started playing around with this idea via <a href="https://conf.researchr.org/details/icfp-splash-2025/scheme-2025-papers/10/Sound-Default-Typed-Scheme-Position-Paper-">Sound Default-Typed Scheme</a>.</p>
+<p><u>Plausibilistic type systems</u>: Qualitative notion of probabilistic type systems using <a href="https://www.cs.cornell.edu/home/halpern/papers/plaus.pdf">Halpern’s plausibility measures</a> for a more generalized belief model enriched with default reasoning (i.e. gradual types for probabilistic type systems). Started playing around with this idea via <a href="https://conf.researchr.org/details/icfp-splash-2025/scheme-2025-papers/10/Sound-Default-Typed-Scheme-Position-Paper-">Sound Default-Typed Scheme</a>.</p>
 
 <blockquote>
   <p>Interested in any of my ongoing research, past projects, or research philosophy? <a href="mailto:research@janpaul.pl">Feel free to reach out</a>! I’m also an active SIGPLAN community member, so you can probably catch me at any of the big-four SIGPLAN conferences.</p>

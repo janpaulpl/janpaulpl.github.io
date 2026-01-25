@@ -1,5 +1,5 @@
 org: "Boston University"
-suborg: "Computer Science Department"
+# suborg: "Computer Science Department"
 description: >- # this means to ignore newlines until "baseurl:"
 domain: "janpaul.pl"
 url: "https://janpaul.pl" # the base hostname & protocol for your site, e.g. http://example.com
